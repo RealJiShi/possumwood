@@ -1,0 +1,12 @@
+<map id="src/plugins/render/datatypes/uniforms.inl" name="src/plugins/render/datatypes/uniforms.inl">
+<area shape="rect" id="node2" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="5,95,148,136"/>
+<area shape="rect" id="node3" href="$datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="172,95,352,136"/>
+<area shape="rect" id="node4" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="377,95,515,136"/>
+<area shape="rect" id="node5" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="539,95,726,136"/>
+<area shape="rect" id="node6" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="750,95,947,136"/>
+<area shape="rect" id="node7" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="972,95,1195,136"/>
+<area shape="rect" id="node8" href="$unsigned_8cpp.html" title="src/plugins/render\l/nodes/uniforms/unsigned.cpp" alt="" coords="1219,95,1436,136"/>
+<area shape="rect" id="node9" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="1461,95,1650,136"/>
+<area shape="rect" id="node10" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="1675,95,1889,136"/>
+<area shape="rect" id="node11" href="$uniforms_8cpp.html" title="src/plugins/render\l/uniforms.cpp" alt="" coords="1914,95,2053,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_adapter&lt; CharType &gt;" name="possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_adapter&lt; CharType &gt;">
+<area shape="rect" id="node2" href="$classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html" title="putput adatpter for output streams " alt="" coords="391,5,587,61"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html" title="output adapter for basic_string " alt="" coords="391,85,587,141"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1io_1_1basic__json_1_1output__vector__adapter.html" title="output adapter for byte vectors " alt="" coords="391,165,587,221"/>
+</map>

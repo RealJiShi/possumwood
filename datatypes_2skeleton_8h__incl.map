@@ -1,0 +1,16 @@
+<map id="src/plugins/anim/datatypes/skeleton.h" name="src/plugins/anim/datatypes/skeleton.h">
+<area shape="rect" id="node6" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2326,95,2444,121"/>
+<area shape="rect" id="node39" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="2645,95,2738,121"/>
+<area shape="rect" id="node46" href="$transform_8h.html" title="transform.h" alt="" coords="3206,95,3305,121"/>
+<area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2226,319,2406,345"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2139,169,2236,196"/>
+<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1815,244,2014,271"/>
+<area shape="rect" id="node19" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2038,244,2212,271"/>
+<area shape="rect" id="node20" href="$json_8h.html" title="io/json.h" alt="" coords="1210,319,1288,345"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="2011,319,2074,345"/>
+<area shape="rect" id="node18" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1965,393,2069,420"/>
+<area shape="rect" id="node40" href="$children_8h.html" title="children.h" alt="" coords="1644,244,1731,271"/>
+<area shape="rect" id="node41" href="$attributes_8h.html" title="attributes.h" alt="" coords="2730,169,2827,196"/>
+<area shape="rect" id="node42" href="$attribute_8h.html" title="attribute.h" alt="" coords="2780,244,2870,271"/>
+<area shape="rect" id="node43" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="2830,319,2953,345"/>
+</map>

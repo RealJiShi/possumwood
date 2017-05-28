@@ -1,0 +1,24 @@
+<map id="src/libs/lightfields/pattern.h" name="src/libs/lightfields/pattern.h">
+<area shape="rect" id="node2" href="$samples_8h.html" title="src/libs/lightfields\l/samples.h" alt="" coords="1651,95,1787,136"/>
+<area shape="rect" id="node6" href="$lightfields_8h.html" title="src/plugins/opencv\l/lightfields.h" alt="" coords="1094,184,1237,225"/>
+<area shape="rect" id="node9" href="$vignetting__create_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_create.cpp" alt="" coords="847,377,1049,433"/>
+<area shape="rect" id="node11" href="$lytro__lightfield_8cpp.html" title="src/plugins/opencv\l/nodes/capture/lytro\l_lightfield.cpp" alt="" coords="29,273,181,329"/>
+<area shape="rect" id="node12" href="$adjust__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/adjust\l_pattern.cpp" alt="" coords="206,273,383,329"/>
+<area shape="rect" id="node14" href="$detect__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/detect\l_pattern.cpp" alt="" coords="408,273,587,329"/>
+<area shape="rect" id="node21" href="$samples__from__metadata_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/samples\l_from_metadata.cpp" alt="" coords="2363,273,2555,329"/>
+<area shape="rect" id="node22" href="$samples__refocus_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/samples\l_refocus.cpp" alt="" coords="2579,273,2771,329"/>
+<area shape="rect" id="node23" href="$pattern_8cpp.html" title="src/libs/lightfields\l/pattern.cpp" alt="" coords="2296,95,2432,136"/>
+<area shape="rect" id="node3" href="$gaussian__integration_8cpp.html" title="src/libs/lightfields\l/gaussian_integration.cpp" alt="" coords="1261,184,1451,225"/>
+<area shape="rect" id="node4" href="$nearest__integration_8cpp.html" title="src/libs/lightfields\l/nearest_integration.cpp" alt="" coords="1475,184,1655,225"/>
+<area shape="rect" id="node5" href="$samples_8cpp.html" title="src/libs/lightfields\l/samples.cpp" alt="" coords="1832,184,1968,225"/>
+<area shape="rect" id="node15" href="$draw__samples_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/draw\l_samples.cpp" alt="" coords="611,273,781,329"/>
+<area shape="rect" id="node16" href="$epi_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/epi.cpp" alt="" coords="1273,281,1457,322"/>
+<area shape="rect" id="node17" href="$integrate__bezier_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_bezier.cpp" alt="" coords="1482,273,1678,329"/>
+<area shape="rect" id="node18" href="$integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="1702,273,1898,329"/>
+<area shape="rect" id="node19" href="$integrate__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_mosaic.cpp" alt="" coords="1922,273,2118,329"/>
+<area shape="rect" id="node20" href="$integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="2142,273,2338,329"/>
+<area shape="rect" id="node7" href="$lightfield__vignetting_8h.html" title="src/plugins/opencv\l/lightfield_vignetting.h" alt="" coords="1081,281,1249,322"/>
+<area shape="rect" id="node13" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="805,281,1006,322"/>
+<area shape="rect" id="node8" href="$lightfield__vignetting_8cpp.html" title="src/plugins/opencv\l/lightfield_vignetting.cpp" alt="" coords="1074,385,1257,426"/>
+<area shape="rect" id="node10" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="1281,377,1484,433"/>
+</map>

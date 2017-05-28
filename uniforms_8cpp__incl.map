@@ -1,0 +1,19 @@
+<map id="src/plugins/render/uniforms.cpp" name="src/plugins/render/uniforms.cpp">
+<area shape="rect" id="node2" href="$uniforms_8h.html" title="uniforms.h" alt="" coords="1062,95,1154,121"/>
+<area shape="rect" id="node48" href="$uniforms_8inl.html" title="datatypes/uniforms.inl" alt="" coords="1413,95,1582,121"/>
+<area shape="rect" id="node3" href="$datatypes_2uniforms_8h.html" title="datatypes/uniforms.h" alt="" coords="983,169,1145,196"/>
+<area shape="rect" id="node11" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="999,244,1118,271"/>
+<area shape="rect" id="node40" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="1049,319,1263,345"/>
+<area shape="rect" id="node46" href="$texture_8h.html" title="texture.h" alt="" coords="313,244,394,271"/>
+<area shape="rect" id="node13" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1491,468,1671,495"/>
+<area shape="rect" id="node16" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="927,319,1025,345"/>
+<area shape="rect" id="node17" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="509,393,707,420"/>
+<area shape="rect" id="node22" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="732,393,905,420"/>
+<area shape="rect" id="node23" href="$json_8h.html" title="io/json.h" alt="" coords="1197,468,1275,495"/>
+<area shape="rect" id="node20" href="$data_8h.html" title="data.h" alt="" coords="523,468,586,495"/>
+<area shape="rect" id="node41" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="281,393,485,420"/>
+<area shape="rect" id="node43" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1299,468,1365,495"/>
+<area shape="rect" id="node44" href="$viewport__state_8h.html" title="viewport_state.h" alt="" coords="1697,393,1828,420"/>
+<area shape="rect" id="node42" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="331,468,397,495"/>
+<area shape="rect" id="node49" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="1872,393,1971,420"/>
+</map>

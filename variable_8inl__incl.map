@@ -1,0 +1,12 @@
+<map id="src/plugins/lua/datatypes/variable.inl" name="src/plugins/lua/datatypes/variable.inl">
+<area shape="rect" id="node2" href="$variable_8h.html" title="variable.h" alt="" coords="267,393,353,420"/>
+<area shape="rect" id="node7" href="$plugins_2lua_2datatypes_2state_8h.html" title="state.h" alt="" coords="747,95,814,121"/>
+<area shape="rect" id="node9" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1659,169,1777,196"/>
+<area shape="rect" id="node11" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="624,393,804,420"/>
+<area shape="rect" id="node13" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2177,244,2275,271"/>
+<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2363,319,2561,345"/>
+<area shape="rect" id="node21" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2586,319,2759,345"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="1615,393,1693,420"/>
+<area shape="rect" id="node18" href="$data_8h.html" title="data.h" alt="" coords="2641,393,2704,420"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2773,468,2877,495"/>
+</map>

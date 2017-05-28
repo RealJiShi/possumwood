@@ -1,0 +1,6 @@
+var structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308 =
+[
+    [ "CompatibleLimits", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html#ac83b64568a40d922b01ad80a84b5e844", null ],
+    [ "RealLimits", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html#a2afd399fc9ce189ec726507e12e252a2", null ],
+    [ "value", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html#a4017cc6e0bc147c0ef3a479e69141092", null ]
+];

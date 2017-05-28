@@ -1,0 +1,15 @@
+<map id="src/plugins/opencv/lightfield_vignetting.h" name="src/plugins/opencv/lightfield_vignetting.h">
+<area shape="rect" id="node4" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="609,169,728,196"/>
+<area shape="rect" id="node40" href="$lightfields_8h.html" title="lightfields.h" alt="" coords="2694,95,2793,121"/>
+<area shape="rect" id="node47" href="$bspline_8h.html" title="bspline.h" alt="" coords="2817,95,2899,121"/>
+<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="291,393,471,420"/>
+<area shape="rect" id="node10" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="509,244,607,271"/>
+<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="433,319,632,345"/>
+<area shape="rect" id="node19" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="706,319,879,345"/>
+<area shape="rect" id="node20" href="$json_8h.html" title="io/json.h" alt="" coords="1709,393,1786,420"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="761,393,824,420"/>
+<area shape="rect" id="node18" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="741,468,845,495"/>
+<area shape="rect" id="node41" href="$lightfields_2metadata_8h.html" title="lightfields/metadata.h" alt="" coords="1070,169,1235,196"/>
+<area shape="rect" id="node43" href="$samples_8h.html" title="lightfields/samples.h" alt="" coords="2665,319,2822,345"/>
+<area shape="rect" id="node44" href="$pattern_8h.html" title="pattern.h" alt="" coords="2999,393,3080,420"/>
+</map>

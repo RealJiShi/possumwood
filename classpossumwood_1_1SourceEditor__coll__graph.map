@@ -1,0 +1,6 @@
+<map id="possumwood::SourceEditor" name="possumwood::SourceEditor">
+<area shape="rect" id="node2" href="$classpossumwood_1_1Editor.html" title="A simple class allowing to edit a Node&#39;s values using a custom widget. " alt="" coords="5,179,160,206"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::string \&gt;" alt="" coords="184,172,373,213"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; std::string \&gt;" alt="" coords="171,81,386,123"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1Attr.html" title="dependency_graph::Attr" alt="" coords="190,5,367,32"/>
+</map>

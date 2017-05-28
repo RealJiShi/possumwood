@@ -1,0 +1,9 @@
+<map id="possumwood::BufferBase" name="possumwood::BufferBase">
+<area shape="rect" id="node3" href="$classpossumwood_1_1BufferTemplated.html" title="possumwood::BufferTemplated\l\&lt; double \&gt;" alt="" coords="413,5,635,47"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1BufferTemplated.html" title="possumwood::BufferTemplated\l\&lt; float \&gt;" alt="" coords="413,71,635,112"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1BufferTemplated.html" title="possumwood::BufferTemplated\l\&lt; int \&gt;" alt="" coords="413,136,635,177"/>
+<area shape="rect" id="node9" href="$classpossumwood_1_1BufferTemplated.html" title="A simple non&#45;copyable raw&#45;data container for OpenGL buffers. " alt="" coords="393,202,655,229"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1Buffer_3_01double_01_4.html" title="possumwood::Buffer\l\&lt; double \&gt;" alt="" coords="703,5,857,47"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1Buffer_3_01float_01_4.html" title="possumwood::Buffer\l\&lt; float \&gt;" alt="" coords="703,71,857,112"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1Buffer_3_01int_01_4.html" title="possumwood::Buffer\l\&lt; int \&gt;" alt="" coords="703,136,857,177"/>
+</map>

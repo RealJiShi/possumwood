@@ -1,0 +1,10 @@
+<map id="src/libs/actions/traits.cpp" name="src/libs/actions/traits.cpp">
+<area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="traits.h" alt="" coords="136,80,204,107"/>
+<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="258,304,438,331"/>
+<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="496,155,593,181"/>
+<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="513,229,712,256"/>
+<area shape="rect" id="node18" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="736,229,910,256"/>
+<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1752,304,1830,331"/>
+<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="770,304,833,331"/>
+<area shape="rect" id="node17" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="779,379,883,405"/>
+</map>

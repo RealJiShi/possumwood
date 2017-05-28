@@ -1,0 +1,8 @@
+<map id="src/plugins/anim/ui/motion_map.h" name="src/plugins/anim/ui/motion_map.h">
+<area shape="rect" id="node2" href="$create_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/create.cpp" alt="" coords="5,95,184,151"/>
+<area shape="rect" id="node3" href="$random__walk_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/random_walk.cpp" alt="" coords="208,95,387,151"/>
+<area shape="rect" id="node4" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="411,102,586,143"/>
+<area shape="rect" id="node5" href="$y__project_8cpp.html" title="src/plugins/anim/nodes\l/animation/trajectory\l/y_project.cpp" alt="" coords="610,95,782,151"/>
+<area shape="rect" id="node6" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="806,102,991,143"/>
+<area shape="rect" id="node7" href="$ui_2motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="1015,102,1161,143"/>
+</map>

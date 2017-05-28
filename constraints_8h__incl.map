@@ -1,0 +1,15 @@
+<map id="src/plugins/anim/datatypes/constraints.h" name="src/plugins/anim/datatypes/constraints.h">
+<area shape="rect" id="node7" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="367,102,486,129"/>
+<area shape="rect" id="node40" href="$channel_8h.html" title="constraints/channel.h" alt="" coords="2843,102,3005,129"/>
+<area shape="rect" id="node9" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="362,333,542,360"/>
+<area shape="rect" id="node13" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="557,184,654,211"/>
+<area shape="rect" id="node16" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="866,259,1065,285"/>
+<area shape="rect" id="node21" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="668,259,841,285"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="1775,333,1852,360"/>
+<area shape="rect" id="node18" href="$data_8h.html" title="data.h" alt="" coords="781,333,843,360"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="453,408,557,435"/>
+<area shape="rect" id="node41" href="$frames_8h.html" title="frames.h" alt="" coords="2884,184,2964,211"/>
+<area shape="rect" id="node46" href="$constraint_8h.html" title="constraint.h" alt="" coords="3005,184,3104,211"/>
+<area shape="rect" id="node42" href="$anim_2datatypes_2constraints_2frame_8h.html" title="frame.h" alt="" coords="2953,259,3026,285"/>
+<area shape="rect" id="node43" href="$transform_8h.html" title="datatypes/transform.h" alt="" coords="2981,333,3147,360"/>
+</map>

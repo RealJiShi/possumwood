@@ -1,0 +1,6 @@
+<map id="src/plugins/opencv/exif_sequence.h" name="src/plugins/opencv/exif_sequence.h">
+<area shape="rect" id="node2" href="$exif__sequence_8cpp.html" title="src/plugins/opencv\l/exif_sequence.cpp" alt="" coords="5,102,152,143"/>
+<area shape="rect" id="node3" href="$calibrate__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_debevec.cpp" alt="" coords="177,95,327,151"/>
+<area shape="rect" id="node4" href="$calibrate__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_robertson.cpp" alt="" coords="351,95,502,151"/>
+<area shape="rect" id="node5" href="$add__exif_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_exif.cpp" alt="" coords="526,95,685,151"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="src/plugins/anim/datatypes/filter.h" name="src/plugins/anim/datatypes/filter.h">
+<area shape="rect" id="node2" href="$filter_8cpp.html" title="src/plugins/anim/datatypes\l/filter.cpp" alt="" coords="178,184,377,225"/>
+<area shape="rect" id="node3" href="$datatypes_2motion__map_8h.html" title="src/plugins/anim/datatypes\l/motion_map.h" alt="" coords="401,95,599,136"/>
+<area shape="rect" id="node10" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="975,281,1161,322"/>
+<area shape="rect" id="node4" href="$datatypes_2motion__map_8cpp.html" title="src/plugins/anim/datatypes\l/motion_map.cpp" alt="" coords="401,184,599,225"/>
+<area shape="rect" id="node5" href="$ui_2motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="623,184,769,225"/>
+<area shape="rect" id="node6" href="$create_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/create.cpp" alt="" coords="5,273,184,329"/>
+<area shape="rect" id="node7" href="$random__walk_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/random_walk.cpp" alt="" coords="208,273,387,329"/>
+<area shape="rect" id="node8" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="411,281,586,322"/>
+<area shape="rect" id="node9" href="$y__project_8cpp.html" title="src/plugins/anim/nodes\l/animation/trajectory\l/y_project.cpp" alt="" coords="610,273,782,329"/>
+<area shape="rect" id="node11" href="$ui_2motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="806,281,951,322"/>
+</map>

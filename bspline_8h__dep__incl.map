@@ -1,0 +1,10 @@
+<map id="src/plugins/opencv/bspline.h" name="src/plugins/opencv/bspline.h">
+<area shape="rect" id="node2" href="$bspline_8inl.html" title="src/plugins/opencv\l/bspline.inl" alt="" coords="247,95,389,136"/>
+<area shape="rect" id="node6" href="$bspline__hierarchy_8h.html" title="src/plugins/opencv\l/bspline_hierarchy.h" alt="" coords="72,95,223,136"/>
+<area shape="rect" id="node7" href="$lightfield__vignetting_8h.html" title="src/plugins/opencv\l/lightfield_vignetting.h" alt="" coords="531,95,699,136"/>
+<area shape="rect" id="node3" href="$bspline__hierarchy_8cpp.html" title="src/plugins/opencv\l/bspline_hierarchy.cpp" alt="" coords="225,191,392,233"/>
+<area shape="rect" id="node4" href="$lightfield__vignetting_8cpp.html" title="src/plugins/opencv\l/lightfield_vignetting.cpp" alt="" coords="416,191,599,233"/>
+<area shape="rect" id="node5" href="$integrate__bezier_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_bezier.cpp" alt="" coords="5,184,201,240"/>
+<area shape="rect" id="node8" href="$vignetting__create_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_create.cpp" alt="" coords="850,184,1053,240"/>
+<area shape="rect" id="node9" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="623,184,826,240"/>
+</map>

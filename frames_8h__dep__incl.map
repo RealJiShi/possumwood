@@ -1,0 +1,11 @@
+<map id="src/plugins/anim/datatypes/constraints/frames.h" name="src/plugins/anim/datatypes/constraints/frames.h">
+<area shape="rect" id="node2" href="$channel_8h.html" title="src/plugins/anim/datatypes\l/constraints/channel.h" alt="" coords="299,95,497,136"/>
+<area shape="rect" id="node10" href="$frames_8cpp.html" title="src/plugins/anim/datatypes\l/constraints/frames.cpp" alt="" coords="521,95,720,136"/>
+<area shape="rect" id="node3" href="$channel_8cpp.html" title="src/plugins/anim/datatypes\l/constraints/channel.cpp" alt="" coords="188,184,387,225"/>
+<area shape="rect" id="node4" href="$constraints_8h.html" title="src/plugins/anim/datatypes\l/constraints.h" alt="" coords="411,184,609,225"/>
+<area shape="rect" id="node5" href="$constraints_8cpp.html" title="src/plugins/anim/datatypes\l/constraints.cpp" alt="" coords="5,281,204,322"/>
+<area shape="rect" id="node6" href="$detect__stationary_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/detect_stationary.cpp" alt="" coords="228,273,400,329"/>
+<area shape="rect" id="node7" href="$animation_2constraints_2display_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/display.cpp" alt="" coords="424,273,596,329"/>
+<area shape="rect" id="node8" href="$filter__median_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/filter_median.cpp" alt="" coords="620,273,792,329"/>
+<area shape="rect" id="node9" href="$animation_2constraints_2from__animation_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/from_animation.cpp" alt="" coords="816,273,988,329"/>
+</map>

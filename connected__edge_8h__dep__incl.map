@@ -1,0 +1,11 @@
+<map id="src/libs/qt_node_editor/connected_edge.h" name="src/libs/qt_node_editor/connected_edge.h">
+<area shape="rect" id="node2" href="$apps_2node__editor__sandbox_2main_8cpp.html" title="src/apps/node_editor\l_sandbox/main.cpp" alt="" coords="5,95,163,136"/>
+<area shape="rect" id="node3" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="187,95,354,136"/>
+<area shape="rect" id="node4" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="378,95,545,136"/>
+<area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="569,95,735,136"/>
+<area shape="rect" id="node6" href="$connected__edge_8cpp.html" title="src/libs/qt_node_editor\l/connected_edge.cpp" alt="" coords="759,95,929,136"/>
+<area shape="rect" id="node7" href="$graph__scene_8cpp.html" title="src/libs/qt_node_editor\l/graph_scene.cpp" alt="" coords="953,95,1122,136"/>
+<area shape="rect" id="node8" href="$graph__widget_8cpp.html" title="src/libs/qt_node_editor\l/graph_widget.cpp" alt="" coords="1146,95,1315,136"/>
+<area shape="rect" id="node9" href="$qt__node__editor_2node_8cpp.html" title="src/libs/qt_node_editor\l/node.cpp" alt="" coords="1339,95,1509,136"/>
+<area shape="rect" id="node10" href="$qt__node__editor_2port_8cpp.html" title="src/libs/qt_node_editor\l/port.cpp" alt="" coords="1533,95,1702,136"/>
+</map>

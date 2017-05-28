@@ -1,0 +1,4 @@
+var structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4 =
+[
+    [ "value", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4.html#a3a2fad31aa69fdb9319bce7f10ac37ff", null ]
+];

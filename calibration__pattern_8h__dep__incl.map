@@ -1,0 +1,7 @@
+<map id="src/plugins/opencv/calibration_pattern.h" name="src/plugins/opencv/calibration_pattern.h">
+<area shape="rect" id="node2" href="$calibration__pattern_8cpp.html" title="src/plugins/opencv\l/calibration_pattern.cpp" alt="" coords="5,102,181,143"/>
+<area shape="rect" id="node3" href="$calibrationPoints_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/calibration\lPoints.cpp" alt="" coords="205,95,416,151"/>
+<area shape="rect" id="node4" href="$createPattern_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/createPattern.cpp" alt="" coords="440,102,696,143"/>
+<area shape="rect" id="node5" href="$drawPattern_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/drawPattern.cpp" alt="" coords="721,102,967,143"/>
+<area shape="rect" id="node6" href="$findPattern_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/findPattern.cpp" alt="" coords="991,102,1230,143"/>
+</map>

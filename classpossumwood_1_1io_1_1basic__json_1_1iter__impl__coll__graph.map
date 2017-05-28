@@ -1,0 +1,4 @@
+<map id="possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;" name="possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;">
+<area shape="rect" id="node3" href="$structpossumwood_1_1io_1_1basic__json_1_1internal__iterator.html" title="an iterator value " alt="" coords="509,85,847,185"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1io_1_1basic__json_1_1primitive__iterator__t.html" title="an iterator for primitive JSON types " alt="" coords="5,85,343,185"/>
+</map>

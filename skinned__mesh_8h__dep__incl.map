@@ -1,0 +1,11 @@
+<map id="src/plugins/anim/datatypes/skinned_mesh.h" name="src/plugins/anim/datatypes/skinned_mesh.h">
+<area shape="rect" id="node2" href="$skinned__mesh_8cpp.html" title="src/plugins/anim/datatypes\l/skinned_mesh.cpp" alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/loaders/x.cpp" alt="" coords="228,95,400,136"/>
+<area shape="rect" id="node4" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="424,95,596,136"/>
+<area shape="rect" id="node5" href="$mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="620,95,792,136"/>
+<area shape="rect" id="node6" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/mesh/remove_unskinned.cpp" alt="" coords="816,95,1033,136"/>
+<area shape="rect" id="node7" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin.cpp" alt="" coords="1057,95,1229,136"/>
+<area shape="rect" id="node8" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="1253,95,1425,136"/>
+<area shape="rect" id="node9" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="1450,95,1663,136"/>
+<area shape="rect" id="node10" href="$subset_8cpp.html" title="src/plugins/anim/nodes\l/mesh/subset.cpp" alt="" coords="1688,95,1860,136"/>
+</map>

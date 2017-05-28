@@ -1,0 +1,8 @@
+<map id="src/libs/dependency_graph/detail.h" name="src/libs/dependency_graph/detail.h">
+<area shape="rect" id="node2" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="866,95,963,121"/>
+<area shape="rect" id="node21" href="$attr_8h.html" title="attr.h" alt="" coords="1191,177,1247,203"/>
+<area shape="rect" id="node11" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="881,177,948,203"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1125,259,1187,285"/>
+<area shape="rect" id="node23" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="709,177,806,203"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="885,333,989,360"/>
+</map>

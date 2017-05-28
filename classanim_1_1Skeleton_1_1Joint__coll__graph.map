@@ -1,0 +1,4 @@
+<map id="anim::Skeleton::Joint" name="anim::Skeleton::Joint">
+<area shape="rect" id="node2" href="$classanim_1_1Skeleton.html" title="anim::Skeleton" alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node3" href="$structanim_1_1Transform.html" title="a single rigid body transformation " alt="" coords="149,5,277,32"/>
+</map>

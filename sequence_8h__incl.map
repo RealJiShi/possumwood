@@ -1,0 +1,11 @@
+<map id="src/plugins/opencv/sequence.h" name="src/plugins/opencv/sequence.h">
+<area shape="rect" id="node6" href="$opencv_2frame_8h.html" title="frame.h" alt="" coords="2585,102,2658,129"/>
+<area shape="rect" id="node8" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2762,184,2881,211"/>
+<area shape="rect" id="node10" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2573,408,2753,435"/>
+<area shape="rect" id="node14" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1279,259,1377,285"/>
+<area shape="rect" id="node17" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="631,333,830,360"/>
+<area shape="rect" id="node23" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="433,333,607,360"/>
+<area shape="rect" id="node24" href="$json_8h.html" title="io/json.h" alt="" coords="1592,408,1669,435"/>
+<area shape="rect" id="node20" href="$data_8h.html" title="data.h" alt="" coords="489,408,551,435"/>
+<area shape="rect" id="node22" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="355,483,459,509"/>
+</map>

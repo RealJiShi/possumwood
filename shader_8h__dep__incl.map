@@ -1,0 +1,12 @@
+<map id="src/plugins/render/datatypes/shader.h" name="src/plugins/render/datatypes/shader.h">
+<area shape="rect" id="node2" href="$program_8h.html" title="src/plugins/render\l/datatypes/program.h" alt="" coords="279,95,442,136"/>
+<area shape="rect" id="node6" href="$shader_8cpp.html" title="src/plugins/render\l/datatypes/shader.cpp" alt="" coords="1053,95,1218,136"/>
+<area shape="rect" id="node7" href="$default__shaders_8h.html" title="src/plugins/render\l/default_shaders.h" alt="" coords="784,95,927,136"/>
+<area shape="rect" id="node9" href="$fragment__shader_8cpp.html" title="src/plugins/render\l/nodes/fragment_shader.cpp" alt="" coords="545,184,752,225"/>
+<area shape="rect" id="node10" href="$geometry__shader_8cpp.html" title="src/plugins/render\l/nodes/geometry_shader.cpp" alt="" coords="959,184,1168,225"/>
+<area shape="rect" id="node11" href="$vertex__shader_8cpp.html" title="src/plugins/render\l/nodes/vertex_shader.cpp" alt="" coords="1192,184,1380,225"/>
+<area shape="rect" id="node3" href="$datatypes_2program_8cpp.html" title="src/plugins/render\l/datatypes/program.cpp" alt="" coords="180,184,357,225"/>
+<area shape="rect" id="node4" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="382,184,521,225"/>
+<area shape="rect" id="node5" href="$nodes_2program_8cpp.html" title="src/plugins/render\l/nodes/program.cpp" alt="" coords="5,184,156,225"/>
+<area shape="rect" id="node8" href="$default__shaders_8cpp.html" title="src/plugins/render\l/default_shaders.cpp" alt="" coords="777,184,934,225"/>
+</map>

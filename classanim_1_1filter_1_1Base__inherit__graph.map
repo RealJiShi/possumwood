@@ -1,0 +1,4 @@
+<map id="anim::filter::Base" name="anim::filter::Base">
+<area shape="rect" id="node3" href="$classanim_1_1filter_1_1IgnoreIdentity.html" title="anim::filter::IgnoreIdentity" alt="" coords="5,155,197,181"/>
+<area shape="rect" id="node4" href="$classanim_1_1filter_1_1LinearTransition.html" title="anim::filter::LinearTransition" alt="" coords="222,155,426,181"/>
+</map>
