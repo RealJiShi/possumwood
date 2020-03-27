@@ -1,11 +1,9 @@
 <map id="src/libs/lightfields/integration.h" name="src/libs/lightfields/integration.h">
-<area shape="rect" id="node2" href="$nearest__integration_8h.html" title="src/libs/lightfields\l/nearest_integration.h" alt="" coords="268,95,433,136"/>
-<area shape="rect" id="node8" href="$gaussian__integration_8h.html" title="src/libs/lightfields\l/gaussian_integration.h" alt="" coords="677,95,851,136"/>
-<area shape="rect" id="node3" href="$depth_8h.html" title="src/libs/lightfields\l/depth.h" alt="" coords="49,191,185,233"/>
-<area shape="rect" id="node5" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="166,288,367,329"/>
-<area shape="rect" id="node6" href="$nearest__integration_8cpp.html" title="src/libs/lightfields\l/nearest_integration.cpp" alt="" coords="261,191,441,233"/>
-<area shape="rect" id="node7" href="$integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="465,184,661,240"/>
-<area shape="rect" id="node4" href="$libs_2lightfields_2depth_8cpp.html" title="src/libs/lightfields\l/depth.cpp" alt="" coords="5,288,141,329"/>
-<area shape="rect" id="node9" href="$gaussian__integration_8cpp.html" title="src/libs/lightfields\l/gaussian_integration.cpp" alt="" coords="736,191,925,233"/>
-<area shape="rect" id="node10" href="$integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="950,184,1146,240"/>
+<area shape="rect" id="node2" href="$gaussian__integration_8h.html" title="src/libs/lightfields\l/gaussian_integration.h" alt="" coords="349,95,523,136"/>
+<area shape="rect" id="node6" href="$nearest__integration_8h.html" title="src/libs/lightfields\l/nearest_integration.h" alt="" coords="561,95,727,136"/>
+<area shape="rect" id="node3" href="$gaussian__integration_8cpp.html" title="src/libs/lightfields\l/gaussian_integration.cpp" alt="" coords="5,191,195,233"/>
+<area shape="rect" id="node4" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="439,191,641,233"/>
+<area shape="rect" id="node5" href="$integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="219,184,415,240"/>
+<area shape="rect" id="node7" href="$nearest__integration_8cpp.html" title="src/libs/lightfields\l/nearest_integration.cpp" alt="" coords="665,191,845,233"/>
+<area shape="rect" id="node8" href="$integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="869,184,1065,240"/>
 </map>

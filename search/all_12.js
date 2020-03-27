@@ -47,7 +47,6 @@ var searchData=
   ['resize',['resize',['../classpossumwood_1_1ViewportState.html#a838ccaf9c2674b5d1059f5a5a3ec1e22',1,'possumwood::ViewportState::resize()'],['../structpossumwood_1_1polymesh_1_1ArrayBase.html#ae03f4f39b5617c88fd606eaa49ba20cc',1,'possumwood::polymesh::ArrayBase::resize()'],['../classpossumwood_1_1polymesh_1_1Array.html#a4b72b8bc9fc6937a56227d154004c7e5',1,'possumwood::polymesh::Array::resize()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a50b5fbc7d59b12240b613e6c7cbcdae1',1,'possumwood::polymesh::GenericBase::resize()']]],
   ['resize_2ecpp',['resize.cpp',['../resize_8cpp.html',1,'']]],
   ['resizegl',['resizeGL',['../classViewport.html#abc211b07c8fb075cd24a3d9e55666aae',1,'Viewport']]],
-  ['result',['Result',['../structlightfields_1_1Depth_1_1Result.html',1,'lightfields::Depth']]],
   ['result_5ftype',['result_type',['../classpossumwood_1_1properties_1_1property.html#acae2b258b85273a35418eda93f87a4cc',1,'possumwood::properties::property']]],
   ['retime_2ecpp',['retime.cpp',['../retime_8cpp.html',1,'']]],
   ['reverse_5fiterator',['reverse_iterator',['../classpossumwood_1_1io_1_1basic__json.html#a115bf37935645d9c04cdac9729561aef',1,'possumwood::io::basic_json']]],

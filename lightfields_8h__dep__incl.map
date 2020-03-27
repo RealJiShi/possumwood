@@ -3,7 +3,7 @@
 <area shape="rect" id="node4" href="$vignetting__create_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_create.cpp" alt="" coords="439,199,642,255"/>
 <area shape="rect" id="node6" href="$lytro__lightfield_8cpp.html" title="src/plugins/opencv\l/nodes/capture/lytro\l_lightfield.cpp" alt="" coords="551,95,703,151"/>
 <area shape="rect" id="node7" href="$adjust__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/adjust\l_pattern.cpp" alt="" coords="728,95,905,151"/>
-<area shape="rect" id="node8" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="929,102,1131,143"/>
+<area shape="rect" id="node8" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="929,102,1131,143"/>
 <area shape="rect" id="node9" href="$detect__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/detect\l_pattern.cpp" alt="" coords="1155,95,1334,151"/>
 <area shape="rect" id="node10" href="$draw__samples_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/draw\l_samples.cpp" alt="" coords="1359,95,1528,151"/>
 <area shape="rect" id="node11" href="$epi_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/epi.cpp" alt="" coords="1553,102,1737,143"/>

@@ -5,7 +5,7 @@
 <area shape="rect" id="node5" href="$merge__mertens_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_mertens.cpp" alt="" coords="603,102,827,143"/>
 <area shape="rect" id="node6" href="$merge__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_robertson.cpp" alt="" coords="851,102,1083,143"/>
 <area shape="rect" id="node7" href="$confidence_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/confidence.cpp" alt="" coords="1107,102,1342,143"/>
-<area shape="rect" id="node8" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="1367,102,1568,143"/>
+<area shape="rect" id="node8" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="1367,102,1568,143"/>
 <area shape="rect" id="node9" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="1593,95,1742,151"/>
 <area shape="rect" id="node10" href="$add__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_frame.cpp" alt="" coords="1767,95,1925,151"/>
 <area shape="rect" id="node11" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="1950,102,2161,143"/>

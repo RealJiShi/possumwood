@@ -47,5 +47,5 @@
 <area shape="rect" id="node14" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="2912,370,3087,411"/>
 <area shape="rect" id="node15" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="3111,370,3344,411"/>
 <area shape="rect" id="node16" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="2059,370,2265,411"/>
-<area shape="rect" id="node34" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="2289,370,2491,411"/>
+<area shape="rect" id="node34" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="2289,370,2491,411"/>
 </map>
