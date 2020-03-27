@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"plugins_2opencv_2tools_8cpp.html#a2b183a41b3cd66857c2bbc81db19437d":[3,0,0,2,5,26,0],
 "plugins_2opencv_2tools_8h.html":[3,0,0,2,5,27],
 "plugins_2opencv_2tools_8h.html#a2b183a41b3cd66857c2bbc81db19437d":[3,0,0,2,5,27,0],
 "plugins_2opencv_2tools_8h_source.html":[3,0,0,2,5,27],
@@ -39,6 +40,7 @@ var NAVTREEINDEX17 =
 "possumwood__sdk_2metadata_8h.html":[3,0,0,1,3,25],
 "possumwood__sdk_2metadata_8h_source.html":[3,0,0,1,3,25],
 "possumwood__sdk_2metadata_8inl.html":[3,0,0,1,3,26],
+"pow_8cpp.html":[3,0,0,2,5,0,39],
 "program_8h.html":[3,0,0,2,7,0,7],
 "program_8h.html#a90b7868c43f6305a9ec79cef988802b6":[3,0,0,2,7,0,7,2],
 "program_8h_source.html":[3,0,0,2,7,0,7],
@@ -87,7 +89,7 @@ var NAVTREEINDEX17 =
 "render__context_8h.html":[3,0,0,0,2,8],
 "render__context_8h.html#abad5ea874b73fa802c9ac0f5488bf9b5":[3,0,0,0,2,8,1],
 "render__context_8h_source.html":[3,0,0,0,2,8],
-"resize_8cpp.html":[3,0,0,2,5,0,38],
+"resize_8cpp.html":[3,0,0,2,5,0,40],
 "retime_8cpp.html":[3,0,0,2,0,1,0,4],
 "rtti_8cpp.html":[3,0,0,1,1,40],
 "rtti_8cpp.html#a4989451f8b2a3f805852c1c0d7041720":[3,0,0,1,1,40,1],
@@ -119,6 +121,7 @@ var NAVTREEINDEX17 =
 "sequence_2multiply_8cpp.html":[3,0,0,2,5,0,10,5],
 "sequence_2normalize_8cpp.html":[3,0,0,2,5,0,10,6],
 "sequence_2normalize_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911":[3,0,0,2,5,0,10,6,0],
+"sequence_2pow_8cpp.html":[3,0,0,2,5,0,10,7],
 "sequence_8cpp.html":[3,0,0,2,5,24],
 "sequence_8cpp.html#a61d60cb004d3e515bf497fcb81a25384":[3,0,0,2,5,24,0],
 "sequence_8h.html":[3,0,0,2,5,25],
@@ -145,7 +148,7 @@ var NAVTREEINDEX17 =
 "source__editor_8cpp.html":[3,0,0,1,3,32],
 "source__editor_8h.html":[3,0,0,1,3,33],
 "source__editor_8h_source.html":[3,0,0,1,3,33],
-"split_8cpp.html":[3,0,0,2,5,0,39],
+"split_8cpp.html":[3,0,0,2,5,0,41],
 "split__vec2_8cpp.html":[3,0,0,2,4,1,6],
 "split__vec3_8cpp.html":[3,0,0,2,4,1,7],
 "st__graphcut_8cpp.html":[3,0,0,2,5,0,7,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX17 =
 "structdependency__graph_1_1Connections_1_1PortId.html#a306387b55e69a41383373d0baa94eb37":[2,0,1,4,0,2],
 "structdependency__graph_1_1Connections_1_1PortId.html#a94a742b7a9d4d093589f2f257b6bf5a0":[2,0,1,4,0,1],
 "structdependency__graph_1_1Connections_1_1PortId.html#a9e0c5bde5c4d0a02d47e9c6fd0f59b9f":[2,0,1,4,0,3],
-"structdependency__graph_1_1DataTraits.html":[2,0,1,7],
-"structdependency__graph_1_1DataTraits.html#aa399e3f4ee6541fae610e772cf360d59":[2,0,1,7,0],
-"structdependency__graph_1_1DataTraits.html#aa8c9f5f37691ef1a81b5e2970f0fafc0":[2,0,1,7,1],
-"structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html":[2,0,1,8]
+"structdependency__graph_1_1DataTraits.html":[2,0,1,7]
 };

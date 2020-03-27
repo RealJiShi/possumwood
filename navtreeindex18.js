@@ -1,5 +1,8 @@
 var NAVTREEINDEX18 =
 {
+"structdependency__graph_1_1DataTraits.html#aa399e3f4ee6541fae610e772cf360d59":[2,0,1,7,0],
+"structdependency__graph_1_1DataTraits.html#aa8c9f5f37691ef1a81b5e2970f0fafc0":[2,0,1,7,1],
+"structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html":[2,0,1,8],
 "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html#a865637bce1fd651826fa4990d7f14f94":[2,0,1,8,0],
 "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html#ad79485f5511dcfec93fb1084fc031173":[2,0,1,8,1],
 "structdependency__graph_1_1Data_1_1Factory.html":[2,0,1,5,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX18 =
 "structpossumwood_1_1Traits_3_01FragmentShader_01_4.html#a5c69aaa1d79e74821d7566ed3dab4a59":[2,0,5,77,0],
 "structpossumwood_1_1Traits_3_01GeometryShader_01_4.html":[2,0,5,78],
 "structpossumwood_1_1Traits_3_01GeometryShader_01_4.html#a976f426dd7657dc4046bcdb79c048b99":[2,0,5,78,0],
-"structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01float_01_4_01_4.html":[2,0,5,79],
-"structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01float_01_4_01_4.html#a5f3b4c68ba290f6dbbda85007f1b2856":[2,0,5,79,0],
-"structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01float_01_4_01_4.html#a87d8676517118c88baecdaa42f6cb344":[2,0,5,79,1],
-"structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01int_01_4_01_4.html":[2,0,5,80]
+"structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01float_01_4_01_4.html":[2,0,5,79]
 };

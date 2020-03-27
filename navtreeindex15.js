@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"generic__base_8inl.html":[3,0,0,2,6,7],
 "generic__container_8cpp.html":[3,0,0,2,6,8],
 "generic__container_8h.html":[3,0,0,2,6,9],
 "generic__container_8h_source.html":[3,0,0,2,6,9],
@@ -74,9 +75,9 @@ var NAVTREEINDEX15 =
 "influences_8cpp.html#ab37437287a5110493ecd000e11308269":[3,0,0,3,1,9,1],
 "inject_8h.html":[3,0,0,2,3,1,3],
 "inject_8h_source.html":[3,0,0,2,3,1,3],
-"inpaint_8cpp.html":[3,0,0,2,5,0,29],
-"inpaint__laplacian_8cpp.html":[3,0,0,2,5,0,30],
-"inpaint__laplacian_8cpp.html#aa69893f50bcb8cec4064f6bc1017497f":[3,0,0,2,5,0,30,0],
+"inpaint_8cpp.html":[3,0,0,2,5,0,30],
+"inpaint__laplacian_8cpp.html":[3,0,0,2,5,0,31],
+"inpaint__laplacian_8cpp.html#aa69893f50bcb8cec4064f6bc1017497f":[3,0,0,2,5,0,31,0],
 "input_8cpp.html":[3,0,0,1,3,1,1],
 "int__ui_8cpp.html":[3,0,0,2,4,2,4],
 "int__ui_8h.html":[3,0,0,2,4,2,5],
@@ -164,7 +165,7 @@ var NAVTREEINDEX15 =
 "labels_8cpp.html":[3,0,0,1,2,18],
 "labels_8h.html":[3,0,0,1,2,19],
 "labels_8h_source.html":[3,0,0,1,2,19],
-"laplacian__smoothness_8cpp.html":[3,0,0,2,5,0,31],
+"laplacian__smoothness_8cpp.html":[3,0,0,2,5,0,32],
 "lenslet__graph_8cpp.html":[3,0,0,1,2,20],
 "lenslet__graph_8cpp.html#a28305710202d1824ace361a5ef4827b7":[3,0,0,1,2,20,2],
 "lenslet__graph_8cpp.html#a5e01c7feb7c8edd21472dc7d5d24dd24":[3,0,0,1,2,20,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "libs_2possumwood__sdk_2metadata_8cpp.html#a9334dc3154a459b98c3fd80de9d7d50d":[3,0,0,1,3,24,0],
 "libs_2possumwood__sdk_2nodes_2frame_8cpp.html":[3,0,0,1,3,1,0],
 "libs_2possumwood__sdk_2properties_2property_8cpp.html":[3,0,0,1,3,2,3],
-"libs_2possumwood__sdk_2properties_2property_8h.html":[3,0,0,1,3,2,4],
-"libs_2possumwood__sdk_2properties_2property_8h_source.html":[3,0,0,1,3,2,4]
+"libs_2possumwood__sdk_2properties_2property_8h.html":[3,0,0,1,3,2,4]
 };
