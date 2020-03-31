@@ -1,5 +1,8 @@
 var NAVTREEINDEX19 =
 {
+"structpossumwood_1_1Texture_1_1Format.html#ad56f14d3bc48f96da3295695cfb4e309":[2,0,5,64,0,2],
+"structpossumwood_1_1Texture_1_1Format.html#adc07a4f0173e10c5da068eb64fda782b":[2,0,5,64,0,3],
+"structpossumwood_1_1Traits.html":[2,0,5,65],
 "structpossumwood_1_1Traits_3_01Enum_01_4.html":[2,0,5,74],
 "structpossumwood_1_1Traits_3_01Enum_01_4.html#a4386fc0db74011a0f4b3edfaab2bfa88":[2,0,5,74,0],
 "structpossumwood_1_1Traits_3_01Enum_01_4.html#ab3a24b7b178d11e6da8d03767e49549b":[2,0,5,74,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX19 =
 "structpossumwood_1_1lua_1_1Extract_1_1Params.html#a0818e585b8298b45b2e09605fe06f771":[2,0,5,3,1,0,0],
 "structpossumwood_1_1lua_1_1Extract_1_1Params.html#acc91949c592fc68a1157410efed779d3":[2,0,5,3,1,0,2],
 "structpossumwood_1_1lua_1_1Inject.html":[2,0,5,3,2],
-"structpossumwood_1_1lua_1_1Inject.html#a3411b96b627ff60ea1b8e9ee51295cf9":[2,0,5,3,2,0],
-"structpossumwood_1_1lua_1_1Inject.html#a3effcab4f7c3b836b1061932d6736ed8":[2,0,5,3,2,5],
-"structpossumwood_1_1lua_1_1Inject.html#a4cccc69de988e78835893332399fff95":[2,0,5,3,2,2],
-"structpossumwood_1_1lua_1_1Inject.html#a58e87ba994767fcdc266e738f0c3a07f":[2,0,5,3,2,4]
+"structpossumwood_1_1lua_1_1Inject.html#a3411b96b627ff60ea1b8e9ee51295cf9":[2,0,5,3,2,0]
 };

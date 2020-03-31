@@ -13,5 +13,6 @@
 <area shape="rect" id="node13" href="$max__index_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/max\l_index.cpp" alt="" coords="2365,95,2529,151"/>
 <area shape="rect" id="node14" href="$sequence_2multiply_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/multiply.cpp" alt="" coords="2553,102,2768,143"/>
 <area shape="rect" id="node15" href="$sequence_2normalize_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/normalize.cpp" alt="" coords="2793,102,3019,143"/>
-<area shape="rect" id="node16" href="$sequence_8cpp.html" title="src/plugins/opencv\l/sequence.cpp" alt="" coords="3044,102,3187,143"/>
+<area shape="rect" id="node16" href="$sequence_2pow_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pow.cpp" alt="" coords="3044,102,3232,143"/>
+<area shape="rect" id="node17" href="$sequence_8cpp.html" title="src/plugins/opencv\l/sequence.cpp" alt="" coords="3256,102,3399,143"/>
 </map>
