@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classanim_1_1Polygons.html#a7415bd66e4bc492650252b585020d2b6":[2,0,0,18,0],
 "classanim_1_1Polygons.html#aaa33921dc51d4d02a96522140e7ce0de":[2,0,0,18,7],
 "classanim_1_1Polygons.html#abbe4749a6569f3667e3733041058382c":[2,0,0,18,4],
 "classanim_1_1Polygons.html#ac18df3d177c723d6a8b02423565480b9":[2,0,0,18,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classanim_1_1metric_1_1Base.html#ab8db3f8434f27e675d977d1506e7107a":[2,0,0,2,0,1],
 "classanim_1_1metric_1_1Base.html#ad2d0368b55f3988964b5f4026264ffab":[2,0,0,2,0,0],
 "classanim_1_1metric_1_1LocalAngle.html":[2,0,0,2,1],
-"classanim_1_1metric_1_1LocalAngle.html#a622a85fc3c603df5211fcd1227cf32b1":[2,0,0,2,1,1],
-"classanim_1_1metric_1_1LocalAngle.html#acd8715f47854df550c2f9d1d9ba3dc4c":[2,0,0,2,1,0]
+"classanim_1_1metric_1_1LocalAngle.html#a622a85fc3c603df5211fcd1227cf32b1":[2,0,0,2,1,1]
 };

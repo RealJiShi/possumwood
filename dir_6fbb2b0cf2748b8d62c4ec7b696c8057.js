@@ -11,6 +11,7 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "optical_flow", "dir_6023f536e5446e77bc13a1071bd8b0fd.html", "dir_6023f536e5446e77bc13a1071bd8b0fd" ],
     [ "random", "dir_5680d59d760539bb24df6e72bff8d6cf.html", "dir_5680d59d760539bb24df6e72bff8d6cf" ],
     [ "sequence", "dir_701a900c01c439cf9387cffa2c43ed91.html", "dir_701a900c01c439cf9387cffa2c43ed91" ],
+    [ "abs.cpp", "abs_8cpp.html", null ],
     [ "adaptive_threshold.cpp", "adaptive__threshold_8cpp.html", null ],
     [ "add.cpp", "opencv_2nodes_2add_8cpp.html", null ],
     [ "blend.cpp", "blend_8cpp.html", null ],

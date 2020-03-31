@@ -1,5 +1,9 @@
 var searchData=
 [
+  ['k24shaped',['k24Shaped',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4a32e8808c1ca368616f170f64e7f65e6c',1,'possumwood::opencv']]],
+  ['k4cross',['k4Cross',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4ae6fa67c7fe0037e22b63bddc95d7067b',1,'possumwood::opencv']]],
+  ['k8shaped',['k8Shaped',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4a8ec63cc301558e99268d10eefc10d572',1,'possumwood::opencv']]],
+  ['k8uniform',['k8Uniform',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4a4ae6adad6212fc17ea5e2d73cd939b96',1,'possumwood::opencv']]],
   ['kasymmetriccirclesgrid',['kAsymmetricCirclesGrid',['../classpossumwood_1_1opencv_1_1CalibrationPattern.html#a5f6714b476fffd416743d084eac7966eaa96c79e751bc2eda8281ef0dffb9a8e2',1,'possumwood::opencv::CalibrationPattern']]],
   ['kbgr',['kBGR',['../classpossumwood_1_1Texture.html#a6cb3d83139fd95cb61c1aedf8e972018a34e96ba81c6529a64a51242380aa75bf',1,'possumwood::Texture']]],
   ['kblue',['kBlue',['../classlightfields_1_1Samples.html#abd6cb7aeb47282aa093eab1be1054324ae2553d452207e89fc14c9e8cf835a25b',1,'lightfields::Samples']]],

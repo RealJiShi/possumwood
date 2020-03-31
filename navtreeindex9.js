@@ -1,10 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"classpossumwood_1_1ScopedEnable.html#aa6445a9b300c7a3a106605f86b8b33e1":[2,0,5,61,0],
-"classpossumwood_1_1ScopedEnable.html#aac42a2577d27c5d4a614b70a555038f7":[2,0,5,61,1],
-"classpossumwood_1_1ScopedEnable.html#ad803e0eea0c80fddd68fe518c98118e4":[2,0,5,61,2],
-"classpossumwood_1_1Shader.html":[2,0,5,62],
-"classpossumwood_1_1Shader.html#a18fd30eaa1783782527a54c1ab1a899d":[2,0,5,62,5],
 "classpossumwood_1_1Shader.html#a1cb56b3f218b3b5c42bbd4f0808f904c":[2,0,5,62,4],
 "classpossumwood_1_1Shader.html#a25ee40f14d217a32989d8bf46f615353":[2,0,5,62,8],
 "classpossumwood_1_1Shader.html#a41851e3d7e244738aed7732bf2af36ec":[2,0,5,62,9],
@@ -249,5 +244,10 @@ var NAVTREEINDEX9 =
 "classpossumwood_1_1io_1_1basic__json.html#a82c41449d89f6c01d52e9760620f71fa":[2,0,5,2,2,136],
 "classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043b":[2,0,5,2,2,50],
 "classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043ba2063c1608d6e0baf80249c42e2be5804":[2,0,5,2,2,50,5],
-"classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043ba3c6e0b8a9c15224a8228b9a98ca1531d":[2,0,5,2,2,50,4]
+"classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043ba3c6e0b8a9c15224a8228b9a98ca1531d":[2,0,5,2,2,50,4],
+"classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043ba49642fb732aa2e112188fba1f9d3ef7f":[2,0,5,2,2,50,3],
+"classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043baa4388a3d92419edbb1c6efd4d52461f3":[2,0,5,2,2,50,2],
+"classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043bae73f17027cb0acbb537f29d0a6944b26":[2,0,5,2,2,50,0],
+"classpossumwood_1_1io_1_1basic__json.html#a83bdd1c3bb13b47cc7ce86bad3a8043baf63e2a2468a37aa4f394fcc3bcb8249c":[2,0,5,2,2,50,1],
+"classpossumwood_1_1io_1_1basic__json.html#a853ab82a9397a457e7dffd8e74deb44d":[2,0,5,2,2,65]
 };

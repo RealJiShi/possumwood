@@ -45,7 +45,7 @@
 <area shape="rect" id="node30" href="$camera__response_8h.html" title="src/plugins/opencv\l/camera_response.h" alt="" coords="1343,363,1496,404"/>
 <area shape="rect" id="node31" href="$exif_8h.html" title="src/plugins/opencv\l/exif.h" alt="" coords="1520,363,1663,404"/>
 <area shape="rect" id="node32" href="$opencv_2frame_8h.html" title="src/plugins/opencv\l/frame.h" alt="" coords="1687,363,1829,404"/>
-<area shape="rect" id="node33" href="$opencv_2nodes_2add_8cpp.html" title="src/plugins/opencv\l/nodes/add.cpp" alt="" coords="1741,452,1884,493"/>
+<area shape="rect" id="node33" href="$abs_8cpp.html" title="src/plugins/opencv\l/nodes/abs.cpp" alt="" coords="1741,452,1884,493"/>
 <area shape="rect" id="node34" href="$lightfield__vignetting_8h.html" title="src/plugins/opencv\l/lightfield_vignetting.h" alt="" coords="61,452,229,493"/>
 <area shape="rect" id="node35" href="$lightfields_8h.html" title="src/plugins/opencv\l/lightfields.h" alt="" coords="227,363,369,404"/>
 </map>

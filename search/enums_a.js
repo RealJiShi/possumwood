@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['value_5ft',['value_t',['../namespacepossumwood_1_1io_1_1detail.html#aa40554911e67592dfc384f43766fd4be',1,'possumwood::io::detail']]]
+  ['updatetype',['UpdateType',['../classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e',1,'possumwood::Uniforms::UpdateType()'],['../classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf',1,'possumwood::VertexData::UpdateType()']]]
 ];

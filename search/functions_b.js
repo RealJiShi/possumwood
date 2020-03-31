@@ -2,6 +2,8 @@ var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
   ['labels',['Labels',['../classlightfields_1_1Labels.html#ab29a801cbab2396f4f8fa1cb0541f0f8',1,'lightfields::Labels']]],
+  ['laplacian',['laplacian',['../namespacepossumwood_1_1opencv.html#a299186614385171e0f219eecd5f9e08b',1,'possumwood::opencv']]],
+  ['laplaciankernels',['laplacianKernels',['../namespacepossumwood_1_1opencv.html#a49e19715fe87f0911a3148a6cee008af',1,'possumwood::opencv']]],
   ['layercount',['layerCount',['../classlightfields_1_1Grid.html#a76c3b65c1e71378ff49292ab69fab224',1,'lightfields::Grid']]],
   ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html#a9371a4642e7a50966c693caa808e9510',1,'lightfields::LensletGraph::LensletGraph(Imath::V2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
   ['lenspitch',['lensPitch',['../classlightfields_1_1LensletGraph.html#a8fae737ab00465d7ba587fc4c5f21f2c',1,'lightfields::LensletGraph']]],

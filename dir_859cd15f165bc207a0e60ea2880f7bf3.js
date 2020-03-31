@@ -23,6 +23,8 @@ var dir_859cd15f165bc207a0e60ea2880f7bf3 =
     [ "exif_sequence.h", "exif__sequence_8h.html", "exif__sequence_8h" ],
     [ "frame.cpp", "plugins_2opencv_2frame_8cpp.html", "plugins_2opencv_2frame_8cpp" ],
     [ "frame.h", "opencv_2frame_8h.html", "opencv_2frame_8h" ],
+    [ "laplacian.cpp", "laplacian_8cpp.html", "laplacian_8cpp" ],
+    [ "laplacian.h", "laplacian_8h.html", "laplacian_8h" ],
     [ "lightfield_vignetting.cpp", "lightfield__vignetting_8cpp.html", "lightfield__vignetting_8cpp" ],
     [ "lightfield_vignetting.h", "lightfield__vignetting_8h.html", "lightfield__vignetting_8h" ],
     [ "lightfields.h", "lightfields_8h.html", [

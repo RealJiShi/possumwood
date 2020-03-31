@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classanim_1_1metric_1_1LocalAngle.html#acd8715f47854df550c2f9d1d9ba3dc4c":[2,0,0,2,1,0],
 "classanim_1_1ui_1_1MotionMap.html":[2,0,0,3,0],
 "classanim_1_1ui_1_1MotionMap.html#a03b45063311dde76d439e3b8699fde26":[2,0,0,3,0,1],
 "classanim_1_1ui_1_1MotionMap.html#a13f6e4c6d4e49cd20ac9b04ea434438d":[2,0,0,3,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classdependency__graph_1_1NodeBase.html#a4e8f7f6f32607d98a5e6475e43bb4fe6":[2,0,1,18,21],
 "classdependency__graph_1_1NodeBase.html#a57e18e715092d07dc877df7f80290136":[2,0,1,18,9],
 "classdependency__graph_1_1NodeBase.html#a5902d184f3902fb5f9c9e7513112d5c3":[2,0,1,18,40],
-"classdependency__graph_1_1NodeBase.html#a5b70be574730e9465df6db9b96da7bf8":[2,0,1,18,0],
-"classdependency__graph_1_1NodeBase.html#a5cb51454fd01a864caf11fd49b3b2fb0":[2,0,1,18,22]
+"classdependency__graph_1_1NodeBase.html#a5b70be574730e9465df6db9b96da7bf8":[2,0,1,18,0]
 };

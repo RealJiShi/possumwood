@@ -2,6 +2,8 @@ var searchData=
 [
   ['labels_2ecpp',['labels.cpp',['../labels_8cpp.html',1,'']]],
   ['labels_2eh',['labels.h',['../labels_8h.html',1,'']]],
+  ['laplacian_2ecpp',['laplacian.cpp',['../laplacian_8cpp.html',1,'']]],
+  ['laplacian_2eh',['laplacian.h',['../laplacian_8h.html',1,'']]],
   ['laplacian_5fsmoothness_2ecpp',['laplacian_smoothness.cpp',['../laplacian__smoothness_8cpp.html',1,'']]],
   ['lenslet_5fgraph_2ecpp',['lenslet_graph.cpp',['../lenslet__graph_8cpp.html',1,'']]],
   ['lenslet_5fgraph_2eh',['lenslet_graph.h',['../lenslet__graph_8h.html',1,'']]],

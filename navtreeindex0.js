@@ -1,5 +1,6 @@
 var NAVTREEINDEX0 =
 {
+"abs_8cpp.html":[3,0,0,2,5,0,11],
 "action_8cpp.html":[3,0,0,0,2,0],
 "action_8h.html":[3,0,0,0,2,1],
 "action_8h_source.html":[3,0,0,0,2,1],
@@ -68,7 +69,7 @@ var NAVTREEINDEX0 =
 "active__queue_8cpp.html":[3,0,0,1,2,0],
 "active__queue_8h.html":[3,0,0,1,2,1],
 "active__queue_8h_source.html":[3,0,0,1,2,1],
-"adaptive__threshold_8cpp.html":[3,0,0,2,5,0,11],
+"adaptive__threshold_8cpp.html":[3,0,0,2,5,0,12],
 "adaptor_8cpp.html":[3,0,0,0,1,0],
 "adaptor_8h.html":[3,0,0,0,1,1],
 "adaptor_8h_source.html":[3,0,0,0,1,1],
@@ -162,7 +163,7 @@ var NAVTREEINDEX0 =
 "bitfield_8cpp.html":[3,0,0,1,2,4],
 "bitfield_8h.html":[3,0,0,1,2,5],
 "bitfield_8h_source.html":[3,0,0,1,2,5],
-"blend_8cpp.html":[3,0,0,2,5,0,13],
+"blend_8cpp.html":[3,0,0,2,5,0,14],
 "block_8cpp.html":[3,0,0,1,2,6],
 "block_8cpp.html#a4c751bd47d5dfe3a0c7fe3a98392b095":[3,0,0,1,2,6,0],
 "block_8h.html":[3,0,0,1,2,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classAdaptor.html#a558d5c745bf0249971395bad451ac658":[2,0,8,33],
 "classAdaptor.html#a57fa8893c9ffbc90bcaec87874be5d26":[2,0,8,2],
 "classAdaptor.html#a599d5b23fde59b81f7c72472d23c2150":[2,0,8,0],
-"classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f":[2,0,8,38],
-"classAdaptor.html#a72584e4c88660c7905b9451753e82aeb":[2,0,8,20]
+"classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f":[2,0,8,38]
 };

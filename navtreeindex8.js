@@ -1,10 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"classpossumwood_1_1Enum.html#a4e0049fcab93d3f3fe95a3e2a432c93c":[2,0,5,28,2],
-"classpossumwood_1_1Enum.html#a589e1a4fc4737babed576ec7dc979dd8":[2,0,5,28,12],
-"classpossumwood_1_1Enum.html#a5bdc675bfd0c0c4b97f2f2c33fdbb322":[2,0,5,28,14],
-"classpossumwood_1_1Enum.html#a6da03b77bf1cc3e18bb0074745dd4416":[2,0,5,28,8],
-"classpossumwood_1_1Enum.html#a73f89da54e8cdf84c391ef8cea7fe190":[2,0,5,28,7],
 "classpossumwood_1_1Enum.html#aabcf590915d12eb43ae6d56382584ef5":[2,0,5,28,0],
 "classpossumwood_1_1Enum.html#ac28977f5c639393018f09cd7b8ff617d":[2,0,5,28,6],
 "classpossumwood_1_1Enum.html#ad5b7330aa314aae98dafb97feac9cd42":[2,0,5,28,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX8 =
 "classpossumwood_1_1QtClipboard.html#a62644f5fda6bc76fa7e9f9b55838c966":[2,0,5,60,0],
 "classpossumwood_1_1QtClipboard.html#a867937a4fb0bf3d60f9c887984929657":[2,0,5,60,2],
 "classpossumwood_1_1QtClipboard.html#af667b9adec5e6fcf056f0fa2d892ae8d":[2,0,5,60,1],
-"classpossumwood_1_1ScopedEnable.html":[2,0,5,61]
+"classpossumwood_1_1ScopedEnable.html":[2,0,5,61],
+"classpossumwood_1_1ScopedEnable.html#aa6445a9b300c7a3a106605f86b8b33e1":[2,0,5,61,0],
+"classpossumwood_1_1ScopedEnable.html#aac42a2577d27c5d4a614b70a555038f7":[2,0,5,61,1],
+"classpossumwood_1_1ScopedEnable.html#ad803e0eea0c80fddd68fe518c98118e4":[2,0,5,61,2],
+"classpossumwood_1_1Shader.html":[2,0,5,62],
+"classpossumwood_1_1Shader.html#a18fd30eaa1783782527a54c1ab1a899d":[2,0,5,62,5]
 };

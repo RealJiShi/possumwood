@@ -4,7 +4,6 @@ var namespacelightfields =
     [ "BFSVisitors", "classlightfields_1_1BFSVisitors.html", "classlightfields_1_1BFSVisitors" ],
     [ "Bitfield", "classlightfields_1_1Bitfield.html", "classlightfields_1_1Bitfield" ],
     [ "Block", "structlightfields_1_1Block.html", "structlightfields_1_1Block" ],
-    [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ],
     [ "EdmondsKarp", "structlightfields_1_1EdmondsKarp.html", "structlightfields_1_1EdmondsKarp" ],
     [ "Grid", "classlightfields_1_1Grid.html", "classlightfields_1_1Grid" ],
     [ "Index", "structlightfields_1_1Index.html", "structlightfields_1_1Index" ],
