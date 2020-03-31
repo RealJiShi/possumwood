@@ -79,6 +79,12 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "selection.h", "selection_8h.html", "selection_8h" ],
     [ "state.cpp", "libs_2dependency__graph_2state_8cpp.html", "libs_2dependency__graph_2state_8cpp" ],
     [ "state.h", "libs_2dependency__graph_2state_8h.html", "libs_2dependency__graph_2state_8h" ],
+    [ "static_initialisation.cpp", "static__initialisation_8cpp.html", [
+      [ "Pimpl", "structdependency__graph_1_1StaticInitialisation_1_1Pimpl.html", "structdependency__graph_1_1StaticInitialisation_1_1Pimpl" ]
+    ] ],
+    [ "static_initialisation.h", "static__initialisation_8h.html", [
+      [ "StaticInitialisation", "classdependency__graph_1_1StaticInitialisation.html", "classdependency__graph_1_1StaticInitialisation" ]
+    ] ],
     [ "unique_id.cpp", "unique__id_8cpp.html", "unique__id_8cpp" ],
     [ "unique_id.h", "unique__id_8h.html", "unique__id_8h" ],
     [ "values.cpp", "dependency__graph_2values_8cpp.html", null ],

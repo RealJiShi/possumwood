@@ -16,6 +16,11 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     ] ],
     [ "block.cpp", "block_8cpp.html", "block_8cpp" ],
     [ "block.h", "block_8h.html", "block_8h" ],
+    [ "depth.cpp", "libs_2lightfields_2depth_8cpp.html", "libs_2lightfields_2depth_8cpp" ],
+    [ "depth.h", "depth_8h.html", [
+      [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ],
+      [ "Result", "structlightfields_1_1Depth_1_1Result.html", "structlightfields_1_1Depth_1_1Result" ]
+    ] ],
     [ "edmonds_karp.cpp", "edmonds__karp_8cpp.html", "edmonds__karp_8cpp" ],
     [ "edmonds_karp.h", "edmonds__karp_8h.html", [
       [ "EdmondsKarp", "structlightfields_1_1EdmondsKarp.html", "structlightfields_1_1EdmondsKarp" ]

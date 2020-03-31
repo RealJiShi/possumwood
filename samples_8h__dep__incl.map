@@ -16,7 +16,7 @@
 <area shape="rect" id="node8" href="$vignetting__create_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_create.cpp" alt="" coords="1159,288,1361,344"/>
 <area shape="rect" id="node10" href="$lytro__lightfield_8cpp.html" title="src/plugins/opencv\l/nodes/capture/lytro\l_lightfield.cpp" alt="" coords="403,184,555,240"/>
 <area shape="rect" id="node11" href="$adjust__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/adjust\l_pattern.cpp" alt="" coords="579,184,757,240"/>
-<area shape="rect" id="node12" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="781,191,982,233"/>
+<area shape="rect" id="node12" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="781,191,982,233"/>
 <area shape="rect" id="node7" href="$lightfield__vignetting_8cpp.html" title="src/plugins/opencv\l/lightfield_vignetting.cpp" alt="" coords="951,295,1134,337"/>
 <area shape="rect" id="node9" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="724,288,927,344"/>
 </map>

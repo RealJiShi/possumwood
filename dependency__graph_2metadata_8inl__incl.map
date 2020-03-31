@@ -1,10 +1,11 @@
 <map id="src/libs/dependency_graph/metadata.inl" name="src/libs/dependency_graph/metadata.inl">
-<area shape="rect" id="node2" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="524,95,621,121"/>
-<area shape="rect" id="node25" href="$data_8inl.html" title="data.inl" alt="" coords="1331,95,1401,121"/>
-<area shape="rect" id="node11" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="74,177,141,203"/>
-<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1111,259,1173,285"/>
-<area shape="rect" id="node21" href="$attr_8h.html" title="attr.h" alt="" coords="1209,177,1265,203"/>
-<area shape="rect" id="node23" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="165,177,263,203"/>
-<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="962,333,1066,360"/>
-<area shape="rect" id="node26" href="$rtti_8h.html" title="rtti.h" alt="" coords="1339,177,1393,203"/>
+<area shape="rect" id="node2" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="463,95,560,121"/>
+<area shape="rect" id="node25" href="$data_8inl.html" title="data.inl" alt="" coords="1372,95,1443,121"/>
+<area shape="rect" id="node11" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="101,177,167,203"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="884,259,947,285"/>
+<area shape="rect" id="node21" href="$attr_8h.html" title="attr.h" alt="" coords="418,177,474,203"/>
+<area shape="rect" id="node23" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="245,177,343,203"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="953,333,1057,360"/>
+<area shape="rect" id="node26" href="$rtti_8h.html" title="rtti.h" alt="" coords="1553,177,1606,203"/>
+<area shape="rect" id="node28" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="693,259,852,285"/>
 </map>

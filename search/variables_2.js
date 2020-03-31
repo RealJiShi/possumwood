@@ -12,6 +12,7 @@ var searchData=
   ['color',['color',['../structlightfields_1_1Samples_1_1Sample.html#a60e3aaf82c744cd9e4d6bb5ad0b4a927',1,'lightfields::Samples::Sample::color()'],['../structnode__editor_1_1Node_1_1PortDefinition.html#a70a97280d05ee3d33d4ce99c9a9cdf29',1,'node_editor::Node::PortDefinition::color()']]],
   ['comment',['comment',['../x_8cpp.html#a90111a504a39b0cb956a6c46b172608e',1,'x.cpp']]],
   ['commentstart',['commentStart',['../x_8cpp.html#abe6d8b34a832f08a7980967b1092ec1f',1,'x.cpp']]],
+  ['confidence',['confidence',['../structlightfields_1_1Depth_1_1Result.html#a97017b165cd1178e788e1313b01ba737',1,'lightfields::Depth::Result::confidence()'],['../libs_2lightfields_2depth_8cpp.html#a058b8558da894ebfbef73d1a9b57deaa',1,'confidence():&#160;depth.cpp']]],
   ['connections',['connections',['../structnode__editor_1_1GraphScene_1_1Selection.html#ac4b44f9d9bf585a6d170487ba177ae2e',1,'node_editor::GraphScene::Selection']]],
   ['container',['container',['../classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html#ab086cf301072082a20737b467adfd73e',1,'possumwood::io::basic_json::iteration_proxy::container()'],['../classanim_1_1Children.html#af5a189cf1af1a3e00c68a4385c952e9a',1,'anim::Children::CONTAINER()']]],
   ['counter',['counter',['../polymesh_2nodes_2vertex__data_8cpp.html#ac449e05964ab2319a33c1718c5ad485b',1,'vertex_data.cpp']]],

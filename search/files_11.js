@@ -35,6 +35,8 @@ var searchData=
   ['stack_2eh',['stack.h',['../stack_8h.html',1,'']]],
   ['state_2ecpp',['state.cpp',['../libs_2dependency__graph_2state_8cpp.html',1,'(Global Namespace)'],['../plugins_2lua_2datatypes_2state_8cpp.html',1,'(Global Namespace)']]],
   ['state_2eh',['state.h',['../libs_2dependency__graph_2state_8h.html',1,'(Global Namespace)'],['../plugins_2lua_2datatypes_2state_8h.html',1,'(Global Namespace)']]],
+  ['static_5finitialisation_2ecpp',['static_initialisation.cpp',['../static__initialisation_8cpp.html',1,'']]],
+  ['static_5finitialisation_2eh',['static_initialisation.h',['../static__initialisation_8h.html',1,'']]],
   ['stitch_5fborders_2ecpp',['stitch_borders.cpp',['../stitch__borders_8cpp.html',1,'']]],
   ['string_2ecpp',['string.cpp',['../string_8cpp.html',1,'']]],
   ['string_2eh',['string.h',['../string_8h.html',1,'']]],

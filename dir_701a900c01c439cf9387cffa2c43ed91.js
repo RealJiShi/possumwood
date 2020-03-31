@@ -6,6 +6,5 @@ var dir_701a900c01c439cf9387cffa2c43ed91 =
     [ "get_frame.cpp", "get__frame_8cpp.html", null ],
     [ "max_index.cpp", "max__index_8cpp.html", null ],
     [ "multiply.cpp", "sequence_2multiply_8cpp.html", null ],
-    [ "normalize.cpp", "sequence_2normalize_8cpp.html", "sequence_2normalize_8cpp" ],
-    [ "pow.cpp", "sequence_2pow_8cpp.html", null ]
+    [ "normalize.cpp", "sequence_2normalize_8cpp.html", "sequence_2normalize_8cpp" ]
 ];

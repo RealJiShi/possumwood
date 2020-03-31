@@ -26,6 +26,7 @@ var namespacedependency__graph =
     [ "Port", "classdependency__graph_1_1Port.html", "classdependency__graph_1_1Port" ],
     [ "Selection", "classdependency__graph_1_1Selection.html", "classdependency__graph_1_1Selection" ],
     [ "State", "classdependency__graph_1_1State.html", "classdependency__graph_1_1State" ],
+    [ "StaticInitialisation", "classdependency__graph_1_1StaticInitialisation.html", "classdependency__graph_1_1StaticInitialisation" ],
     [ "TypedAttr", "classdependency__graph_1_1TypedAttr.html", "classdependency__graph_1_1TypedAttr" ],
     [ "TypedAttr< void >", "classdependency__graph_1_1TypedAttr_3_01void_01_4.html", "classdependency__graph_1_1TypedAttr_3_01void_01_4" ],
     [ "UniqueId", "classdependency__graph_1_1UniqueId.html", "classdependency__graph_1_1UniqueId" ],

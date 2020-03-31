@@ -21,7 +21,7 @@
 <area shape="rect" id="node22" href="$inpaint_8cpp.html" title="src/plugins/opencv\l/nodes/inpaint.cpp" alt="" coords="3919,102,4062,143"/>
 <area shape="rect" id="node23" href="$laplacian__smoothness_8cpp.html" title="src/plugins/opencv\l/nodes/laplacian_smoothness.cpp" alt="" coords="4086,102,4327,143"/>
 <area shape="rect" id="node24" href="$confidence_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/confidence.cpp" alt="" coords="4352,102,4587,143"/>
-<area shape="rect" id="node25" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="4611,102,4813,143"/>
+<area shape="rect" id="node25" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="4611,102,4813,143"/>
 <area shape="rect" id="node26" href="$epi_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/epi.cpp" alt="" coords="4837,102,5021,143"/>
 <area shape="rect" id="node27" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="5045,95,5195,151"/>
 <area shape="rect" id="node28" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="5219,95,5421,151"/>

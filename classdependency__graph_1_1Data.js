@@ -8,7 +8,6 @@ var classdependency__graph_1_1Data =
     [ "Data", "classdependency__graph_1_1Data.html#a7e1816757efc633615221cc98cc8d4e3", null ],
     [ "create", "classdependency__graph_1_1Data.html#a9a755fae216923221d9659c9471b186f", null ],
     [ "empty", "classdependency__graph_1_1Data.html#af44ae5cd57d49e0c886fb6d1d7c74bc4", null ],
-    [ "factories", "classdependency__graph_1_1Data.html#ae71c225610e2dfcb99ab6add5be6e386", null ],
     [ "get", "classdependency__graph_1_1Data.html#ad9af3885114a04f7109d4c95c1987173", null ],
     [ "operator!=", "classdependency__graph_1_1Data.html#a6ec40d9118b82dfd66f3384db6c10dc3", null ],
     [ "operator=", "classdependency__graph_1_1Data.html#abcbb9655ffa408bb5775af8a2a8bf9dc", null ],

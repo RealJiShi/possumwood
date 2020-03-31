@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$split__vec2_8cpp.html" title="src/plugins/maths/nodes\l/split_vec2.cpp" alt="" coords="387,102,567,143"/>
 <area shape="rect" id="node5" href="$empty_8cpp.html" title="src/plugins/opencv\l/nodes/capture/empty.cpp" alt="" coords="591,102,781,143"/>
 <area shape="rect" id="node6" href="$crop_8cpp.html" title="src/plugins/opencv\l/nodes/crop.cpp" alt="" coords="805,102,948,143"/>
-<area shape="rect" id="node7" href="$depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="972,102,1173,143"/>
+<area shape="rect" id="node7" href="$plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/depth.cpp" alt="" coords="972,102,1173,143"/>
 <area shape="rect" id="node8" href="$epi_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/epi.cpp" alt="" coords="1198,102,1382,143"/>
 <area shape="rect" id="node9" href="$integrate__bezier_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_bezier.cpp" alt="" coords="1407,95,1603,151"/>
 <area shape="rect" id="node10" href="$integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="1627,95,1823,151"/>

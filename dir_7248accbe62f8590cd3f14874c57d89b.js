@@ -2,7 +2,7 @@ var dir_7248accbe62f8590cd3f14874c57d89b =
 [
     [ "adjust_pattern.cpp", "adjust__pattern_8cpp.html", null ],
     [ "confidence.cpp", "confidence_8cpp.html", "confidence_8cpp" ],
-    [ "depth.cpp", "depth_8cpp.html", null ],
+    [ "depth.cpp", "plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html", null ],
     [ "detect_pattern.cpp", "detect__pattern_8cpp.html", null ],
     [ "draw_samples.cpp", "draw__samples_8cpp.html", null ],
     [ "epi.cpp", "epi_8cpp.html", null ],

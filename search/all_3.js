@@ -88,6 +88,7 @@ var searchData=
   ['computeoutput',['computeOutput',['../classdependency__graph_1_1NodeBase.html#a57e18e715092d07dc877df7f80290136',1,'dependency_graph::NodeBase::computeOutput()'],['../classpossumwood_1_1NetworkCompute.html#a6f153b0afc180d2c2a358befd9a3242d',1,'possumwood::NetworkCompute::computeOutput()']]],
   ['concat_2ecpp',['concat.cpp',['../concat_8cpp.html',1,'']]],
   ['concat_5f3_2ecpp',['concat_3.cpp',['../concat__3_8cpp.html',1,'']]],
+  ['confidence',['confidence',['../structlightfields_1_1Depth_1_1Result.html#a97017b165cd1178e788e1313b01ba737',1,'lightfields::Depth::Result::confidence()'],['../libs_2lightfields_2depth_8cpp.html#a058b8558da894ebfbef73d1a9b57deaa',1,'confidence():&#160;depth.cpp']]],
   ['confidence_2ecpp',['confidence.cpp',['../confidence_8cpp.html',1,'']]],
   ['config',['Config',['../classpossumwood_1_1Config.html',1,'possumwood::Config'],['../classpossumwood_1_1Config_1_1Item.html#ac3da7e21a05bf8852638db7e4dd1b81a',1,'possumwood::Config::Item::Config()']]],
   ['config_2ecpp',['config.cpp',['../config_8cpp.html',1,'']]],

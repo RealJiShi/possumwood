@@ -11,6 +11,7 @@ var searchData=
   ['redoactioncount',['redoActionCount',['../classpossumwood_1_1UndoStack.html#a51b9ad30ba9d9a92b171bcc522b3bd22',1,'possumwood::UndoStack']]],
   ['refresh',['refresh',['../classpossumwood_1_1Drawable.html#a3012c0f423ecb8ca51f43c117d7365f5',1,'possumwood::Drawable']]],
   ['registercolour',['registerColour',['../classpossumwood_1_1Colours.html#a30e29469b1e7d44e4b02e008b8508eb2',1,'possumwood::Colours']]],
+  ['registerdatafactory',['registerDataFactory',['../classdependency__graph_1_1StaticInitialisation.html#acb8d124e0b31fb5b85ab8884caa0b710',1,'dependency_graph::StaticInitialisation']]],
   ['registernodemove',['registerNodeMove',['../classnode__editor_1_1GraphScene.html#a8b61361b22a7073544c2636766740d72',1,'node_editor::GraphScene']]],
   ['reject',['reject',['../classanim_1_1Tokenizer.html#a52bff911d878b80ef80dd5c4c9bc3783',1,'anim::Tokenizer']]],
   ['relabel',['relabel',['../classlightfields_1_1ActiveQueue.html#aca0880c2e289037dbf675eef9c09bd37',1,'lightfields::ActiveQueue']]],
