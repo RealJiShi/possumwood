@@ -47,6 +47,11 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     ] ],
     [ "metadata.cpp", "libs_2lightfields_2metadata_8cpp.html", "libs_2lightfields_2metadata_8cpp" ],
     [ "metadata.h", "lightfields_2metadata_8h.html", "lightfields_2metadata_8h" ],
+    [ "mrf.cpp", "mrf_8cpp.html", "mrf_8cpp" ],
+    [ "mrf.h", "mrf_8h.html", [
+      [ "MRF", "classlightfields_1_1MRF.html", "classlightfields_1_1MRF" ],
+      [ "Value", "structlightfields_1_1MRF_1_1Value.html", "structlightfields_1_1MRF_1_1Value" ]
+    ] ],
     [ "n_links.cpp", "n__links_8cpp.html", null ],
     [ "n_links.h", "n__links_8h.html", [
       [ "NLinks", "classlightfields_1_1NLinks.html", "classlightfields_1_1NLinks" ]

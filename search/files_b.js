@@ -6,6 +6,7 @@ var searchData=
   ['main_5fwindow_2eh',['main_window.h',['../main__window_8h.html',1,'']]],
   ['make_5fvec2_2ecpp',['make_vec2.cpp',['../make__vec2_8cpp.html',1,'']]],
   ['make_5fvec3_2ecpp',['make_vec3.cpp',['../make__vec3_8cpp.html',1,'']]],
+  ['markov_5frandom_5ffield_2ecpp',['markov_random_field.cpp',['../markov__random__field_8cpp.html',1,'']]],
   ['max_2ecpp',['max.cpp',['../max_8cpp.html',1,'']]],
   ['max_5findex_2ecpp',['max_index.cpp',['../max__index_8cpp.html',1,'']]],
   ['merge_2ecpp',['merge.cpp',['../merge_8cpp.html',1,'']]],
@@ -36,6 +37,8 @@ var searchData=
   ['motion_5fgraph_2eh',['motion_graph.h',['../motion__graph_8h.html',1,'']]],
   ['motion_5fmap_2ecpp',['motion_map.cpp',['../datatypes_2motion__map_8cpp.html',1,'(Global Namespace)'],['../ui_2motion__map_8cpp.html',1,'(Global Namespace)']]],
   ['motion_5fmap_2eh',['motion_map.h',['../datatypes_2motion__map_8h.html',1,'(Global Namespace)'],['../ui_2motion__map_8h.html',1,'(Global Namespace)']]],
+  ['mrf_2ecpp',['mrf.cpp',['../mrf_8cpp.html',1,'']]],
+  ['mrf_2eh',['mrf.h',['../mrf_8h.html',1,'']]],
   ['mult_2ecpp',['mult.cpp',['../mult_8cpp.html',1,'']]],
   ['multiply_2ecpp',['multiply.cpp',['../multiply_8cpp.html',1,'(Global Namespace)'],['../sequence_2multiply_8cpp.html',1,'(Global Namespace)']]]
 ];

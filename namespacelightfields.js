@@ -12,6 +12,7 @@ var namespacelightfields =
     [ "LensletGraph", "classlightfields_1_1LensletGraph.html", "classlightfields_1_1LensletGraph" ],
     [ "Link", "classlightfields_1_1Link.html", "classlightfields_1_1Link" ],
     [ "Metadata", "classlightfields_1_1Metadata.html", "classlightfields_1_1Metadata" ],
+    [ "MRF", "classlightfields_1_1MRF.html", "classlightfields_1_1MRF" ],
     [ "NLinks", "classlightfields_1_1NLinks.html", "classlightfields_1_1NLinks" ],
     [ "Pattern", "classlightfields_1_1Pattern.html", "classlightfields_1_1Pattern" ],
     [ "PushRelabel", "structlightfields_1_1PushRelabel.html", "structlightfields_1_1PushRelabel" ],
