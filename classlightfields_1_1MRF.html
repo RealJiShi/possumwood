@@ -83,6 +83,7 @@ $(document).ready(function(){initNavTree('classlightfields_1_1MRF.html','');});
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classlightfields_1_1MRF-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -126,8 +127,11 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af8aa20b08f81b3ea40f41000913fd92c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7c53792b74a9459cb48079fa18c59d75"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a7c53792b74a9459cb48079fa18c59d75">size</a> () const</td></tr>
 <tr class="separator:a7c53792b74a9459cb48079fa18c59d75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aadbf4742f2c12db8bc5df59736fa01bf"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#aadbf4742f2c12db8bc5df59736fa01bf">solveICM</a> (float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, <a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1">ICMNeighbourhood</a> neighbourhood) const</td></tr>
-<tr class="separator:aadbf4742f2c12db8bc5df59736fa01bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a1ee51ab88e37df9047ae16ac082af36f"><td class="memItemLeft" align="right" valign="top">static cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a1ee51ab88e37df9047ae16ac082af36f">solveICM</a> (const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;source, float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, <a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1">ICMNeighbourhood</a> neighbourhood)</td></tr>
+<tr class="separator:a1ee51ab88e37df9047ae16ac082af36f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -231,15 +235,24 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="aadbf4742f2c12db8bc5df59736fa01bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aadbf4742f2c12db8bc5df59736fa01bf">&#9670;&nbsp;</a></span>solveICM()</h2>
+<a id="a1ee51ab88e37df9047ae16ac082af36f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ee51ab88e37df9047ae16ac082af36f">&#9670;&nbsp;</a></span>solveICM()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">cv::Mat lightfields::MRF::solveICM </td>
           <td>(</td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;&#160;</td>
+          <td class="paramname"><em>source</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
           <td class="paramtype">float&#160;</td>
           <td class="paramname"><em>inputsWeight</em>, </td>
         </tr>
@@ -270,9 +283,14 @@ Private Attributes</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td> const</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -332,7 +350,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1MRF.html">MRF</a></li>
-    <li class="footer">Generated on Thu Apr 2 2020 01:24:27 for possumwood by
+    <li class="footer">Generated on Fri Apr 3 2020 14:39:20 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
