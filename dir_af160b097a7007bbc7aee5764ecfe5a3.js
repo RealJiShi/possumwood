@@ -58,8 +58,18 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     ] ],
     [ "nearest_integration.cpp", "nearest__integration_8cpp.html", "nearest__integration_8cpp" ],
     [ "nearest_integration.h", "nearest__integration_8h.html", "nearest__integration_8h" ],
+    [ "neighbours.cpp", "neighbours_8cpp.html", [
+      [ "Neighbours_4", "structlightfields_1_1Neighbours__4.html", "structlightfields_1_1Neighbours__4" ],
+      [ "Neighbours_8", "structlightfields_1_1Neighbours__8.html", "structlightfields_1_1Neighbours__8" ],
+      [ "Neighbours_8_Weighted", "structlightfields_1_1Neighbours__8__Weighted.html", "structlightfields_1_1Neighbours__8__Weighted" ]
+    ] ],
+    [ "neighbours.h", "neighbours_8h.html", [
+      [ "Neighbours", "classlightfields_1_1Neighbours.html", "classlightfields_1_1Neighbours" ]
+    ] ],
     [ "pattern.cpp", "pattern_8cpp.html", "pattern_8cpp" ],
     [ "pattern.h", "pattern_8h.html", "pattern_8h" ],
+    [ "pmf.cpp", "pmf_8cpp.html", "pmf_8cpp" ],
+    [ "pmf.h", "pmf_8h.html", "pmf_8h" ],
     [ "push_relabel.cpp", "push__relabel_8cpp.html", null ],
     [ "push_relabel.h", "push__relabel_8h.html", [
       [ "PushRelabel", "structlightfields_1_1PushRelabel.html", "structlightfields_1_1PushRelabel" ]

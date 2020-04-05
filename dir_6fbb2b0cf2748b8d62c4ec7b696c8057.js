@@ -35,6 +35,7 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "inpaint_laplacian.cpp", "inpaint__laplacian_8cpp.html", "inpaint__laplacian_8cpp" ],
     [ "laplacian_smoothness.cpp", "laplacian__smoothness_8cpp.html", null ],
     [ "max.cpp", "max_8cpp.html", null ],
+    [ "median.cpp", "median_8cpp.html", null ],
     [ "merge.cpp", "merge_8cpp.html", null ],
     [ "metadata.cpp", "plugins_2opencv_2nodes_2metadata_8cpp.html", null ],
     [ "min.cpp", "min_8cpp.html", null ],

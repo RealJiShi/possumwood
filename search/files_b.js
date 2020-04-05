@@ -9,6 +9,7 @@ var searchData=
   ['markov_5frandom_5ffield_2ecpp',['markov_random_field.cpp',['../markov__random__field_8cpp.html',1,'']]],
   ['max_2ecpp',['max.cpp',['../max_8cpp.html',1,'']]],
   ['max_5findex_2ecpp',['max_index.cpp',['../max__index_8cpp.html',1,'']]],
+  ['median_2ecpp',['median.cpp',['../median_8cpp.html',1,'']]],
   ['merge_2ecpp',['merge.cpp',['../merge_8cpp.html',1,'']]],
   ['merge_5fdebevec_2ecpp',['merge_debevec.cpp',['../merge__debevec_8cpp.html',1,'']]],
   ['merge_5fmertens_2ecpp',['merge_mertens.cpp',['../merge__mertens_8cpp.html',1,'']]],

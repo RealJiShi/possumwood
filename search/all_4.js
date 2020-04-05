@@ -52,6 +52,7 @@ var searchData=
   ['detect_5fstationary_2ecpp',['detect_stationary.cpp',['../detect__stationary_8cpp.html',1,'']]],
   ['dft_2ecpp',['dft.cpp',['../dft_8cpp.html',1,'']]],
   ['diff',['diff',['../classpossumwood_1_1io_1_1basic__json.html#aa4ebc1ee9b921d809c402e69b7cd7fd6',1,'possumwood::io::basic_json']]],
+  ['difference',['difference',['../classlightfields_1_1JointPMF.html#a0f2bea78afacf844ecfc56456ce0eff2',1,'lightfields::JointPMF']]],
   ['difference_5ftype',['difference_type',['../classpossumwood_1_1io_1_1basic__json.html#a5ee01efd26392965886f22306bf13dd5',1,'possumwood::io::basic_json::difference_type()'],['../classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#ad179d39d1e3af6f371e8d6e550cbd6de',1,'possumwood::io::basic_json::iter_impl::difference_type()']]],
   ['dilate_5ferode_2ecpp',['dilate_erode.cpp',['../dilate__erode_8cpp.html',1,'']]],
   ['direction',['Direction',['../classlightfields_1_1Link_1_1Direction.html',1,'lightfields::Link::Direction'],['../classlightfields_1_1Link.html#a95a2c42e035b6429655dafd8ae159083',1,'lightfields::Link::Direction()'],['../classlightfields_1_1Link_1_1Direction.html#a0b2dcb0e383a134e32d96c4f1f5273c3',1,'lightfields::Link::Direction::Direction(Link *parent, bool forward)'],['../classlightfields_1_1Link_1_1Direction.html#aca9caa6da4a297fb3d35a353263b5880',1,'lightfields::Link::Direction::Direction(const Direction &amp;)=delete']]],

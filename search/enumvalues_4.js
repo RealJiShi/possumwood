@@ -1,12 +1,12 @@
 var searchData=
 [
   ['k24shaped',['k24Shaped',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4a32e8808c1ca368616f170f64e7f65e6c',1,'possumwood::opencv']]],
-  ['k4',['k4',['../classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1a424869638a39df8082b6ab890b6ab425',1,'lightfields::MRF']]],
+  ['k4',['k4',['../classlightfields_1_1Neighbours.html#a74cc3e767b2d777293c4e6a18ca84c47a5983fc37e43542d0189e1b7c46f26de0',1,'lightfields::Neighbours']]],
   ['k4cross',['k4Cross',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4ae6fa67c7fe0037e22b63bddc95d7067b',1,'possumwood::opencv']]],
-  ['k8',['k8',['../classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1ac6876a37e601f36d81bca3d3571aa099',1,'lightfields::MRF']]],
+  ['k8',['k8',['../classlightfields_1_1Neighbours.html#a74cc3e767b2d777293c4e6a18ca84c47a466936c27dec15b81a38e54b13e53037',1,'lightfields::Neighbours']]],
   ['k8shaped',['k8Shaped',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4a8ec63cc301558e99268d10eefc10d572',1,'possumwood::opencv']]],
   ['k8uniform',['k8Uniform',['../namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4a4ae6adad6212fc17ea5e2d73cd939b96',1,'possumwood::opencv']]],
-  ['k8weighted',['k8Weighted',['../classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1a6282d92bedb4d1fafc9d3be8cf8c926c',1,'lightfields::MRF']]],
+  ['k8weighted',['k8Weighted',['../classlightfields_1_1Neighbours.html#a74cc3e767b2d777293c4e6a18ca84c47abed67c3254e98996c4ae669e5bb78067',1,'lightfields::Neighbours']]],
   ['kasymmetriccirclesgrid',['kAsymmetricCirclesGrid',['../classpossumwood_1_1opencv_1_1CalibrationPattern.html#a5f6714b476fffd416743d084eac7966eaa96c79e751bc2eda8281ef0dffb9a8e2',1,'possumwood::opencv::CalibrationPattern']]],
   ['kbgr',['kBGR',['../classpossumwood_1_1Texture.html#a6cb3d83139fd95cb61c1aedf8e972018a34e96ba81c6529a64a51242380aa75bf',1,'possumwood::Texture']]],
   ['kblue',['kBlue',['../classlightfields_1_1Samples.html#abd6cb7aeb47282aa093eab1be1054324ae2553d452207e89fc14c9e8cf835a25b',1,'lightfields::Samples']]],

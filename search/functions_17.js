@@ -51,6 +51,7 @@ var searchData=
   ['_7emetadata',['~Metadata',['../classdependency__graph_1_1Metadata.html#a429a27e3f5ae5b549d5781c9de6485ce',1,'dependency_graph::Metadata::~Metadata()'],['../classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4',1,'possumwood::Metadata::~Metadata()']]],
   ['_7emetadatafactory',['~MetadataFactory',['../structdependency__graph_1_1MetadataFactory.html#a6867b529f3c8a0e052650bf44786edf9',1,'dependency_graph::MetadataFactory']]],
   ['_7emetadatahandle',['~MetadataHandle',['../classdependency__graph_1_1MetadataHandle.html#aeb552c06677a7f18b3cab078c21c7d51',1,'dependency_graph::MetadataHandle']]],
+  ['_7eneighbours',['~Neighbours',['../classlightfields_1_1Neighbours.html#a9649e4ceefebf62c192c51322a38f8aa',1,'lightfields::Neighbours']]],
   ['_7enetwork',['~Network',['../classdependency__graph_1_1Network.html#a5266ab687e1056071a7f4ede21b92b69',1,'dependency_graph::Network']]],
   ['_7enode',['~Node',['../classdependency__graph_1_1Node.html#aa186304f98fa6686466ab74c1054a693',1,'dependency_graph::Node::~Node()'],['../classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191',1,'node_editor::Node::~Node()']]],
   ['_7enodebase',['~NodeBase',['../classdependency__graph_1_1NodeBase.html#a5b70be574730e9465df6db9b96da7bf8',1,'dependency_graph::NodeBase']]],

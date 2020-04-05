@@ -81,7 +81,6 @@ $(document).ready(function(){initNavTree('classlightfields_1_1MRF.html','');});
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
@@ -109,14 +108,6 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlightfields_1_1MRF_1_1Value.html">Value</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a17e5a75c852d2a0538e2ef097f6558c1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1">ICMNeighbourhood</a> { <a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1a424869638a39df8082b6ab890b6ab425">k4</a>, 
-<a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1ac6876a37e601f36d81bca3d3571aa099">k8</a>, 
-<a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1a6282d92bedb4d1fafc9d3be8cf8c926c">k8Weighted</a>
- }</td></tr>
-<tr class="separator:a17e5a75c852d2a0538e2ef097f6558c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a8902896428701b3b03f29240af25eb68"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a8902896428701b3b03f29240af25eb68">MRF</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;<a class="el" href="classlightfields_1_1MRF.html#a7c53792b74a9459cb48079fa18c59d75">size</a>)</td></tr>
@@ -130,8 +121,10 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a1ee51ab88e37df9047ae16ac082af36f"><td class="memItemLeft" align="right" valign="top">static cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a1ee51ab88e37df9047ae16ac082af36f">solveICM</a> (const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;source, float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, <a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1">ICMNeighbourhood</a> neighbourhood)</td></tr>
-<tr class="separator:a1ee51ab88e37df9047ae16ac082af36f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb035bc01d4d1268872f2d1c7c65bd74"><td class="memItemLeft" align="right" valign="top">static cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#acb035bc01d4d1268872f2d1c7c65bd74">solveICM</a> (const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;source, float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;neighbourhood)</td></tr>
+<tr class="separator:acb035bc01d4d1268872f2d1c7c65bd74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79432166d8732a9aa2a2f07223dcd6a3"><td class="memItemLeft" align="right" valign="top">static cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a79432166d8732a9aa2a2f07223dcd6a3">solvePropagation</a> (const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;source, float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;neighbourhood)</td></tr>
+<tr class="separator:a79432166d8732a9aa2a2f07223dcd6a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -142,27 +135,7 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A simple implementation of Markov Random Field on a regular grid, with integer values. </p>
-</div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a17e5a75c852d2a0538e2ef097f6558c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a17e5a75c852d2a0538e2ef097f6558c1">&#9670;&nbsp;</a></span>ICMNeighbourhood</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1">lightfields::MRF::ICMNeighbourhood</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a17e5a75c852d2a0538e2ef097f6558c1a424869638a39df8082b6ab890b6ab425"></a>k4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17e5a75c852d2a0538e2ef097f6558c1ac6876a37e601f36d81bca3d3571aa099"></a>k8&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17e5a75c852d2a0538e2ef097f6558c1a6282d92bedb4d1fafc9d3be8cf8c926c"></a>k8Weighted&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a8902896428701b3b03f29240af25eb68"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8902896428701b3b03f29240af25eb68">&#9670;&nbsp;</a></span>MRF()</h2>
 
@@ -235,8 +208,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a1ee51ab88e37df9047ae16ac082af36f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ee51ab88e37df9047ae16ac082af36f">&#9670;&nbsp;</a></span>solveICM()</h2>
+<a id="acb035bc01d4d1268872f2d1c7c65bd74"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb035bc01d4d1268872f2d1c7c65bd74">&#9670;&nbsp;</a></span>solveICM()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -277,7 +250,67 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="classlightfields_1_1MRF.html#a17e5a75c852d2a0538e2ef097f6558c1">ICMNeighbourhood</a>&#160;</td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;&#160;</td>
+          <td class="paramname"><em>neighbourhood</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a79432166d8732a9aa2a2f07223dcd6a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79432166d8732a9aa2a2f07223dcd6a3">&#9670;&nbsp;</a></span>solvePropagation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">cv::Mat lightfields::MRF::solvePropagation </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;&#160;</td>
+          <td class="paramname"><em>source</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>inputsWeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>flatnessWeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>smoothnessWeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>iterationLimit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;&#160;</td>
           <td class="paramname"><em>neighbourhood</em>&#160;</td>
         </tr>
         <tr>
@@ -350,7 +383,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1MRF.html">MRF</a></li>
-    <li class="footer">Generated on Fri Apr 3 2020 14:40:34 for possumwood by
+    <li class="footer">Generated on Sun Apr 5 2020 22:46:45 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

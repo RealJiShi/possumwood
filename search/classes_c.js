@@ -1,6 +1,10 @@
 var searchData=
 [
   ['negation',['negation',['../structpossumwood_1_1io_1_1detail_1_1negation.html',1,'possumwood::io::detail']]],
+  ['neighbours',['Neighbours',['../classlightfields_1_1Neighbours.html',1,'lightfields']]],
+  ['neighbours_5f4',['Neighbours_4',['../structlightfields_1_1Neighbours__4.html',1,'lightfields']]],
+  ['neighbours_5f8',['Neighbours_8',['../structlightfields_1_1Neighbours__8.html',1,'lightfields']]],
+  ['neighbours_5f8_5fweighted',['Neighbours_8_Weighted',['../structlightfields_1_1Neighbours__8__Weighted.html',1,'lightfields']]],
   ['network',['Network',['../classdependency__graph_1_1Network.html',1,'dependency_graph']]],
   ['networkcompute',['NetworkCompute',['../classpossumwood_1_1NetworkCompute.html',1,'possumwood']]],
   ['nlinks',['NLinks',['../classlightfields_1_1NLinks.html',1,'lightfields']]],
