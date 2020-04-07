@@ -19,7 +19,7 @@
 <area shape="rect" id="node16" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="984,893,1051,919"/>
 <area shape="rect" id="node19" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="1177,893,1274,919"/>
 <area shape="rect" id="node28" href="$datablock_8h.html" title="datablock.h" alt="" coords="2072,736,2171,763"/>
-<area shape="rect" id="node33" href="$graph_8h.html" title="graph.h" alt="" coords="890,363,961,389"/>
+<area shape="rect" id="node33" href="$dependency__graph_2graph_8h.html" title="graph.h" alt="" coords="890,363,961,389"/>
 <area shape="rect" id="node34" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="1146,512,1219,539"/>
 <area shape="rect" id="node35" href="$network_8h.html" title="network.h" alt="" coords="1065,437,1151,464"/>
 <area shape="rect" id="node37" href="$data_8inl.html" title="data.inl" alt="" coords="2723,811,2794,837"/>

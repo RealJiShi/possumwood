@@ -1,7 +1,7 @@
 var searchData=
 [
   ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood__cli_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
-  ['mainwindow',['MainWindow',['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()'],['../classpossumwood_1_1App.html#a717dbab453a954a56c67800cd3034d2e',1,'possumwood::App::mainWindow()']]],
+  ['mainwindow',['mainWindow',['../classpossumwood_1_1App.html#a717dbab453a954a56c67800cd3034d2e',1,'possumwood::App::mainWindow()'],['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()']]],
   ['makeconsistentwith',['makeConsistentWith',['../classanim_1_1Skeleton.html#a6f289aa10a5810dc6f7d9f048fbaffc5',1,'anim::Skeleton']]],
   ['makepath',['makePath',['../classnode__editor_1_1Edge.html#af57c275349db0988ab3d0ed93668dac0',1,'node_editor::Edge']]],
   ['makerowoffsets',['makeRowOffsets',['../classlightfields_1_1Samples.html#a413b200b9c8ebe74c19340456c385d99',1,'lightfields::Samples']]],
@@ -25,7 +25,7 @@ var searchData=
   ['metadataregister',['MetadataRegister',['../classdependency__graph_1_1MetadataRegister.html#a9a8bebc107b7376f92c4f44f524f7c86',1,'dependency_graph::MetadataRegister']]],
   ['middleclicked',['middleClicked',['../classnode__editor_1_1GraphScene.html#ab09be6df52ea923734a89bc0d27834ca',1,'node_editor::GraphScene']]],
   ['min',['min',['../classanim_1_1MotionMap.html#a7ccf096e7b8406e9cea919e4358fb5c7',1,'anim::MotionMap::min()'],['../classpossumwood_1_1maths_1_1Interval.html#a42fd280262ee194341c86a0187673225',1,'possumwood::maths::Interval::min()']]],
-  ['mincut',['minCut',['../classlightfields_1_1Grid.html#ae674bac761c2ace18835ecc42f135d54',1,'lightfields::Grid']]],
+  ['mincut',['minCut',['../classlightfields_1_1Graph.html#a9ed839ed4a9c6c23e155a8b03426f3cb',1,'lightfields::Graph']]],
   ['minwidth',['minWidth',['../classnode__editor_1_1Port.html#a5ef2f918733cbd8a46a1e2adb4199854',1,'node_editor::Port']]],
   ['modelview',['modelview',['../classpossumwood_1_1ViewportState.html#aa34783ab3e705014882108f7ad3d86cd',1,'possumwood::ViewportState']]],
   ['modules',['modules',['../classpossumwood_1_1lua_1_1Context.html#a67b4d6b3394d1b8fa68861835da35727',1,'possumwood::lua::Context']]],
@@ -40,5 +40,6 @@ var searchData=
   ['mousereleaseevent',['mouseReleaseEvent',['../classnode__editor_1_1GraphScene.html#a49f13fff803b8c269e9c73f341ed8505',1,'node_editor::GraphScene::mouseReleaseEvent()'],['../classanim_1_1ui_1_1MotionMap.html#a2ced0359e57b648cc2da9fce5352b37b',1,'anim::ui::MotionMap::mouseReleaseEvent()']]],
   ['move',['move',['../namespacepossumwood_1_1actions.html#af0fde5c225e95d30604f3898dc834239',1,'possumwood::actions']]],
   ['mrf',['MRF',['../classlightfields_1_1MRF.html#a8902896428701b3b03f29240af25eb68',1,'lightfields::MRF']]],
+  ['mu',['mu',['../classlightfields_1_1PDFGaussian.html#aaf4c4af065de202b134f1e8a78eb6eac',1,'lightfields::PDFGaussian']]],
   ['multiplicationnode',['multiplicationNode',['../tests_2dependency__graph_2common_8cpp.html#a1de568a9050aafb46d6948cbed945e81',1,'multiplicationNode():&#160;common.cpp'],['../tests_2dependency__graph_2common_8h.html#a1942cb2504c4fcb018ba00fa55773bf1',1,'multiplicationNode():&#160;common.cpp'],['../tests_2possumwood_2common_8cpp.html#a1942cb2504c4fcb018ba00fa55773bf1',1,'multiplicationNode():&#160;common.cpp'],['../tests_2possumwood_2common_8h.html#a1942cb2504c4fcb018ba00fa55773bf1',1,'multiplicationNode():&#160;common.cpp']]]
 ];

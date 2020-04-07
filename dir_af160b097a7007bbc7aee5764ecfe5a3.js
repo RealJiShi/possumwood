@@ -22,7 +22,10 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     ] ],
     [ "gaussian_integration.cpp", "gaussian__integration_8cpp.html", "gaussian__integration_8cpp" ],
     [ "gaussian_integration.h", "gaussian__integration_8h.html", "gaussian__integration_8h" ],
-    [ "grid.cpp", "libs_2lightfields_2grid_8cpp.html", null ],
+    [ "graph.cpp", "lightfields_2graph_8cpp.html", null ],
+    [ "graph.h", "lightfields_2graph_8h.html", [
+      [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ]
+    ] ],
     [ "grid.h", "libs_2lightfields_2grid_8h.html", [
       [ "Grid", "classlightfields_1_1Grid.html", "classlightfields_1_1Grid" ]
     ] ],
@@ -68,6 +71,7 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     ] ],
     [ "pattern.cpp", "pattern_8cpp.html", "pattern_8cpp" ],
     [ "pattern.h", "pattern_8h.html", "pattern_8h" ],
+    [ "pdf_gaussian.h", "pdf__gaussian_8h.html", "pdf__gaussian_8h" ],
     [ "pmf.cpp", "pmf_8cpp.html", "pmf_8cpp" ],
     [ "pmf.h", "pmf_8h.html", "pmf_8h" ],
     [ "push_relabel.cpp", "push__relabel_8cpp.html", null ],

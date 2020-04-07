@@ -4,6 +4,7 @@ var searchData=
   ['path_5fwidget_2eh',['path_widget.h',['../path__widget_8h.html',1,'']]],
   ['pattern_2ecpp',['pattern.cpp',['../pattern_8cpp.html',1,'']]],
   ['pattern_2eh',['pattern.h',['../pattern_8h.html',1,'']]],
+  ['pdf_5fgaussian_2eh',['pdf_gaussian.h',['../pdf__gaussian_8h.html',1,'']]],
   ['periodic_2ecpp',['periodic.cpp',['../periodic_8cpp.html',1,'']]],
   ['pmf_2ecpp',['pmf.cpp',['../pmf_8cpp.html',1,'']]],
   ['pmf_2eh',['pmf.h',['../pmf_8h.html',1,'']]],

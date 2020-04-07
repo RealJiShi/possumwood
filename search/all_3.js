@@ -70,7 +70,7 @@ var searchData=
   ['colours',['Colours',['../classpossumwood_1_1Colours.html',1,'possumwood']]],
   ['colours_2ecpp',['colours.cpp',['../colours_8cpp.html',1,'']]],
   ['colours_2eh',['colours.h',['../colours_8h.html',1,'']]],
-  ['cols',['cols',['../classlightfields_1_1JointPMF.html#adeaac8172cfb9e132a704fbd6126c4f0',1,'lightfields::JointPMF::cols()'],['../classpossumwood_1_1opencv_1_1Sequence.html#ae3c9be00da291fdf3777cd2703b59177',1,'possumwood::opencv::Sequence::cols()']]],
+  ['cols',['cols',['../classlightfields_1_1Grid.html#afcb0eb8847a8f121a81da71b64a17ca9',1,'lightfields::Grid::cols()'],['../classlightfields_1_1JointPMF.html#adeaac8172cfb9e132a704fbd6126c4f0',1,'lightfields::JointPMF::cols()'],['../classpossumwood_1_1opencv_1_1Sequence.html#ae3c9be00da291fdf3777cd2703b59177',1,'possumwood::opencv::Sequence::cols()']]],
   ['combine',['combine',['../classlightfields_1_1PMF.html#a2a6110fe9c68a291831de07b0e513ab5',1,'lightfields::PMF']]],
   ['comment',['comment',['../x_8cpp.html#a90111a504a39b0cb956a6c46b172608e',1,'x.cpp']]],
   ['commentstart',['commentStart',['../x_8cpp.html#abe6d8b34a832f08a7980967b1092ec1f',1,'x.cpp']]],

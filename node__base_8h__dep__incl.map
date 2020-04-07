@@ -28,7 +28,7 @@
 <area shape="rect" id="node25" href="$path__widget_8h.html" title="src/apps/possumwood\l/path_widget.h" alt="" coords="3021,184,3188,225"/>
 <area shape="rect" id="node26" href="$tree__widget_8h.html" title="src/apps/possumwood\l/tree_widget.h" alt="" coords="4292,273,4459,315"/>
 <area shape="rect" id="node27" href="$tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="4351,363,4517,404"/>
-<area shape="rect" id="node28" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="1557,273,1708,315"/>
+<area shape="rect" id="node28" href="$dependency__graph_2graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="1557,273,1708,315"/>
 <area shape="rect" id="node32" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="5,631,169,672"/>
 <area shape="rect" id="node33" href="$network__connections_8cpp.html" title="src/tests/dependency\l_graph/network_connections.cpp" alt="" coords="194,631,429,672"/>
 <area shape="rect" id="node34" href="$network__nodes_8cpp.html" title="src/tests/dependency\l_graph/network_nodes.cpp" alt="" coords="453,631,649,672"/>

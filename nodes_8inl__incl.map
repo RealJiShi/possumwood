@@ -1,6 +1,6 @@
 <map id="src/libs/dependency_graph/nodes.inl" name="src/libs/dependency_graph/nodes.inl">
 <area shape="rect" id="node2" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="1278,393,1351,420"/>
-<area shape="rect" id="node36" href="$graph_8h.html" title="graph.h" alt="" coords="1158,244,1229,271"/>
+<area shape="rect" id="node36" href="$dependency__graph_2graph_8h.html" title="graph.h" alt="" coords="1158,244,1229,271"/>
 <area shape="rect" id="node40" href="$node__base_8inl.html" title="node_base.inl" alt="" coords="1927,169,2039,196"/>
 <area shape="rect" id="node45" href="$nodes__iterator_8inl.html" title="nodes_iterator.inl" alt="" coords="1954,95,2089,121"/>
 <area shape="rect" id="node8" href="$data_8h.html" title="data.h" alt="" coords="2779,871,2842,897"/>

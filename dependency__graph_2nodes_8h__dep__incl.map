@@ -1,5 +1,5 @@
 <map id="src/libs/dependency_graph/nodes.h" name="src/libs/dependency_graph/nodes.h">
-<area shape="rect" id="node2" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="2889,184,3039,225"/>
+<area shape="rect" id="node2" href="$dependency__graph_2graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="2889,184,3039,225"/>
 <area shape="rect" id="node26" href="$nodes_8inl.html" title="src/libs/dependency\l_graph/nodes.inl" alt="" coords="1537,363,1687,404"/>
 <area shape="rect" id="node44" href="$network_8h.html" title="src/libs/dependency\l_graph/network.h" alt="" coords="807,95,958,136"/>
 <area shape="rect" id="node3" href="$adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="5170,363,5337,404"/>
@@ -15,7 +15,7 @@
 <area shape="rect" id="node22" href="$subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="3817,363,4031,404"/>
 <area shape="rect" id="node23" href="$subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="4056,363,4261,404"/>
 <area shape="rect" id="node24" href="$dependency__graph_2connections_8cpp.html" title="src/libs/dependency\l_graph/connections.cpp" alt="" coords="4625,273,4799,315"/>
-<area shape="rect" id="node25" href="$graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="1494,452,1645,493"/>
+<area shape="rect" id="node25" href="$dependency__graph_2graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="1494,452,1645,493"/>
 <area shape="rect" id="node28" href="$network_8cpp.html" title="src/libs/dependency\l_graph/network.cpp" alt="" coords="1022,452,1173,493"/>
 <area shape="rect" id="node29" href="$dependency__graph_2nodes_8cpp.html" title="src/libs/dependency\l_graph/nodes.cpp" alt="" coords="1669,452,1819,493"/>
 <area shape="rect" id="node30" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="2699,452,2863,493"/>

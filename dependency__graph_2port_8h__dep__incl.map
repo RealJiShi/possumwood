@@ -7,7 +7,7 @@
 <area shape="rect" id="node4" href="$path__widget_8h.html" title="src/apps/possumwood\l/path_widget.h" alt="" coords="4130,273,4297,315"/>
 <area shape="rect" id="node7" href="$tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="4570,452,4737,493"/>
 <area shape="rect" id="node9" href="$tree__widget_8h.html" title="src/apps/possumwood\l/tree_widget.h" alt="" coords="4423,273,4590,315"/>
-<area shape="rect" id="node10" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="2669,273,2819,315"/>
+<area shape="rect" id="node10" href="$dependency__graph_2graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="2669,273,2819,315"/>
 <area shape="rect" id="node13" href="$possumwood__sdk_2app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="2905,541,3063,583"/>
 <area shape="rect" id="node27" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="1659,541,1823,583"/>
 <area shape="rect" id="node29" href="$network__connections_8cpp.html" title="src/tests/dependency\l_graph/network_connections.cpp" alt="" coords="4619,541,4853,583"/>
@@ -36,7 +36,7 @@
 <area shape="rect" id="node20" href="$nested_8cpp.html" title="src/tests/possumwood\l/nested.cpp" alt="" coords="2287,541,2454,583"/>
 <area shape="rect" id="node21" href="$subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="1230,541,1445,583"/>
 <area shape="rect" id="node22" href="$subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="429,541,635,583"/>
-<area shape="rect" id="node23" href="$graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="3903,541,4054,583"/>
+<area shape="rect" id="node23" href="$dependency__graph_2graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="3903,541,4054,583"/>
 <area shape="rect" id="node24" href="$nodes_8inl.html" title="src/libs/dependency\l_graph/nodes.inl" alt="" coords="3837,452,3987,493"/>
 <area shape="rect" id="node25" href="$network_8cpp.html" title="src/libs/dependency\l_graph/network.cpp" alt="" coords="4269,541,4419,583"/>
 <area shape="rect" id="node26" href="$dependency__graph_2nodes_8cpp.html" title="src/libs/dependency\l_graph/nodes.cpp" alt="" coords="4443,541,4594,583"/>

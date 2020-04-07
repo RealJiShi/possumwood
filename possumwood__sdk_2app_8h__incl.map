@@ -1,5 +1,5 @@
 <map id="src/libs/possumwood_sdk/app.h" name="src/libs/possumwood_sdk/app.h">
-<area shape="rect" id="node5" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="2732,169,2931,196"/>
+<area shape="rect" id="node5" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="2732,169,2931,196"/>
 <area shape="rect" id="node32" href="$actions_2app_8h.html" title="actions/app.h" alt="" coords="3103,95,3213,121"/>
 <area shape="rect" id="node34" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="735,550,832,577"/>
 <area shape="rect" id="node46" href="$config_8h.html" title="config.h" alt="" coords="3427,468,3500,495"/>

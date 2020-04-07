@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$libs_2actions_2actions_8cpp.html" title="src/libs/actions/actions.cpp" alt="" coords="387,102,585,129"/>
 <area shape="rect" id="node5" href="$actions_2detail_2connections_8cpp.html" title="src/libs/actions/detail\l/connections.cpp" alt="" coords="609,95,769,136"/>
 <area shape="rect" id="node6" href="$actions_2detail_2values_8cpp.html" title="src/libs/actions/detail\l/values.cpp" alt="" coords="793,95,953,136"/>
-<area shape="rect" id="node7" href="$graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="977,95,1128,136"/>
+<area shape="rect" id="node7" href="$dependency__graph_2graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="977,95,1128,136"/>
 <area shape="rect" id="node8" href="$network_8cpp.html" title="src/libs/dependency\l_graph/network.cpp" alt="" coords="1152,95,1303,136"/>
 <area shape="rect" id="node9" href="$dependency__graph_2nodes_8cpp.html" title="src/libs/dependency\l_graph/nodes.cpp" alt="" coords="1327,95,1477,136"/>
 <area shape="rect" id="node10" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="1501,95,1665,136"/>

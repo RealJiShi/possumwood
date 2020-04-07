@@ -1,5 +1,5 @@
 <map id="src/libs/actions/app.h" name="src/libs/actions/app.h">
-<area shape="rect" id="node5" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1751,80,1950,107"/>
+<area shape="rect" id="node5" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1751,80,1950,107"/>
 <area shape="rect" id="node41" href="$undo__stack_8h.html" title="undo_stack.h" alt="" coords="1990,557,2098,584"/>
 <area shape="rect" id="node8" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1817,304,1884,331"/>
 <area shape="rect" id="node34" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="517,229,590,256"/>

@@ -1,6 +1,3 @@
 <map id="src/libs/lightfields/grid.h" name="src/libs/lightfields/grid.h">
-<area shape="rect" id="node2" href="$edmonds__karp_8cpp.html" title="src/libs/lightfields\l/edmonds_karp.cpp" alt="" coords="5,102,155,143"/>
-<area shape="rect" id="node3" href="$libs_2lightfields_2grid_8cpp.html" title="src/libs/lightfields\l/grid.cpp" alt="" coords="179,102,315,143"/>
-<area shape="rect" id="node4" href="$push__relabel_8cpp.html" title="src/libs/lightfields\l/push_relabel.cpp" alt="" coords="339,102,475,143"/>
-<area shape="rect" id="node5" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="499,95,648,151"/>
+<area shape="rect" id="node2" href="$mrf_8cpp.html" title="src/libs/lightfields\l/mrf.cpp" alt="" coords="5,95,141,136"/>
 </map>

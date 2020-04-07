@@ -5,10 +5,10 @@
 <area shape="rect" id="node14" href="$neighbours_8h.html" title="src/libs/lightfields\l/neighbours.h" alt="" coords="899,95,1035,136"/>
 <area shape="rect" id="node3" href="$bfs__visitors_8h.html" title="src/libs/lightfields\l/bfs_visitors.h" alt="" coords="157,184,293,225"/>
 <area shape="rect" id="node5" href="$edmonds__karp_8cpp.html" title="src/libs/lightfields\l/edmonds_karp.cpp" alt="" coords="165,281,315,322"/>
-<area shape="rect" id="node6" href="$libs_2lightfields_2grid_8h.html" title="src/libs/lightfields\l/grid.h" alt="" coords="419,184,555,225"/>
+<area shape="rect" id="node6" href="$lightfields_2graph_8h.html" title="src/libs/lightfields\l/graph.h" alt="" coords="419,184,555,225"/>
 <area shape="rect" id="node8" href="$push__relabel_8cpp.html" title="src/libs/lightfields\l/push_relabel.cpp" alt="" coords="339,281,475,322"/>
 <area shape="rect" id="node4" href="$bfs__visitors_8cpp.html" title="src/libs/lightfields\l/bfs_visitors.cpp" alt="" coords="5,281,141,322"/>
-<area shape="rect" id="node7" href="$libs_2lightfields_2grid_8cpp.html" title="src/libs/lightfields\l/grid.cpp" alt="" coords="672,281,808,322"/>
+<area shape="rect" id="node7" href="$lightfields_2graph_8cpp.html" title="src/libs/lightfields\l/graph.cpp" alt="" coords="672,281,808,322"/>
 <area shape="rect" id="node9" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="499,273,648,329"/>
 <area shape="rect" id="node11" href="$n__links_8cpp.html" title="src/libs/lightfields\l/n_links.cpp" alt="" coords="579,184,715,225"/>
 <area shape="rect" id="node13" href="$t__links_8cpp.html" title="src/libs/lightfields\l/t_links.cpp" alt="" coords="739,184,875,225"/>

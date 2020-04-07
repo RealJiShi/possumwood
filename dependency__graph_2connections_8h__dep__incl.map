@@ -1,6 +1,6 @@
 <map id="src/libs/dependency_graph/connections.h" name="src/libs/dependency_graph/connections.h">
 <area shape="rect" id="node2" href="$dependency__graph_2connections_8cpp.html" title="src/libs/dependency\l_graph/connections.cpp" alt="" coords="679,273,853,315"/>
-<area shape="rect" id="node3" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="3257,184,3408,225"/>
+<area shape="rect" id="node3" href="$dependency__graph_2graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="3257,184,3408,225"/>
 <area shape="rect" id="node44" href="$network_8h.html" title="src/libs/dependency\l_graph/network.h" alt="" coords="515,95,665,136"/>
 <area shape="rect" id="node4" href="$adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="5271,363,5437,404"/>
 <area shape="rect" id="node6" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="4548,541,4715,583"/>
@@ -14,7 +14,7 @@
 <area shape="rect" id="node23" href="$nested_8cpp.html" title="src/tests/possumwood\l/nested.cpp" alt="" coords="1803,452,1969,493"/>
 <area shape="rect" id="node24" href="$subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="3452,363,3667,404"/>
 <area shape="rect" id="node25" href="$subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="3691,363,3897,404"/>
-<area shape="rect" id="node26" href="$graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="3156,452,3307,493"/>
+<area shape="rect" id="node26" href="$dependency__graph_2graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="3156,452,3307,493"/>
 <area shape="rect" id="node27" href="$nodes_8inl.html" title="src/libs/dependency\l_graph/nodes.inl" alt="" coords="1673,363,1824,404"/>
 <area shape="rect" id="node28" href="$network_8cpp.html" title="src/libs/dependency\l_graph/network.cpp" alt="" coords="901,452,1052,493"/>
 <area shape="rect" id="node29" href="$dependency__graph_2nodes_8cpp.html" title="src/libs/dependency\l_graph/nodes.cpp" alt="" coords="3443,452,3593,493"/>

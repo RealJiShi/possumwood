@@ -17,7 +17,7 @@
 <area shape="rect" id="node21" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="566,572,626,599"/>
 <area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1551,871,1614,897"/>
 <area shape="rect" id="node20" href="$datablock_8h.html" title="datablock.h" alt="" coords="1917,647,2016,673"/>
-<area shape="rect" id="node25" href="$graph_8h.html" title="graph.h" alt="" coords="487,423,558,449"/>
+<area shape="rect" id="node25" href="$dependency__graph_2graph_8h.html" title="graph.h" alt="" coords="487,423,558,449"/>
 <area shape="rect" id="node26" href="$network_8h.html" title="network.h" alt="" coords="1063,497,1150,524"/>
 <area shape="rect" id="node28" href="$data_8inl.html" title="data.inl" alt="" coords="1550,721,1621,748"/>
 <area shape="rect" id="node32" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1383,572,1502,599"/>

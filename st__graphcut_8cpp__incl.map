@@ -3,7 +3,7 @@
 <area shape="rect" id="node30" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1115,601,1234,628"/>
 <area shape="rect" id="node39" href="$push__relabel_8h.html" title="lightfields/push_relabel.h" alt="" coords="3071,117,3257,143"/>
 <area shape="rect" id="node40" href="$edmonds__karp_8h.html" title="lightfields/edmonds\l_karp.h" alt="" coords="3281,109,3431,151"/>
-<area shape="rect" id="node41" href="$libs_2lightfields_2grid_8h.html" title="lightfields/grid.h" alt="" coords="2967,519,3094,546"/>
+<area shape="rect" id="node41" href="$lightfields_2graph_8h.html" title="lightfields/graph.h" alt="" coords="2961,519,3100,546"/>
 <area shape="rect" id="node45" href="$enum_8h.html" title="possumwood_sdk/datatypes\l/enum.h" alt="" coords="2011,512,2218,553"/>
 <area shape="rect" id="node48" href="$sequence_8h.html" title="sequence.h" alt="" coords="2643,437,2739,464"/>
 <area shape="rect" id="node7" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="477,273,689,300"/>
@@ -20,7 +20,7 @@
 <area shape="rect" id="node16" href="$attr_8h.html" title="attr.h" alt="" coords="651,833,707,859"/>
 <area shape="rect" id="node19" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="459,601,519,628"/>
 <area shape="rect" id="node18" href="$datablock_8h.html" title="datablock.h" alt="" coords="1664,676,1763,703"/>
-<area shape="rect" id="node22" href="$graph_8h.html" title="graph.h" alt="" coords="606,437,677,464"/>
+<area shape="rect" id="node22" href="$dependency__graph_2graph_8h.html" title="graph.h" alt="" coords="606,437,677,464"/>
 <area shape="rect" id="node23" href="$network_8h.html" title="network.h" alt="" coords="753,519,839,546"/>
 <area shape="rect" id="node25" href="$data_8inl.html" title="data.inl" alt="" coords="1187,751,1258,777"/>
 <area shape="rect" id="node34" href="$possumwood__sdk_2metadata_8h.html" title="metadata.h" alt="" coords="1331,273,1429,300"/>

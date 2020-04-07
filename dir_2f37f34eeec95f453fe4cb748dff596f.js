@@ -27,10 +27,10 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "detail.h", "detail_8h.html", [
       [ "MetadataAccess", "structdependency__graph_1_1detail_1_1MetadataAccess.html", "structdependency__graph_1_1detail_1_1MetadataAccess" ]
     ] ],
-    [ "graph.cpp", "graph_8cpp.html", [
+    [ "graph.cpp", "dependency__graph_2graph_8cpp.html", [
       [ "Signals", "structdependency__graph_1_1Graph_1_1Signals.html", "structdependency__graph_1_1Graph_1_1Signals" ]
     ] ],
-    [ "graph.h", "graph_8h.html", [
+    [ "graph.h", "dependency__graph_2graph_8h.html", [
       [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ]
     ] ],
     [ "io.cpp", "libs_2dependency__graph_2io_8cpp.html", "libs_2dependency__graph_2io_8cpp" ],

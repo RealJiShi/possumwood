@@ -2,10 +2,10 @@
 <area shape="rect" id="node2" href="$n__links_8h.html" title="src/libs/lightfields\l/n_links.h" alt="" coords="179,95,315,136"/>
 <area shape="rect" id="node9" href="$t__links_8h.html" title="src/libs/lightfields\l/t_links.h" alt="" coords="339,95,475,136"/>
 <area shape="rect" id="node11" href="$link_8cpp.html" title="src/libs/lightfields\l/link.cpp" alt="" coords="499,95,635,136"/>
-<area shape="rect" id="node3" href="$libs_2lightfields_2grid_8h.html" title="src/libs/lightfields\l/grid.h" alt="" coords="259,184,395,225"/>
+<area shape="rect" id="node3" href="$lightfields_2graph_8h.html" title="src/libs/lightfields\l/graph.h" alt="" coords="259,184,395,225"/>
 <area shape="rect" id="node8" href="$n__links_8cpp.html" title="src/libs/lightfields\l/n_links.cpp" alt="" coords="99,184,235,225"/>
 <area shape="rect" id="node4" href="$edmonds__karp_8cpp.html" title="src/libs/lightfields\l/edmonds_karp.cpp" alt="" coords="5,281,155,322"/>
-<area shape="rect" id="node5" href="$libs_2lightfields_2grid_8cpp.html" title="src/libs/lightfields\l/grid.cpp" alt="" coords="179,281,315,322"/>
+<area shape="rect" id="node5" href="$lightfields_2graph_8cpp.html" title="src/libs/lightfields\l/graph.cpp" alt="" coords="179,281,315,322"/>
 <area shape="rect" id="node6" href="$push__relabel_8cpp.html" title="src/libs/lightfields\l/push_relabel.cpp" alt="" coords="339,281,475,322"/>
 <area shape="rect" id="node7" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="499,273,648,329"/>
 <area shape="rect" id="node10" href="$t__links_8cpp.html" title="src/libs/lightfields\l/t_links.cpp" alt="" coords="419,184,555,225"/>

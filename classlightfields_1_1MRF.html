@@ -125,6 +125,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:acb035bc01d4d1268872f2d1c7c65bd74"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a79432166d8732a9aa2a2f07223dcd6a3"><td class="memItemLeft" align="right" valign="top">static cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#a79432166d8732a9aa2a2f07223dcd6a3">solvePropagation</a> (const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;source, float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;neighbourhood)</td></tr>
 <tr class="separator:a79432166d8732a9aa2a2f07223dcd6a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7cffa1f884a813f7f4492fd2f638e7c"><td class="memItemLeft" align="right" valign="top">static cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1MRF.html#ac7cffa1f884a813f7f4492fd2f638e7c">solvePDF</a> (const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;source, float inputsWeight, float flatnessWeight, float smoothnessWeight, std::size_t iterationLimit, const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;neighbourhood)</td></tr>
+<tr class="separator:ac7cffa1f884a813f7f4492fd2f638e7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -219,6 +221,66 @@ Private Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">cv::Mat lightfields::MRF::solveICM </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;&#160;</td>
+          <td class="paramname"><em>source</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>inputsWeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>flatnessWeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>smoothnessWeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>iterationLimit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Neighbours.html">Neighbours</a> &amp;&#160;</td>
+          <td class="paramname"><em>neighbourhood</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac7cffa1f884a813f7f4492fd2f638e7c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7cffa1f884a813f7f4492fd2f638e7c">&#9670;&nbsp;</a></span>solvePDF()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">cv::Mat lightfields::MRF::solvePDF </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="classlightfields_1_1MRF.html">MRF</a> &amp;&#160;</td>
           <td class="paramname"><em>source</em>, </td>
@@ -383,7 +445,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1MRF.html">MRF</a></li>
-    <li class="footer">Generated on Mon Apr 6 2020 01:23:17 for possumwood by
+    <li class="footer">Generated on Tue Apr 7 2020 00:40:05 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

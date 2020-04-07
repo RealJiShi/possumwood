@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>possumwood: lightfields::Grid Class Reference</title>
+<title>possumwood: lightfields::Grid&lt; VALUE &gt; Class Template Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -81,94 +81,76 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Grid.html','');});
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classlightfields_1_1Grid-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">lightfields::Grid Class Reference</div>  </div>
+<div class="title">lightfields::Grid&lt; VALUE &gt; Class Template Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>An abstraction of a grid graph - interconnected layers, with horizontal N links and vertical T links.  
+<p>A trivial grid abstraction (not std-compliant, no need for now)  
  <a href="classlightfields_1_1Grid.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="libs_2lightfields_2grid_8h_source.html">grid.h</a>&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for lightfields::Grid:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlightfields_1_1Grid__coll__graph.png" border="0" usemap="#lightfields_1_1Grid_coll__map" alt="Collaboration graph"/></div>
-<map name="lightfields_1_1Grid_coll__map" id="lightfields_1_1Grid_coll__map">
-<area shape="rect" id="node2" href="structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="5,5,141,47"/>
-</map>
-<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac3f07efeca66e951e58d6e9dac389d2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ac3f07efeca66e951e58d6e9dac389d2b">Grid</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;<a class="el" href="classlightfields_1_1Grid.html#a2fafa1e1acc470948a30aae6fd6b6287">size</a>, int n_link_value, std::size_t layer_count)</td></tr>
-<tr class="separator:ac3f07efeca66e951e58d6e9dac389d2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4f2f954aa3ffe65b97ac88aba10ef77f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a4f2f954aa3ffe65b97ac88aba10ef77f">setValue</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;pos, const std::vector&lt; int &gt; &amp;values, float power=1.0f)</td></tr>
-<tr class="separator:a4f2f954aa3ffe65b97ac88aba10ef77f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7aeaa9ed7bdac358efe4bf29ef866be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ae7aeaa9ed7bdac358efe4bf29ef866be">setLayer</a> (const cv::Mat &amp;vals, const std::size_t &amp;index, float power=1.0f)</td></tr>
-<tr class="separator:ae7aeaa9ed7bdac358efe4bf29ef866be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76c3b65c1e71378ff49292ab69fab224"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a76c3b65c1e71378ff49292ab69fab224">layerCount</a> () const</td></tr>
-<tr class="separator:a76c3b65c1e71378ff49292ab69fab224"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2fafa1e1acc470948a30aae6fd6b6287"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a2fafa1e1acc470948a30aae6fd6b6287">size</a> () const</td></tr>
-<tr class="separator:a2fafa1e1acc470948a30aae6fd6b6287"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9deeeb5079da5da52220e7e248949dda"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Link_1_1Direction.html">Link::Direction</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a9deeeb5079da5da52220e7e248949dda">edge</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;source, const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;target)</td></tr>
-<tr class="separator:a9deeeb5079da5da52220e7e248949dda"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a72f3b2bf3e3e6df9c22e42c07b92b977"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classlightfields_1_1Link_1_1Direction.html">Link::Direction</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a72f3b2bf3e3e6df9c22e42c07b92b977">edge</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;source, const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;target) const</td></tr>
-<tr class="separator:a72f3b2bf3e3e6df9c22e42c07b92b977"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae674bac761c2ace18835ecc42f135d54"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ae674bac761c2ace18835ecc42f135d54">minCut</a> () const</td></tr>
-<tr class="separator:ae674bac761c2ace18835ecc42f135d54"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a85ab8abe467f56c0a0ef28a8fc40d888"><td class="memItemLeft" align="right" valign="top">std::vector&lt; cv::Mat &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a85ab8abe467f56c0a0ef28a8fc40d888">debug</a> () const</td></tr>
-<tr class="separator:a85ab8abe467f56c0a0ef28a8fc40d888"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a9a5bc9be749a47702c1be39c9fd5b605"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a9a5bc9be749a47702c1be39c9fd5b605">v2i</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;<a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
-<tr class="separator:a9a5bc9be749a47702c1be39c9fd5b605"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac253dc851057c6804b09325e295562f2"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ac253dc851057c6804b09325e295562f2">t_flow</a> (const <a class="el" href="classlightfields_1_1TLinks.html">TLinks</a> &amp;t) const</td></tr>
-<tr class="separator:ac253dc851057c6804b09325e295562f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add9c36cd78a0dbb0d0793353fe84890f"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#add9c36cd78a0dbb0d0793353fe84890f">n_flow</a> (const <a class="el" href="classlightfields_1_1NLinks.html">NLinks</a> &amp;t) const</td></tr>
-<tr class="separator:add9c36cd78a0dbb0d0793353fe84890f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8061fbf826bba40d470bb6076bd08757"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a8061fbf826bba40d470bb6076bd08757">Grid</a> (unsigned <a class="el" href="classlightfields_1_1Grid.html#abe81efd8b5bd4468329c1027a3f89f30">rows</a>, unsigned <a class="el" href="classlightfields_1_1Grid.html#afcb0eb8847a8f121a81da71b64a17ca9">cols</a>, const VALUE &amp;value=VALUE())</td></tr>
+<tr class="separator:a8061fbf826bba40d470bb6076bd08757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90f4b27a5341d01c643fb55bf3ce50d0"><td class="memItemLeft" align="right" valign="top">VALUE &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a90f4b27a5341d01c643fb55bf3ce50d0">operator()</a> (unsigned row, unsigned col)</td></tr>
+<tr class="separator:a90f4b27a5341d01c643fb55bf3ce50d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3400d6c92bafa31e33df36d0669d449d"><td class="memItemLeft" align="right" valign="top">const VALUE &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a3400d6c92bafa31e33df36d0669d449d">operator()</a> (unsigned row, unsigned col) const</td></tr>
+<tr class="separator:a3400d6c92bafa31e33df36d0669d449d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe81efd8b5bd4468329c1027a3f89f30"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#abe81efd8b5bd4468329c1027a3f89f30">rows</a> () const</td></tr>
+<tr class="separator:abe81efd8b5bd4468329c1027a3f89f30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcb0eb8847a8f121a81da71b64a17ca9"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#afcb0eb8847a8f121a81da71b64a17ca9">cols</a> () const</td></tr>
+<tr class="separator:afcb0eb8847a8f121a81da71b64a17ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad68d46b605f90b75a3fdf343241c60be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ad68d46b605f90b75a3fdf343241c60be">swap</a> (<a class="el" href="classlightfields_1_1Grid.html">Grid</a> &amp;g)</td></tr>
+<tr class="separator:ad68d46b605f90b75a3fdf343241c60be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a2d4408653947f3635f6c9191fea972fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a2d4408653947f3635f6c9191fea972fc">m_size</a></td></tr>
-<tr class="separator:a2d4408653947f3635f6c9191fea972fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad3f848f523839bdab11dfa2647f13397"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ad3f848f523839bdab11dfa2647f13397">m_nLinkValue</a></td></tr>
-<tr class="separator:ad3f848f523839bdab11dfa2647f13397"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a14b1b1fd28b07fe40519fc9bfee0ca16"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classlightfields_1_1TLinks.html">TLinks</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a14b1b1fd28b07fe40519fc9bfee0ca16">m_tLinks</a></td></tr>
-<tr class="separator:a14b1b1fd28b07fe40519fc9bfee0ca16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e785366e10ac8363f9965f294ce7776"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classlightfields_1_1NLinks.html">NLinks</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a6e785366e10ac8363f9965f294ce7776">m_nLinks</a></td></tr>
-<tr class="separator:a6e785366e10ac8363f9965f294ce7776"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac518072af734c2a677b61bd489aa535c"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ac518072af734c2a677b61bd489aa535c">m_rows</a></td></tr>
+<tr class="separator:ac518072af734c2a677b61bd489aa535c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fdebfd7bf362edec3711fa96df2c40b"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a2fdebfd7bf362edec3711fa96df2c40b">m_cols</a></td></tr>
+<tr class="separator:a2fdebfd7bf362edec3711fa96df2c40b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63a85f0cd3e2966dda6f0e75d8138187"><td class="memItemLeft" align="right" valign="top">std::vector&lt; VALUE &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a63a85f0cd3e2966dda6f0e75d8138187">m_p</a></td></tr>
+<tr class="separator:a63a85f0cd3e2966dda6f0e75d8138187"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>An abstraction of a grid graph - interconnected layers, with horizontal N links and vertical T links. </p>
+<div class="textblock"><h3>template&lt;typename VALUE&gt;<br />
+class lightfields::Grid&lt; VALUE &gt;</h3>
+
+<p>A trivial grid abstraction (not std-compliant, no need for now) </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ac3f07efeca66e951e58d6e9dac389d2b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac3f07efeca66e951e58d6e9dac389d2b">&#9670;&nbsp;</a></span>Grid()</h2>
+<a id="a8061fbf826bba40d470bb6076bd08757"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8061fbf826bba40d470bb6076bd08757">&#9670;&nbsp;</a></span>Grid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">lightfields::Grid::Grid </td>
+          <td class="memname"><a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::<a class="el" href="classlightfields_1_1Grid.html">Grid</a> </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
-          <td class="paramname"><em>size</em>, </td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>rows</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>n_link_value</em>, </td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>cols</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>layer_count</em>&#160;</td>
+          <td class="paramtype">const VALUE &amp;&#160;</td>
+          <td class="paramname"><em>value</em> = <code>VALUE()</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -176,45 +158,65 @@ Private Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a85ab8abe467f56c0a0ef28a8fc40d888"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a85ab8abe467f56c0a0ef28a8fc40d888">&#9670;&nbsp;</a></span>debug()</h2>
+<a id="afcb0eb8847a8f121a81da71b64a17ca9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afcb0eb8847a8f121a81da71b64a17ca9">&#9670;&nbsp;</a></span>cols()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt; cv::Mat &gt; lightfields::Grid::debug </td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::cols </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a9deeeb5079da5da52220e7e248949dda"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9deeeb5079da5da52220e7e248949dda">&#9670;&nbsp;</a></span>edge() <span class="overload">[1/2]</span></h2>
+<a id="a90f4b27a5341d01c643fb55bf3ce50d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90f4b27a5341d01c643fb55bf3ce50d0">&#9670;&nbsp;</a></span>operator()() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlightfields_1_1Link_1_1Direction.html">Link::Direction</a> &amp; lightfields::Grid::edge </td>
+          <td class="memname">VALUE&amp; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::operator() </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>row</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>col</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -222,27 +224,37 @@ Private Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a72f3b2bf3e3e6df9c22e42c07b92b977"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72f3b2bf3e3e6df9c22e42c07b92b977">&#9670;&nbsp;</a></span>edge() <span class="overload">[2/2]</span></h2>
+<a id="a3400d6c92bafa31e33df36d0669d449d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3400d6c92bafa31e33df36d0669d449d">&#9670;&nbsp;</a></span>operator()() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="classlightfields_1_1Link_1_1Direction.html">Link::Direction</a> &amp; lightfields::Grid::edge </td>
+          <td class="memname">const VALUE&amp; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::operator() </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>row</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>col</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -250,201 +262,64 @@ Private Attributes</h2></td></tr>
           <td></td><td> const</td>
         </tr>
       </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a76c3b65c1e71378ff49292ab69fab224"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76c3b65c1e71378ff49292ab69fab224">&#9670;&nbsp;</a></span>layerCount()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t lightfields::Grid::layerCount </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae674bac761c2ace18835ecc42f135d54"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae674bac761c2ace18835ecc42f135d54">&#9670;&nbsp;</a></span>minCut()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">cv::Mat lightfields::Grid::minCut </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="add9c36cd78a0dbb0d0793353fe84890f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add9c36cd78a0dbb0d0793353fe84890f">&#9670;&nbsp;</a></span>n_flow()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">cv::Mat lightfields::Grid::n_flow </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classlightfields_1_1NLinks.html">NLinks</a> &amp;&#160;</td>
-          <td class="paramname"><em>t</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="ae7aeaa9ed7bdac358efe4bf29ef866be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7aeaa9ed7bdac358efe4bf29ef866be">&#9670;&nbsp;</a></span>setLayer()</h2>
+<a id="abe81efd8b5bd4468329c1027a3f89f30"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe81efd8b5bd4468329c1027a3f89f30">&#9670;&nbsp;</a></span>rows()</h2>
 
 <div class="memitem">
 <div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void lightfields::Grid::setLayer </td>
-          <td>(</td>
-          <td class="paramtype">const cv::Mat &amp;&#160;</td>
-          <td class="paramname"><em>vals</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::size_t &amp;&#160;</td>
-          <td class="paramname"><em>index</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>power</em> = <code>1.0f</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4f2f954aa3ffe65b97ac88aba10ef77f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4f2f954aa3ffe65b97ac88aba10ef77f">&#9670;&nbsp;</a></span>setValue()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void lightfields::Grid::setValue </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
-          <td class="paramname"><em>pos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::vector&lt; int &gt; &amp;&#160;</td>
-          <td class="paramname"><em>values</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>power</em> = <code>1.0f</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a2fafa1e1acc470948a30aae6fd6b6287"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2fafa1e1acc470948a30aae6fd6b6287">&#9670;&nbsp;</a></span>size()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> lightfields::Grid::size </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac253dc851057c6804b09325e295562f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac253dc851057c6804b09325e295562f2">&#9670;&nbsp;</a></span>t_flow()</h2>
-
-<div class="memitem">
-<div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">cv::Mat lightfields::Grid::t_flow </td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::rows </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="classlightfields_1_1TLinks.html">TLinks</a> &amp;&#160;</td>
-          <td class="paramname"><em>t</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a9a5bc9be749a47702c1be39c9fd5b605"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a5bc9be749a47702c1be39c9fd5b605">&#9670;&nbsp;</a></span>v2i()</h2>
+<a id="ad68d46b605f90b75a3fdf343241c60be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad68d46b605f90b75a3fdf343241c60be">&#9670;&nbsp;</a></span>swap()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t lightfields::Grid::v2i </td>
+          <td class="memname">void <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::swap </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
-          <td class="paramname"><em>v</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="classlightfields_1_1Grid.html">Grid</a>&lt; VALUE &gt; &amp;&#160;</td>
+          <td class="paramname"><em>g</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -452,17 +327,19 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a6e785366e10ac8363f9965f294ce7776"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6e785366e10ac8363f9965f294ce7776">&#9670;&nbsp;</a></span>m_nLinks</h2>
+<a id="a2fdebfd7bf362edec3711fa96df2c40b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2fdebfd7bf362edec3711fa96df2c40b">&#9670;&nbsp;</a></span>m_cols</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="classlightfields_1_1NLinks.html">NLinks</a>&gt; lightfields::Grid::m_nLinks</td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::m_cols</td>
         </tr>
       </table>
   </td>
@@ -474,17 +351,19 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ad3f848f523839bdab11dfa2647f13397"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad3f848f523839bdab11dfa2647f13397">&#9670;&nbsp;</a></span>m_nLinkValue</h2>
+<a id="a63a85f0cd3e2966dda6f0e75d8138187"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63a85f0cd3e2966dda6f0e75d8138187">&#9670;&nbsp;</a></span>m_p</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int lightfields::Grid::m_nLinkValue</td>
+          <td class="memname">std::vector&lt;VALUE&gt; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::m_p</td>
         </tr>
       </table>
   </td>
@@ -496,17 +375,19 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a2d4408653947f3635f6c9191fea972fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d4408653947f3635f6c9191fea972fc">&#9670;&nbsp;</a></span>m_size</h2>
+<a id="ac518072af734c2a677b61bd489aa535c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac518072af734c2a677b61bd489aa535c">&#9670;&nbsp;</a></span>m_rows</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> lightfields::Grid::m_size</td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::m_rows</td>
         </tr>
       </table>
   </td>
@@ -518,31 +399,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a14b1b1fd28b07fe40519fc9bfee0ca16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a14b1b1fd28b07fe40519fc9bfee0ca16">&#9670;&nbsp;</a></span>m_tLinks</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="classlightfields_1_1TLinks.html">TLinks</a>&gt; lightfields::Grid::m_tLinks</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<hr/>The documentation for this class was generated from the following files:<ul>
+<hr/>The documentation for this class was generated from the following file:<ul>
 <li>src/libs/lightfields/<a class="el" href="libs_2lightfields_2grid_8h_source.html">grid.h</a></li>
-<li>src/libs/lightfields/<a class="el" href="libs_2lightfields_2grid_8cpp.html">grid.cpp</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -550,7 +408,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Grid.html">Grid</a></li>
-    <li class="footer">Generated on Mon Apr 6 2020 01:23:17 for possumwood by
+    <li class="footer">Generated on Tue Apr 7 2020 00:40:05 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

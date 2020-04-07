@@ -27,7 +27,7 @@
 <area shape="rect" id="node8" href="$path__widget_8cpp.html" title="src/apps/possumwood\l/path_widget.cpp" alt="" coords="959,288,1125,329"/>
 <area shape="rect" id="node9" href="$actions_2detail_2connections_8cpp.html" title="src/libs/actions/detail\l/connections.cpp" alt="" coords="1150,288,1310,329"/>
 <area shape="rect" id="node10" href="$actions_2detail_2values_8cpp.html" title="src/libs/actions/detail\l/values.cpp" alt="" coords="1334,288,1494,329"/>
-<area shape="rect" id="node11" href="$graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="593,288,744,329"/>
+<area shape="rect" id="node11" href="$dependency__graph_2graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="593,288,744,329"/>
 <area shape="rect" id="node13" href="$dependency__graph_2nodes_8cpp.html" title="src/libs/dependency\l_graph/nodes.cpp" alt="" coords="1519,288,1669,329"/>
 <area shape="rect" id="node20" href="$nested_8cpp.html" title="src/tests/possumwood\l/nested.cpp" alt="" coords="768,288,935,329"/>
 <area shape="rect" id="node23" href="$libs_2actions_2detail_2metadata_8cpp.html" title="src/libs/actions/detail\l/metadata.cpp" alt="" coords="2074,191,2234,233"/>

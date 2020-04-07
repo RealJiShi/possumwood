@@ -1,7 +1,7 @@
 <map id="src/libs/dependency_graph/port.inl" name="src/libs/dependency_graph/port.inl">
 <area shape="rect" id="node2" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="481,401,541,427"/>
 <area shape="rect" id="node17" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="750,319,817,345"/>
-<area shape="rect" id="node32" href="$graph_8h.html" title="graph.h" alt="" coords="1183,95,1253,121"/>
+<area shape="rect" id="node32" href="$dependency__graph_2graph_8h.html" title="graph.h" alt="" coords="1183,95,1253,121"/>
 <area shape="rect" id="node7" href="$attr_8h.html" title="attr.h" alt="" coords="418,654,474,681"/>
 <area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="248,736,311,763"/>
 <area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="434,811,538,837"/>

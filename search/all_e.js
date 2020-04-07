@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_5fflow',['n_flow',['../classlightfields_1_1Grid.html#add9c36cd78a0dbb0d0793353fe84890f',1,'lightfields::Grid']]],
+  ['n_5fflow',['n_flow',['../classlightfields_1_1Graph.html#af1788199da4311b37d67cd5468ad0832',1,'lightfields::Graph']]],
   ['n_5flayer',['n_layer',['../structlightfields_1_1Index.html#aa7eb5c3e5299b5da57846faeb9262081',1,'lightfields::Index']]],
   ['n_5flinks_2ecpp',['n_links.cpp',['../n__links_8cpp.html',1,'']]],
   ['n_5flinks_2eh',['n_links.h',['../n__links_8h.html',1,'']]],

@@ -1,5 +1,5 @@
 <map id="src/tests/possumwood/clipboard.cpp" name="src/tests/possumwood/clipboard.cpp">
-<area shape="rect" id="node4" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1702,259,1901,285"/>
+<area shape="rect" id="node4" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1702,259,1901,285"/>
 <area shape="rect" id="node34" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2665,565,2845,591"/>
 <area shape="rect" id="node35" href="$nodes__iterator_8inl.html" title="dependency_graph/nodes\l_iterator.inl" alt="" coords="586,95,774,136"/>
 <area shape="rect" id="node36" href="$node__base_8inl.html" title="node_base.inl" alt="" coords="1200,184,1312,211"/>

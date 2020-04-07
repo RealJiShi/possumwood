@@ -1,6 +1,6 @@
 <map id="src/libs/actions/app.cpp" name="src/libs/actions/app.cpp">
 <area shape="rect" id="node2" href="$actions_2app_8h.html" title="app.h" alt="" coords="2405,80,2464,107"/>
-<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1751,155,1950,181"/>
+<area shape="rect" id="node6" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1751,155,1950,181"/>
 <area shape="rect" id="node42" href="$undo__stack_8h.html" title="undo_stack.h" alt="" coords="1990,632,2098,659"/>
 <area shape="rect" id="node9" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1817,379,1884,405"/>
 <area shape="rect" id="node35" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="517,304,590,331"/>

@@ -1,5 +1,5 @@
 <map id="src/tests/dependency_graph/graph_connections.cpp" name="src/tests/dependency_graph/graph_connections.cpp">
-<area shape="rect" id="node3" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1809,319,2007,345"/>
+<area shape="rect" id="node3" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1809,319,2007,345"/>
 <area shape="rect" id="node35" href="$nodes_8inl.html" title="dependency_graph/nodes.inl" alt="" coords="1567,95,1775,121"/>
 <area shape="rect" id="node36" href="$node__base_8inl.html" title="node_base.inl" alt="" coords="1432,244,1544,271"/>
 <area shape="rect" id="node38" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="383,617,489,644"/>

@@ -1,7 +1,7 @@
 <map id="src/tests/possumwood/subnetwork_evaluation.cpp" name="src/tests/possumwood/subnetwork_evaluation.cpp">
 <area shape="rect" id="node3" href="$attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="5,572,196,599"/>
 <area shape="rect" id="node17" href="$dependency__graph_2metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="221,572,453,599"/>
-<area shape="rect" id="node27" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1643,266,1841,293"/>
+<area shape="rect" id="node27" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1643,266,1841,293"/>
 <area shape="rect" id="node38" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="603,184,798,211"/>
 <area shape="rect" id="node39" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="492,102,704,129"/>
 <area shape="rect" id="node41" href="$metadata__register_8h.html" title="dependency_graph/metadata\l_register.h" alt="" coords="856,259,1068,300"/>
