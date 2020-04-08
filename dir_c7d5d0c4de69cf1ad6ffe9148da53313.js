@@ -27,7 +27,9 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
       [ "Grid", "classpossumwood_1_1Grid.html", "classpossumwood_1_1Grid" ]
     ] ],
     [ "main.cpp", "apps_2possumwood_2main_8cpp.html", "apps_2possumwood_2main_8cpp" ],
-    [ "main_window.cpp", "main__window_8cpp.html", null ],
+    [ "main_window.cpp", "main__window_8cpp.html", [
+      [ "TabFilter", "classMainWindow_1_1TabFilter.html", "classMainWindow_1_1TabFilter" ]
+    ] ],
     [ "main_window.h", "main__window_8h.html", [
       [ "MainWindow", "classMainWindow.html", "classMainWindow" ]
     ] ],

@@ -1,6 +1,7 @@
 var searchData=
 [
   ['ui',['ui',['../structProperties_1_1PropertyHolder.html#a709c484253f377ffdecf8485a8823d4b',1,'Properties::PropertyHolder']]],
+  ['uitype',['uiType',['../classpossumwood_1_1properties_1_1factory.html#a274c30977b663289c3a8a038f28d21b2',1,'possumwood::properties::factory::uiType()'],['../classpossumwood_1_1properties_1_1factory__typed.html#a143e90d6586ebb5082d570531f0ea1f5',1,'possumwood::properties::factory_typed::uiType()']]],
   ['uivalueconnection',['uiValueConnection',['../structProperties_1_1PropertyHolder.html#a835488123813a8a2fa76e9f914d88414',1,'Properties::PropertyHolder']]],
   ['uncvref_5ft',['uncvref_t',['../namespacepossumwood_1_1io_1_1detail.html#a6acc76db2d0ec03e5aede53165f8d853',1,'possumwood::io::detail']]],
   ['undistort_2ecpp',['undistort.cpp',['../undistort_8cpp.html',1,'']]],
@@ -9,7 +10,7 @@ var searchData=
   ['undo_5fstack_2eh',['undo_stack.h',['../undo__stack_8h.html',1,'']]],
   ['undoaction',['undoAction',['../classAdaptor.html#ad6ace4e0207f7286959f3a02068c3fa7',1,'Adaptor']]],
   ['undoactioncount',['undoActionCount',['../classpossumwood_1_1UndoStack.html#a10da3c8dfa705a0725b5574f4a609e6a',1,'possumwood::UndoStack']]],
-  ['undostack',['UndoStack',['../classpossumwood_1_1UndoStack.html',1,'possumwood::UndoStack'],['../classpossumwood_1_1UndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834',1,'possumwood::UndoStack::Action::UndoStack()'],['../classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848',1,'possumwood::UndoStack::UndoStack()'],['../classpossumwood_1_1AppCore.html#a8507b9587371ceba672687266fd7104d',1,'possumwood::AppCore::undoStack()']]],
+  ['undostack',['UndoStack',['../classpossumwood_1_1UndoStack.html',1,'possumwood::UndoStack'],['../classpossumwood_1_1AppCore.html#a8507b9587371ceba672687266fd7104d',1,'possumwood::AppCore::undoStack()'],['../classpossumwood_1_1UndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834',1,'possumwood::UndoStack::Action::UndoStack()'],['../classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848',1,'possumwood::UndoStack::UndoStack()']]],
   ['unescape',['unescape',['../classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html#af61afaa97cfec9a0817b58717cb66d78',1,'possumwood::io::basic_json::json_pointer']]],
   ['unexpect',['unexpect',['../classpossumwood_1_1io_1_1basic__json_1_1parser.html#a00cb2a9906efd90fbcdd13ddec44fbee',1,'possumwood::io::basic_json::parser']]],
   ['unflatten',['unflatten',['../classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html#a6fee21585c67d92ccfb0df2d9be0f490',1,'possumwood::io::basic_json::json_pointer::unflatten()'],['../classpossumwood_1_1io_1_1basic__json.html#a890f2633c37962ef3b8fcd588b04d060',1,'possumwood::io::basic_json::unflatten()']]],
@@ -29,9 +30,6 @@ var searchData=
   ['unmangledtypeid',['unmangledTypeId',['../namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4',1,'dependency_graph::unmangledTypeId()'],['../namespacedependency__graph.html#acf25cc560904d8461499b516d370ab89',1,'dependency_graph::unmangledTypeId(const T &amp;)']]],
   ['unmangledtypeid_3c_20std_3a_3atype_5findex_20_3e',['unmangledTypeId&lt; std::type_index &gt;',['../namespacedependency__graph.html#a98ed9f7a258ac4913c269fc4a1ffb5c2',1,'dependency_graph']]],
   ['unsigned_2ecpp',['unsigned.cpp',['../unsigned_8cpp.html',1,'']]],
-  ['unsigned_5fui',['unsigned_ui',['../classunsigned__ui.html',1,'unsigned_ui'],['../classunsigned__ui.html#a822d91bf8f22f16670d90bee0af1e64b',1,'unsigned_ui::unsigned_ui()']]],
-  ['unsigned_5fui_2ecpp',['unsigned_ui.cpp',['../unsigned__ui_8cpp.html',1,'']]],
-  ['unsigned_5fui_2eh',['unsigned_ui.h',['../unsigned__ui_8h.html',1,'']]],
   ['update',['update',['../structpossumwood_1_1VertexData_1_1VBOHolder.html#a1429bca75cc9b8b73f11c94accb84b6c',1,'possumwood::VertexData::VBOHolder::update()'],['../structpossumwood_1_1properties_1_1property__updater_3_01T_00_01DERIVED_00_01typename_01std_1_1en89669dad3162c0dd501902104a2e3fc8.html#a70783ec364ad238bc30a6dd2363a4647',1,'possumwood::properties::property_updater&lt; T, DERIVED, typename std::enable_if&lt; std::is_copy_constructible&lt; T &gt;::value &gt;::type &gt;::update()'],['../structpossumwood_1_1properties_1_1property__updater_3_01T_00_01DERIVED_00_01typename_01std_1_1en47e69a464480f7a459f8bf6a86b60379.html#a501b43410cfd4c5657a78d1f94b45968',1,'possumwood::properties::property_updater&lt; T, DERIVED, typename std::enable_if&lt; not std::is_copy_constructible&lt; T &gt;::value &gt;::type &gt;::update()']]],
   ['updatefunctor',['updateFunctor',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#aeaafb4ce9945732f2308797ab057fa92',1,'possumwood::Uniforms::UniformHolder']]],
   ['updateinterval',['updateInterval',['../classIntervalDialog.html#aac3a141a767a9666c4e07094e5d1bd1a',1,'IntervalDialog']]],

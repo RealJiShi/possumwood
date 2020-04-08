@@ -1,6 +1,6 @@
 <map id="src/plugins/maths/nodes/make_vec3.cpp" name="src/plugins/maths/nodes/make_vec3.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="862,95,1037,136"/>
-<area shape="rect" id="node50" href="$io_2vec3_8h.html" title="io/vec3.h" alt="" coords="2954,102,3035,129"/>
+<area shape="rect" id="node50" href="$vec3_8h.html" title="io/vec3.h" alt="" coords="2954,102,3035,129"/>
 <area shape="rect" id="node7" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="581,184,793,211"/>
 <area shape="rect" id="node9" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="791,572,857,599"/>
 <area shape="rect" id="node32" href="$port_8inl.html" title="port.inl" alt="" coords="577,266,645,293"/>

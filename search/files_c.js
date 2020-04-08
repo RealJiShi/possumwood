@@ -28,7 +28,9 @@ var searchData=
   ['nodes_5fiterator_2eh',['nodes_iterator.h',['../nodes__iterator_8h.html',1,'']]],
   ['nodes_5fiterator_2einl',['nodes_iterator.inl',['../nodes__iterator_8inl.html',1,'']]],
   ['normal_2ecpp',['normal.cpp',['../normal_8cpp.html',1,'']]],
-  ['normalize_2ecpp',['normalize.cpp',['../normalize_8cpp.html',1,'(Global Namespace)'],['../sequence_2normalize_8cpp.html',1,'(Global Namespace)']]],
+  ['normalize_2ecpp',['normalize.cpp',['../normalize_8cpp.html',1,'']]],
   ['normals_5fgenerator_2ecpp',['normals_generator.cpp',['../normals__generator_8cpp.html',1,'']]],
-  ['not_2ecpp',['not.cpp',['../not_8cpp.html',1,'']]]
+  ['not_2ecpp',['not.cpp',['../not_8cpp.html',1,'']]],
+  ['number_5fui_2ecpp',['number_ui.cpp',['../number__ui_8cpp.html',1,'']]],
+  ['number_5fui_2eh',['number_ui.h',['../number__ui_8h.html',1,'']]]
 ];

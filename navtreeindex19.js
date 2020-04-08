@@ -1,5 +1,14 @@
 var NAVTREEINDEX19 =
 {
+"structnode__editor_1_1GraphScene_1_1Selection.html#ac4d32a5ba0fd72f7b7520d1d3cb5a96f":[2,0,3,2,0,1],
+"structnode__editor_1_1Node_1_1PortDefinition.html":[2,0,3,4,0],
+"structnode__editor_1_1Node_1_1PortDefinition.html#a2cc13b6cb01be56f86e91ef923338f0d":[2,0,3,4,0,4],
+"structnode__editor_1_1Node_1_1PortDefinition.html#a4603847537b64f0e6b7d707abcc06f11":[2,0,3,4,0,2],
+"structnode__editor_1_1Node_1_1PortDefinition.html#a6582da153181d276efb7c061edcf8cab":[2,0,3,4,0,3],
+"structnode__editor_1_1Node_1_1PortDefinition.html#a70a97280d05ee3d33d4ce99c9a9cdf29":[2,0,3,4,0,1],
+"structnode__editor_1_1Node_1_1PortDefinition.html#a88751825b4832061bbbb989e98d1d819":[2,0,3,4,0,5],
+"structnode__editor_1_1Node_1_1PortDefinition.html#a8d34faf172f15e31f17eda9e9515be6f":[2,0,3,4,0,0],
+"structopenanim_1_1RigData.html":[2,0,4,0],
 "structopenanim_1_1RigData.html#a4293272d5655b303a11aef6fccb55760":[2,0,4,0,1],
 "structopenanim_1_1RigData.html#ab6224d771f4b58fe2716fe4c86957dd9":[2,0,4,0,0],
 "structpossumwood_1_1CGALFace.html":[2,0,5,17],
@@ -240,14 +249,5 @@ var NAVTREEINDEX19 =
 "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a40a829e8536838b756c50a5b4f09b10b":[2,0,5,113,3,3],
 "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a4f7a40a176d5fd260f75c53596e42a8c":[2,0,5,113,3,2],
 "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a6126587ba9a55f3a131b3b73a43f66bb":[2,0,5,113,3,0],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a9f2255c056556395f0bfed47c71eb7ad":[2,0,5,113,3,6],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#aa08a7f9b366a8642f628ba316bc1704f":[2,0,5,113,3,9],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae26596ad855a39f65b5652b257b908db":[2,0,5,113,3,4],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae3870648498c76866c26f4e49f8d36a7":[2,0,5,113,3,5],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae4e70efa4a9798ebcca247339a8d0ac0":[2,0,5,113,3,1],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#aeaafb4ce9945732f2308797ab057fa92":[2,0,5,113,3,7],
-"structpossumwood_1_1VBOTraits.html":[2,0,5,116],
-"structpossumwood_1_1VBOTraits.html#a4001f4ccbdd9495d199f3e82a711b280":[2,0,5,116,0],
-"structpossumwood_1_1VBOTraits.html#afcb389218b785193ccb34b0c5678a1f3":[2,0,5,116,1],
-"structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html":[2,0,5,117]
+"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a9f2255c056556395f0bfed47c71eb7ad":[2,0,5,113,3,6]
 };

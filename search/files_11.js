@@ -27,7 +27,7 @@ var searchData=
   ['skinning_2eh',['skinning.h',['../skinning_8h.html',1,'']]],
   ['source_5feditor_2ecpp',['source_editor.cpp',['../source__editor_8cpp.html',1,'']]],
   ['source_5feditor_2eh',['source_editor.h',['../source__editor_8h.html',1,'']]],
-  ['split_2ecpp',['split.cpp',['../split_8cpp.html',1,'']]],
+  ['split_2ecpp',['split.cpp',['../sequence_2split_8cpp.html',1,'(Global Namespace)'],['../split_8cpp.html',1,'(Global Namespace)']]],
   ['split_5fvec2_2ecpp',['split_vec2.cpp',['../split__vec2_8cpp.html',1,'']]],
   ['split_5fvec3_2ecpp',['split_vec3.cpp',['../split__vec3_8cpp.html',1,'']]],
   ['st_5fgraphcut_2ecpp',['st_graphcut.cpp',['../st__graphcut_8cpp.html',1,'']]],
@@ -46,5 +46,5 @@ var searchData=
   ['subset_2ecpp',['subset.cpp',['../subset_8cpp.html',1,'']]],
   ['subset_5fselection_2ecpp',['subset_selection.cpp',['../subset__selection_8cpp.html',1,'']]],
   ['subset_5fselection_2eh',['subset_selection.h',['../subset__selection_8h.html',1,'']]],
-  ['subtract_2ecpp',['subtract.cpp',['../subtract_8cpp.html',1,'']]]
+  ['subtract_2ecpp',['subtract.cpp',['../sequence_2subtract_8cpp.html',1,'(Global Namespace)'],['../subtract_8cpp.html',1,'(Global Namespace)']]]
 ];

@@ -11,8 +11,6 @@ var searchData=
   ['filter_5fmedian_2ecpp',['filter_median.cpp',['../filter__median_8cpp.html',1,'']]],
   ['findpattern_2ecpp',['findPattern.cpp',['../findPattern_8cpp.html',1,'']]],
   ['float_2ecpp',['float.cpp',['../float_8cpp.html',1,'']]],
-  ['float_5fui_2ecpp',['float_ui.cpp',['../float__ui_8cpp.html',1,'']]],
-  ['float_5fui_2eh',['float_ui.h',['../float__ui_8h.html',1,'']]],
   ['font_2ecpp',['font.cpp',['../datatypes_2font_8cpp.html',1,'(Global Namespace)'],['../nodes_2font_8cpp.html',1,'(Global Namespace)']]],
   ['font_2eh',['font.h',['../font_8h.html',1,'']]],
   ['fragment_5fshader_2ecpp',['fragment_shader.cpp',['../fragment__shader_8cpp.html',1,'']]],

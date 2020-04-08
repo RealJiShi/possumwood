@@ -6,35 +6,27 @@
 <area shape="rect" id="node9" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::Skeleton,\l Skeleton \&gt;" alt="" coords="413,283,615,339"/>
 <area shape="rect" id="node11" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::SubsetSelection,\l MeshSubsetEditor \&gt;" alt="" coords="389,363,639,419"/>
 <area shape="rect" id="node13" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; bool, bool_ui \&gt;" alt="" coords="415,443,613,485"/>
-<area shape="rect" id="node15" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; float, float_ui \&gt;" alt="" coords="414,509,614,550"/>
-<area shape="rect" id="node17" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Imath::Vec2\l\&lt; float \&gt;, vec2_ui \&gt;" alt="" coords="423,575,605,631"/>
-<area shape="rect" id="node19" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Imath::Vec2\l\&lt; unsigned \&gt;, vec2u_ui \&gt;" alt="" coords="418,655,610,711"/>
-<area shape="rect" id="node21" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Imath::Vec3\l\&lt; float \&gt;, vec3_ui \&gt;" alt="" coords="423,735,605,791"/>
-<area shape="rect" id="node23" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; int, int_ui \&gt;" alt="" coords="423,815,605,857"/>
-<area shape="rect" id="node25" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Enum, enum_ui \&gt;" alt="" coords="421,881,607,937"/>
-<area shape="rect" id="node27" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Filename, filename_ui \&gt;" alt="" coords="420,961,608,1017"/>
-<area shape="rect" id="node29" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::maths::Interval, interval_ui \&gt;" alt="" coords="403,1041,625,1097"/>
-<area shape="rect" id="node31" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Meshes, MeshesUI \&gt;" alt="" coords="421,1121,607,1177"/>
-<area shape="rect" id="node33" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::polymesh::GenericPolymesh,\l GenericMeshUI \&gt;" alt="" coords="404,1202,624,1273"/>
-<area shape="rect" id="node35" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::VertexData, VBO \&gt;" alt="" coords="421,1297,607,1353"/>
-<area shape="rect" id="node37" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::string,\l string_ui \&gt;" alt="" coords="423,1377,605,1433"/>
-<area shape="rect" id="node39" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; unsigned,\l unsigned_ui \&gt;" alt="" coords="423,1457,605,1513"/>
+<area shape="rect" id="node15" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; NumberTraits\l\&lt; T \&gt;::Value, NumberUI\&lt; T \&gt; \&gt;" alt="" coords="399,509,629,565"/>
+<area shape="rect" id="node17" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Enum, enum_ui \&gt;" alt="" coords="421,589,607,645"/>
+<area shape="rect" id="node19" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Filename, filename_ui \&gt;" alt="" coords="420,669,608,725"/>
+<area shape="rect" id="node21" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::maths::Interval, interval_ui \&gt;" alt="" coords="403,749,625,805"/>
+<area shape="rect" id="node23" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Meshes, MeshesUI \&gt;" alt="" coords="421,829,607,885"/>
+<area shape="rect" id="node25" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::polymesh::GenericPolymesh,\l GenericMeshUI \&gt;" alt="" coords="404,910,624,981"/>
+<area shape="rect" id="node27" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::VertexData, VBO \&gt;" alt="" coords="421,1005,607,1061"/>
+<area shape="rect" id="node29" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::string,\l string_ui \&gt;" alt="" coords="423,1085,605,1141"/>
+<area shape="rect" id="node31" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; T, VecUI\&lt; T \&gt; \&gt;" alt="" coords="411,1166,617,1207"/>
 <area shape="rect" id="node6" href="$classFrameEditor.html" title="FrameEditor" alt="" coords="709,137,809,164"/>
 <area shape="rect" id="node8" href="$classJointMappingEditor.html" title="JointMappingEditor" alt="" coords="687,217,831,244"/>
 <area shape="rect" id="node10" href="$classSkeleton.html" title="Skeleton" alt="" coords="719,297,798,324"/>
 <area shape="rect" id="node12" href="$classMeshSubsetEditor.html" title="MeshSubsetEditor" alt="" coords="689,377,828,404"/>
 <area shape="rect" id="node14" href="$classbool__ui.html" title="bool_ui" alt="" coords="724,451,793,477"/>
-<area shape="rect" id="node16" href="$classfloat__ui.html" title="float_ui" alt="" coords="723,516,794,543"/>
-<area shape="rect" id="node18" href="$classvec2__ui.html" title="vec2_ui" alt="" coords="723,589,795,616"/>
-<area shape="rect" id="node20" href="$classvec2u__ui.html" title="vec2u_ui" alt="" coords="719,669,799,696"/>
-<area shape="rect" id="node22" href="$classvec3__ui.html" title="vec3_ui" alt="" coords="723,749,795,776"/>
-<area shape="rect" id="node24" href="$classint__ui.html" title="int_ui" alt="" coords="729,823,788,849"/>
-<area shape="rect" id="node26" href="$classenum__ui.html" title="enum_ui" alt="" coords="719,896,798,923"/>
-<area shape="rect" id="node28" href="$classfilename__ui.html" title="filename_ui" alt="" coords="709,976,808,1003"/>
-<area shape="rect" id="node30" href="$classinterval__ui.html" title="interval_ui" alt="" coords="713,1056,804,1083"/>
-<area shape="rect" id="node32" href="$classMeshesUI.html" title="MeshesUI" alt="" coords="716,1136,801,1163"/>
-<area shape="rect" id="node34" href="$classGenericMeshUI.html" title="GenericMeshUI" alt="" coords="699,1224,819,1251"/>
-<area shape="rect" id="node36" href="$classVBO.html" title="VBO" alt="" coords="733,1312,784,1339"/>
-<area shape="rect" id="node38" href="$classstring__ui.html" title="string_ui" alt="" coords="719,1392,798,1419"/>
-<area shape="rect" id="node40" href="$classunsigned__ui.html" title="unsigned_ui" alt="" coords="709,1472,809,1499"/>
+<area shape="rect" id="node16" href="$classNumberUI.html" title="NumberUI\&lt; T \&gt;" alt="" coords="695,524,822,551"/>
+<area shape="rect" id="node18" href="$classenum__ui.html" title="enum_ui" alt="" coords="719,604,798,631"/>
+<area shape="rect" id="node20" href="$classfilename__ui.html" title="filename_ui" alt="" coords="709,684,808,711"/>
+<area shape="rect" id="node22" href="$classinterval__ui.html" title="interval_ui" alt="" coords="713,764,804,791"/>
+<area shape="rect" id="node24" href="$classMeshesUI.html" title="MeshesUI" alt="" coords="716,844,801,871"/>
+<area shape="rect" id="node26" href="$classGenericMeshUI.html" title="GenericMeshUI" alt="" coords="699,932,819,959"/>
+<area shape="rect" id="node28" href="$classVBO.html" title="VBO" alt="" coords="733,1020,784,1047"/>
+<area shape="rect" id="node30" href="$classstring__ui.html" title="string_ui" alt="" coords="719,1100,798,1127"/>
+<area shape="rect" id="node32" href="$classVecUI.html" title="VecUI\&lt; T \&gt;" alt="" coords="710,1173,807,1200"/>
 </map>

@@ -186,9 +186,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classdependency__graph_1_1Selection.html#a4d0dc25e977c67d9ac96b82b94a6cad7">dependency_graph::Selection</a>
 , <a class="el" href="classpossumwood_1_1Editor.html#a3899b2f1360e76afd5c838dfae56c7fb">possumwood::Editor</a>
 , <a class="el" href="classTimelineWidget.html#ab3868f310a25a4fa39af66bae846b416">TimelineWidget</a>
-, <a class="el" href="classvec2__ui.html#ad4ef44886b042a9a3e92dba6055ddc2c">vec2_ui</a>
-, <a class="el" href="classvec2u__ui.html#a6be779c593906dbae5ac15d4560408cb">vec2u_ui</a>
-, <a class="el" href="classvec3__ui.html#a829bdea4d946e4423ccc2688887fa73c">vec3_ui</a>
+, <a class="el" href="classVecUI.html#a73365f6ae49c776b383ba180d22b701a">VecUI&lt; T &gt;</a>
 </li>
 <li>m_constMat
 : <a class="el" href="classpossumwood_1_1images_1_1OpencvMatWrapper.html#a6a857b741de0e90a07a7d8f49886f4d6">possumwood::images::OpencvMatWrapper</a>
@@ -1015,11 +1013,6 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_sourceSkeleton
 : <a class="el" href="classanim_1_1JointMappingEditorData.html#a8be120a6682227f3c283269495454a28">anim::JointMappingEditorData</a>
 </li>
-<li>m_spinBox
-: <a class="el" href="classfloat__ui.html#adc5604455d06746ca3f9440354275133">float_ui</a>
-, <a class="el" href="classint__ui.html#ad91645a9bcd2f704f2eb8d6d706f1061">int_ui</a>
-, <a class="el" href="classunsigned__ui.html#a5f0e0c3d2719666978020a9c18685831">unsigned_ui</a>
-</li>
 <li>m_src
 : <a class="el" href="classdependency__graph_1_1AttrMap.html#a5553b28508541c91f6cbd89d0fa055ab">dependency_graph::AttrMap</a>
 , <a class="el" href="classpossumwood_1_1SourceEditor.html#a1c6bbbb97ae7128a84ee43d278609862">possumwood::SourceEditor</a>
@@ -1125,6 +1118,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a80582009e4d41d6678449dd7650f838a">possumwood::polymesh::GenericBase::Handle</a>
 , <a class="el" href="classpossumwood_1_1properties_1_1factory__typed.html#a82b53f79df699ce0d6710eb8f7a9b9c2">possumwood::properties::factory_typed&lt; T &gt;</a>
 </li>
+<li>m_ui
+: <a class="el" href="classNumberUI.html#ab5979e9c99bcab4eb1a15d152166b9f8">NumberUI&lt; T &gt;</a>
+</li>
 <li>m_uiIndex
 : <a class="el" href="classpossumwood_1_1Index.html#acaa1552529737d6dedeb69a34bb52ec9">possumwood::Index</a>
 </li>
@@ -1171,9 +1167,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 </li>
 <li>m_valueChangeConnection
 : <a class="el" href="classbool__ui.html#ad2f1491c7cbb012ec7ba76cbb1ab387f">bool_ui</a>
-, <a class="el" href="classfloat__ui.html#a766f542cefba9707afd8415a2f739c45">float_ui</a>
-, <a class="el" href="classint__ui.html#aa21c874cfbe2c21cb65adc5c9f85f7f3">int_ui</a>
-, <a class="el" href="classunsigned__ui.html#a700efc1f3d9e2d1ffc9748a613af3030">unsigned_ui</a>
+, <a class="el" href="classNumberUI.html#aadde4ecbb79e193271a41c2efc2796ea">NumberUI&lt; T &gt;</a>
 </li>
 <li>m_valueChanged
 : <a class="el" href="classpossumwood_1_1properties_1_1property__base.html#a1c5e878c55d746eb263438db47a34aec">possumwood::properties::property_base</a>
@@ -1183,9 +1177,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classlightfields_1_1BFSVisitors.html#a4b6e57e54cfe7b6a5b923489c60c810b">lightfields::BFSVisitors</a>
 , <a class="el" href="classpossumwood_1_1Editor.html#ad2eab73d0c99934defbb6bc364be8b23">possumwood::Editor</a>
 , <a class="el" href="classpossumwood_1_1PropertyItem.html#afbdb8b03942f707719426a461a843f6e">possumwood::PropertyItem</a>
-, <a class="el" href="classvec2__ui.html#a264806f813dc7261db2913b4eda2c88d">vec2_ui</a>
-, <a class="el" href="classvec2u__ui.html#a7bafdb00a12df3fb1f32b2b14a37fc1d">vec2u_ui</a>
-, <a class="el" href="classvec3__ui.html#a8b70e03bdeb2a922bf8ac619bfb80a1c">vec3_ui</a>
+, <a class="el" href="classVecUI.html#a97ed341d037766efd0120602d21903e9">VecUI&lt; T &gt;</a>
 </li>
 <li>m_vao
 : <a class="el" href="classpossumwood_1_1GLRenderable.html#a4dd8b99d0de065af7358dab9c406dec9">possumwood::GLRenderable</a>
@@ -1252,15 +1244,16 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classMeshSubsetEditor.html#a83182373f39029aef03c67dc5dbe6369">MeshSubsetEditor</a>
 , <a class="el" href="classSkeleton.html#abe870b869eba6371144a549a00a3b43d">Skeleton</a>
 , <a class="el" href="classVBO.html#a0ec53e167afc386582468bc5a4cf803b">VBO</a>
-, <a class="el" href="classvec2__ui.html#a6eb6fcb677fde3b99f9de20349215d00">vec2_ui</a>
-, <a class="el" href="classvec2u__ui.html#a4dbd0fa3ab75fd82f94fc8c274f5ee08">vec2u_ui</a>
-, <a class="el" href="classvec3__ui.html#ab2b25d9030257543d882cdab6ed87e94">vec3_ui</a>
+, <a class="el" href="classVecUI.html#a66b85c83a5c050c2b03c205c7da9425d">VecUI&lt; T &gt;</a>
 </li>
 <li>m_width
 : <a class="el" href="classanim_1_1MotionMap.html#a1d6fa7d1541866739b47713059f8c610">anim::MotionMap</a>
 , <a class="el" href="classpossumwood_1_1BufferTemplated.html#addb148fff52a2011100755794937bbc5">possumwood::BufferTemplated&lt; T &gt;</a>
 , <a class="el" href="classpossumwood_1_1Font.html#a58f0b773f79b2bff7a14ee7f8bfabf9a">possumwood::Font</a>
 , <a class="el" href="classpossumwood_1_1ViewportState.html#ae9c0dd35d941c668f695b78e56b14270">possumwood::ViewportState</a>
+</li>
+<li>m_win
+: <a class="el" href="classMainWindow_1_1TabFilter.html#ae2dd55eaa89a01866f8c7fa8c76c706a">MainWindow::TabFilter</a>
 </li>
 <li>m_window
 : <a class="el" href="classRenderContext.html#ad7112790de3a07c3ecae8b008fdc5114">RenderContext</a>
@@ -1413,7 +1406,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classanim_1_1MotionGraph_1_1Snippet.html#ab98bb02caaf3fb5237bb159cc2ee2767">anim::MotionGraph::Snippet</a>
 </li>
 <li>MotionMap()
-: <a class="el" href="classanim_1_1MotionMap.html#a379445ad2a5a920cea64fd40155bc9ec">anim::MotionMap</a>
+: <a class="el" href="classanim_1_1MotionMap.html#a03b0ffe06de21ad6627c7c64bb9efac0">anim::MotionMap</a>
 , <a class="el" href="classanim_1_1ui_1_1MotionMap.html#a75d8304c3bf4f9336e4bd84abf500cf8">anim::ui::MotionMap</a>
 </li>
 <li>mouseDoubleClickEvent()
@@ -1456,7 +1449,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Apr 7 2020 11:02:03 for possumwood by
+    <li class="footer">Generated on Wed Apr 8 2020 15:04:26 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

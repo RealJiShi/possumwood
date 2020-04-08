@@ -64,7 +64,7 @@ var searchData=
   ['noncopyablestruct',['NoncopyableStruct',['../structNoncopyableStruct.html',1,'NoncopyableStruct'],['../structNoncopyableStruct.html#a9df88efe4d7d9a6745b2fddec1bbda88',1,'NoncopyableStruct::NoncopyableStruct()'],['../structNoncopyableStruct.html#a38956ed061090d564b4dad6dfda8b0eb',1,'NoncopyableStruct::NoncopyableStruct(const NoncopyableStruct &amp;)=delete'],['../structNoncopyableStruct.html#ae0762444de4d2f4a1310954a64c0379d',1,'NoncopyableStruct::NoncopyableStruct(NoncopyableStruct &amp;&amp;)=default']]],
   ['normal_2ecpp',['normal.cpp',['../normal_8cpp.html',1,'']]],
   ['normalize',['normalize',['../classanim_1_1Skinning.html#a721d8ec00e823381525ad4ed39bb1e25',1,'anim::Skinning']]],
-  ['normalize_2ecpp',['normalize.cpp',['../normalize_8cpp.html',1,'(Global Namespace)'],['../sequence_2normalize_8cpp.html',1,'(Global Namespace)']]],
+  ['normalize_2ecpp',['normalize.cpp',['../normalize_8cpp.html',1,'']]],
   ['normals',['normals',['../classanim_1_1SkinnedMesh.html#a6f33019be893f543f0676064d918e818',1,'anim::SkinnedMesh::normals()'],['../classanim_1_1SkinnedMesh.html#ae438c5519109abbcbac92652ece94273',1,'anim::SkinnedMesh::normals() const']]],
   ['normals_5fgenerator_2ecpp',['normals_generator.cpp',['../normals__generator_8cpp.html',1,'']]],
   ['not_2ecpp',['not.cpp',['../not_8cpp.html',1,'']]],
@@ -75,6 +75,12 @@ var searchData=
   ['number_5ffloat_5ft',['number_float_t',['../classpossumwood_1_1io_1_1basic__json.html#a5c04b798acb18fdda212267b796f9aae',1,'possumwood::io::basic_json']]],
   ['number_5finteger',['number_integer',['../unionpossumwood_1_1io_1_1basic__json_1_1json__value.html#adff9f542b48882617b356d92f872aadb',1,'possumwood::io::basic_json::json_value::number_integer()'],['../namespacepossumwood_1_1io_1_1detail.html#aa40554911e67592dfc384f43766fd4bea5763da164f8659d94a56e29df64b4bcc',1,'possumwood::io::detail::number_integer()']]],
   ['number_5finteger_5ft',['number_integer_t',['../classpossumwood_1_1io_1_1basic__json.html#ad62a53d319b0b9f849acffeb616d4ed5',1,'possumwood::io::basic_json']]],
+  ['number_5fui_2ecpp',['number_ui.cpp',['../number__ui_8cpp.html',1,'']]],
+  ['number_5fui_2eh',['number_ui.h',['../number__ui_8h.html',1,'']]],
   ['number_5funsigned',['number_unsigned',['../unionpossumwood_1_1io_1_1basic__json_1_1json__value.html#a1538e1d3466e5f04d378551acdca1662',1,'possumwood::io::basic_json::json_value::number_unsigned()'],['../namespacepossumwood_1_1io_1_1detail.html#aa40554911e67592dfc384f43766fd4beadce7cc8ec29055c4158828921f2f265e',1,'possumwood::io::detail::number_unsigned()']]],
-  ['number_5funsigned_5ft',['number_unsigned_t',['../classpossumwood_1_1io_1_1basic__json.html#a5d515a5d0a318879caaaad09cb312574',1,'possumwood::io::basic_json']]]
+  ['number_5funsigned_5ft',['number_unsigned_t',['../classpossumwood_1_1io_1_1basic__json.html#a5d515a5d0a318879caaaad09cb312574',1,'possumwood::io::basic_json']]],
+  ['numbertraits',['NumberTraits',['../structNumberTraits.html',1,'']]],
+  ['numbertraits_3c_20double_20_3e',['NumberTraits&lt; double &gt;',['../structNumberTraits_3_01double_01_4.html',1,'']]],
+  ['numbertraits_3c_20float_20_3e',['NumberTraits&lt; float &gt;',['../structNumberTraits_3_01float_01_4.html',1,'']]],
+  ['numberui',['NumberUI',['../classNumberUI.html',1,'NumberUI&lt; T &gt;'],['../classNumberUI.html#a4e1acb119697c24129e20b1c7b5a5672',1,'NumberUI::NumberUI()']]]
 ];

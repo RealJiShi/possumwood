@@ -22,7 +22,7 @@ var searchData=
   ['dft_2ecpp',['dft.cpp',['../dft_8cpp.html',1,'']]],
   ['dilate_5ferode_2ecpp',['dilate_erode.cpp',['../dilate__erode_8cpp.html',1,'']]],
   ['display_2ecpp',['display.cpp',['../animation_2constraints_2display_8cpp.html',1,'(Global Namespace)'],['../frame_2display_8cpp.html',1,'(Global Namespace)'],['../mesh_2display_8cpp.html',1,'(Global Namespace)']]],
-  ['divide_2ecpp',['divide.cpp',['../divide_8cpp.html',1,'']]],
+  ['divide_2ecpp',['divide.cpp',['../divide_8cpp.html',1,'(Global Namespace)'],['../sequence_2divide_8cpp.html',1,'(Global Namespace)']]],
   ['draw_2ecpp',['draw.cpp',['../draw_8cpp.html',1,'']]],
   ['draw_5fsamples_2ecpp',['draw_samples.cpp',['../draw__samples_8cpp.html',1,'']]],
   ['drawable_2ecpp',['drawable.cpp',['../drawable_8cpp.html',1,'']]],

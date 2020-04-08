@@ -1,7 +1,7 @@
 <map id="src/plugins/anim/nodes/animation/transform.cpp" name="src/plugins/anim/nodes/animation/transform.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1761,95,1935,136"/>
 <area shape="rect" id="node46" href="$animation_8h.html" title="datatypes/animation.h" alt="" coords="1875,423,2045,449"/>
-<area shape="rect" id="node50" href="$io_2vec3_8h.html" title="maths/io/vec3.h" alt="" coords="3094,102,3221,129"/>
+<area shape="rect" id="node50" href="$vec3_8h.html" title="maths/io/vec3.h" alt="" coords="3094,102,3221,129"/>
 <area shape="rect" id="node7" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="2178,259,2390,285"/>
 <area shape="rect" id="node9" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1775,497,1841,524"/>
 <area shape="rect" id="node30" href="$port_8inl.html" title="port.inl" alt="" coords="2183,341,2251,367"/>

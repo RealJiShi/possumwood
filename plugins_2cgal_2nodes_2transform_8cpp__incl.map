@@ -1,6 +1,6 @@
 <map id="src/plugins/cgal/nodes/transform.cpp" name="src/plugins/cgal/nodes/transform.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="793,95,967,136"/>
-<area shape="rect" id="node40" href="$io_2vec3_8h.html" title="maths/io/vec3.h" alt="" coords="2383,497,2510,524"/>
+<area shape="rect" id="node40" href="$vec3_8h.html" title="maths/io/vec3.h" alt="" coords="2383,497,2510,524"/>
 <area shape="rect" id="node41" href="$datatypes_2meshes_8h.html" title="datatypes/meshes.h" alt="" coords="2152,341,2307,367"/>
 <area shape="rect" id="node43" href="$cgal_8h.html" title="cgal.h" alt="" coords="2517,572,2579,599"/>
 <area shape="rect" id="node7" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="474,259,686,285"/>

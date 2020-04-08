@@ -35,7 +35,7 @@
 <area shape="rect" id="node31" href="$context_8h.html" title="src/plugins/lua/datatypes\l/context.h" alt="" coords="3363,244,3548,285"/>
 <area shape="rect" id="node32" href="$plugins_2lua_2datatypes_2state_8h.html" title="src/plugins/lua/datatypes\l/state.h" alt="" coords="3465,155,3651,196"/>
 <area shape="rect" id="node34" href="$plugins_2maths_2io_2vec2_8h.html" title="src/plugins/maths/io\l/vec2.h" alt="" coords="1360,155,1513,196"/>
-<area shape="rect" id="node35" href="$io_2vec3_8h.html" title="src/plugins/maths/io\l/vec3.h" alt="" coords="1537,155,1691,196"/>
+<area shape="rect" id="node35" href="$vec3_8h.html" title="src/plugins/maths/io\l/vec3.h" alt="" coords="1537,155,1691,196"/>
 <area shape="rect" id="node36" href="$calibration__pattern_8h.html" title="src/plugins/opencv\l/calibration_pattern.h" alt="" coords="1715,155,1876,196"/>
 <area shape="rect" id="node37" href="$calibration__points_8h.html" title="src/plugins/opencv\l/calibration_points.h" alt="" coords="1901,155,2055,196"/>
 <area shape="rect" id="node38" href="$camera__intrinsics_8h.html" title="src/plugins/opencv\l/camera_intrinsics.h" alt="" coords="2080,155,2233,196"/>
