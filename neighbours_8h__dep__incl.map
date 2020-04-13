@@ -1,6 +1,8 @@
 <map id="src/libs/lightfields/neighbours.h" name="src/libs/lightfields/neighbours.h">
 <area shape="rect" id="node2" href="$mrf_8h.html" title="src/libs/lightfields\l/mrf.h" alt="" coords="97,95,233,136"/>
 <area shape="rect" id="node5" href="$neighbours_8cpp.html" title="src/libs/lightfields\l/neighbours.cpp" alt="" coords="257,95,393,136"/>
+<area shape="rect" id="node6" href="$anisotropic__diffusion_8cpp.html" title="src/plugins/opencv\l/nodes/anisotropic_diffusion.cpp" alt="" coords="418,95,649,136"/>
+<area shape="rect" id="node7" href="$diffusion_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/diffusion.cpp" alt="" coords="673,95,893,136"/>
 <area shape="rect" id="node3" href="$mrf_8cpp.html" title="src/libs/lightfields\l/mrf.cpp" alt="" coords="5,191,141,233"/>
 <area shape="rect" id="node4" href="$markov__random__field_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/markov\l_random_field.cpp" alt="" coords="165,184,352,240"/>
 </map>

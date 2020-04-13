@@ -101,11 +101,13 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af6d37dbe427ca0fe596929cd8dd22482"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaf4c4af065de202b134f1e8a78eb6eac"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1PDFGaussian.html#aaf4c4af065de202b134f1e8a78eb6eac">mu</a> () const</td></tr>
 <tr class="separator:aaf4c4af065de202b134f1e8a78eb6eac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae37b9b7c53fdac0c6182e469bb355650"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1PDFGaussian.html#ae37b9b7c53fdac0c6182e469bb355650">confidence</a> () const</td></tr>
+<tr class="separator:ae37b9b7c53fdac0c6182e469bb355650"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a907df73be647139bcc1c1006e95e6097"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1PDFGaussian.html#a907df73be647139bcc1c1006e95e6097">fromPeak</a> (float <a class="el" href="classlightfields_1_1PDFGaussian.html#aaf4c4af065de202b134f1e8a78eb6eac">mu</a>, float confidence)</td></tr>
-<tr class="separator:a907df73be647139bcc1c1006e95e6097"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1370937c2706640e86fa9782e8675452"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1PDFGaussian.html#a1370937c2706640e86fa9782e8675452">fromConfidence</a> (float <a class="el" href="classlightfields_1_1PDFGaussian.html#aaf4c4af065de202b134f1e8a78eb6eac">mu</a>, float <a class="el" href="classlightfields_1_1PDFGaussian.html#ae37b9b7c53fdac0c6182e469bb355650">confidence</a>)</td></tr>
+<tr class="separator:a1370937c2706640e86fa9782e8675452"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8c026876c608f9cf08d9b0126034eab0"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1PDFGaussian.html#a8c026876c608f9cf08d9b0126034eab0">pow</a> (const <a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a> &amp;<a class="el" href="classlightfields_1_1PDFGaussian.html#ac915890421ff374dc82ae2ee97a98499">p</a>, float power)</td></tr>
 <tr class="separator:a8c026876c608f9cf08d9b0126034eab0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -156,8 +158,8 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a907df73be647139bcc1c1006e95e6097"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a907df73be647139bcc1c1006e95e6097">&#9670;&nbsp;</a></span>fromPeak()</h2>
+<a id="ae37b9b7c53fdac0c6182e469bb355650"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae37b9b7c53fdac0c6182e469bb355650">&#9670;&nbsp;</a></span>confidence()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -166,7 +168,32 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a> lightfields::PDFGaussian::fromPeak </td>
+          <td class="memname">float lightfields::PDFGaussian::confidence </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1370937c2706640e86fa9782e8675452"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1370937c2706640e86fa9782e8675452">&#9670;&nbsp;</a></span>fromConfidence()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a> lightfields::PDFGaussian::fromConfidence </td>
           <td>(</td>
           <td class="paramtype">float&#160;</td>
           <td class="paramname"><em>mu</em>, </td>
@@ -358,7 +385,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1PDFGaussian.html">PDFGaussian</a></li>
-    <li class="footer">Generated on Wed Apr 8 2020 19:22:04 for possumwood by
+    <li class="footer">Generated on Mon Apr 13 2020 09:03:02 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

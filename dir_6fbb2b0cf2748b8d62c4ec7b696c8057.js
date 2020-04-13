@@ -14,6 +14,7 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "abs.cpp", "abs_8cpp.html", null ],
     [ "adaptive_threshold.cpp", "adaptive__threshold_8cpp.html", null ],
     [ "add.cpp", "opencv_2nodes_2add_8cpp.html", null ],
+    [ "anisotropic_diffusion.cpp", "anisotropic__diffusion_8cpp.html", null ],
     [ "blend.cpp", "blend_8cpp.html", null ],
     [ "color.cpp", "color_8cpp.html", null ],
     [ "colormap.cpp", "colormap_8cpp.html", null ],

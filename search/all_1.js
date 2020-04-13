@@ -79,6 +79,7 @@ var searchData=
   ['animation',['Animation',['../classanim_1_1Animation.html',1,'anim::Animation'],['../classanim_1_1Skeleton.html#af47625f50036c466946f960db7320bcf',1,'anim::Skeleton::Animation()'],['../classanim_1_1Animation.html#ac25a1fcd45155435c41c12860a8c3969',1,'anim::Animation::Animation()']]],
   ['animation_2ecpp',['animation.cpp',['../animation_8cpp.html',1,'']]],
   ['animation_2eh',['animation.h',['../animation_8h.html',1,'']]],
+  ['anisotropic_5fdiffusion_2ecpp',['anisotropic_diffusion.cpp',['../anisotropic__diffusion_8cpp.html',1,'']]],
   ['app',['App',['../classpossumwood_1_1App.html',1,'possumwood::App'],['../classpossumwood_1_1Config.html#a4097b3e04a4f8ece21f5abe1b10e6323',1,'possumwood::Config::App()'],['../classpossumwood_1_1App.html#a2d4adb833eab3df8ed98e7a724e0dde2',1,'possumwood::App::App()']]],
   ['app_2ecpp',['app.cpp',['../actions_2app_8cpp.html',1,'(Global Namespace)'],['../possumwood__sdk_2app_8cpp.html',1,'(Global Namespace)']]],
   ['app_2eh',['app.h',['../actions_2app_8h.html',1,'(Global Namespace)'],['../possumwood__sdk_2app_8h.html',1,'(Global Namespace)']]],

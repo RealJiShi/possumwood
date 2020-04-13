@@ -19,6 +19,7 @@ var annotated_dup =
     [ "ExpressionExpansion", "classExpressionExpansion.html", "classExpressionExpansion" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],
     [ "FrameEditor", "classFrameEditor.html", "classFrameEditor" ],
+    [ "FrameUI", "classFrameUI.html", "classFrameUI" ],
     [ "GenericMeshUI", "classGenericMeshUI.html", "classGenericMeshUI" ],
     [ "GenericProperty", "classGenericProperty.html", "classGenericProperty" ],
     [ "GlDebug", "classGlDebug.html", "classGlDebug" ],

@@ -10,6 +10,6 @@ var classlightfields_1_1Neighbours =
     [ "create", "classlightfields_1_1Neighbours.html#a95330b8610053939f8c4f30298646f19", null ],
     [ "eval", "classlightfields_1_1Neighbours.html#aa55659613ce0332b2f2e2eb9e5729308", null ],
     [ "size", "classlightfields_1_1Neighbours.html#aadab0f119e4c5de69817dfe76b936ce6", null ],
-    [ "types", "classlightfields_1_1Neighbours.html#abfe33f5eeb1b4e639af8dcbe20bef6a9", null ],
+    [ "types", "classlightfields_1_1Neighbours.html#a222a30bc4bca8fe0c011ccdd0ba7ca7d", null ],
     [ "m_size", "classlightfields_1_1Neighbours.html#acc6f2a5fa6258e32e722880c29d9a48d", null ]
 ];

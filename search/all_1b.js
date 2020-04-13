@@ -28,6 +28,7 @@ var searchData=
   ['_7efactory_5ftyped',['~factory_typed',['../classpossumwood_1_1properties_1_1factory__typed.html#a1bdf1734bf9b4ce88447b689d4937768',1,'possumwood::properties::factory_typed']]],
   ['_7efilename_5fui',['~filename_ui',['../classfilename__ui.html#a1aa5bad3dfde0b4e731411b832a34530',1,'filename_ui']]],
   ['_7eframeeditor',['~FrameEditor',['../classFrameEditor.html#aa8a270fac6ab28b5980d0651e4ff316d',1,'FrameEditor']]],
+  ['_7eframeui',['~FrameUI',['../classFrameUI.html#ae039bc275eec6c9a026e982a571e6789',1,'FrameUI']]],
   ['_7egenericbase',['~GenericBase',['../classpossumwood_1_1polymesh_1_1GenericBase.html#a05552a5bdaf50fa4f683199e11c5003b',1,'possumwood::polymesh::GenericBase']]],
   ['_7egenericmeshui',['~GenericMeshUI',['../classGenericMeshUI.html#a854fead8f4d8ad1411b4383286ccbb7e',1,'GenericMeshUI']]],
   ['_7egenericproperty',['~GenericProperty',['../classGenericProperty.html#ad367a73ddcb3a5161616b584e1847952',1,'GenericProperty']]],

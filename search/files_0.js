@@ -19,6 +19,7 @@ var searchData=
   ['and_2ecpp',['and.cpp',['../and_8cpp.html',1,'']]],
   ['animation_2ecpp',['animation.cpp',['../animation_8cpp.html',1,'']]],
   ['animation_2eh',['animation.h',['../animation_8h.html',1,'']]],
+  ['anisotropic_5fdiffusion_2ecpp',['anisotropic_diffusion.cpp',['../anisotropic__diffusion_8cpp.html',1,'']]],
   ['app_2ecpp',['app.cpp',['../actions_2app_8cpp.html',1,'(Global Namespace)'],['../possumwood__sdk_2app_8cpp.html',1,'(Global Namespace)']]],
   ['app_2eh',['app.h',['../actions_2app_8h.html',1,'(Global Namespace)'],['../possumwood__sdk_2app_8h.html',1,'(Global Namespace)']]],
   ['arithmetic_2ecpp',['arithmetic.cpp',['../arithmetic_8cpp.html',1,'']]],

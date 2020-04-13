@@ -1,5 +1,17 @@
 var NAVTREEINDEX19 =
 {
+"structlightfields_1_1Vec2.html":[2,0,2,27],
+"structlightfields_1_1Vec2.html#a0b9b0b0dcca07da2b443dd1bac902538":[2,0,2,27,0],
+"structlightfields_1_1Vec2.html#a13efcca11c972f7154e4cff7f02c7335":[2,0,2,27,3],
+"structlightfields_1_1Vec2.html#a3bb1c108e5fcbb4a3295d806b027dbad":[2,0,2,27,8],
+"structlightfields_1_1Vec2.html#a47d34453e510c1b6534daa7146854259":[2,0,2,27,2],
+"structlightfields_1_1Vec2.html#a71368f6ed728ac466344cc8ac3a18aaa":[2,0,2,27,4],
+"structlightfields_1_1Vec2.html#a87786460eb3d3bcfb9e9342cc06e7032":[2,0,2,27,5],
+"structlightfields_1_1Vec2.html#ab306be9ded8eeb6947da03c2848be4a8":[2,0,2,27,1],
+"structlightfields_1_1Vec2.html#ad994d0f85e0a716d3bee87b8bc9e57f8":[2,0,2,27,7],
+"structlightfields_1_1Vec2.html#afe97fd0552bec7aa20de0e17981d5a3f":[2,0,2,27,6],
+"structnode__editor_1_1GraphScene_1_1Selection.html":[2,0,3,2,0],
+"structnode__editor_1_1GraphScene_1_1Selection.html#ac4b44f9d9bf585a6d170487ba177ae2e":[2,0,3,2,0,0],
 "structnode__editor_1_1GraphScene_1_1Selection.html#ac4d32a5ba0fd72f7b7520d1d3cb5a96f":[2,0,3,2,0,1],
 "structnode__editor_1_1Node_1_1PortDefinition.html":[2,0,3,4,0],
 "structnode__editor_1_1Node_1_1PortDefinition.html#a2cc13b6cb01be56f86e91ef923338f0d":[2,0,3,4,0,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX19 =
 "structpossumwood_1_1Uniforms_1_1Data.html":[2,0,5,113,0],
 "structpossumwood_1_1Uniforms_1_1Data.html#a50794816221cdabf838a2fbe5b1997dc":[2,0,5,113,0,1],
 "structpossumwood_1_1Uniforms_1_1Data.html#aaad0f43b3b8dd0595b706b89b62bc91b":[2,0,5,113,0,0],
-"structpossumwood_1_1Uniforms_1_1DataBase.html":[2,0,5,113,1],
-"structpossumwood_1_1Uniforms_1_1DataBase.html#ab91162edaf37858cc448266bb361db51":[2,0,5,113,1,1],
-"structpossumwood_1_1Uniforms_1_1DataBase.html#aef789c1b1e35cfa60d08c4e8fd58fb6b":[2,0,5,113,1,0],
-"structpossumwood_1_1Uniforms_1_1TextureHolder.html":[2,0,5,113,2],
-"structpossumwood_1_1Uniforms_1_1TextureHolder.html#a8e687382839e47d96ebd3f484663e25f":[2,0,5,113,2,1],
-"structpossumwood_1_1Uniforms_1_1TextureHolder.html#aab5d3a88168e628ae508f167d80aedb0":[2,0,5,113,2,2],
-"structpossumwood_1_1Uniforms_1_1TextureHolder.html#af834a07022c2d6292d90402d052ed322":[2,0,5,113,2,0],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html":[2,0,5,113,3],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a1ab7fe892597c6123afe018225c1deea":[2,0,5,113,3,8],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a40a829e8536838b756c50a5b4f09b10b":[2,0,5,113,3,3],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a4f7a40a176d5fd260f75c53596e42a8c":[2,0,5,113,3,2],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a6126587ba9a55f3a131b3b73a43f66bb":[2,0,5,113,3,0],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a9f2255c056556395f0bfed47c71eb7ad":[2,0,5,113,3,6]
+"structpossumwood_1_1Uniforms_1_1DataBase.html":[2,0,5,113,1]
 };

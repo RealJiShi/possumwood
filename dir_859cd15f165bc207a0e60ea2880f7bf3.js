@@ -1,6 +1,7 @@
 var dir_859cd15f165bc207a0e60ea2880f7bf3 =
 [
     [ "nodes", "dir_6fbb2b0cf2748b8d62c4ec7b696c8057.html", "dir_6fbb2b0cf2748b8d62c4ec7b696c8057" ],
+    [ "ui", "dir_5544c826de44a826b022f7e9a058c29b.html", "dir_5544c826de44a826b022f7e9a058c29b" ],
     [ "bspline.h", "bspline_8h.html", [
       [ "BSpline", "classpossumwood_1_1opencv_1_1BSpline.html", "classpossumwood_1_1opencv_1_1BSpline" ]
     ] ],
