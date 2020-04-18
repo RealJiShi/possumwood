@@ -36,9 +36,10 @@
 <area shape="rect" id="node37" href="$resize_8cpp.html" title="src/plugins/opencv\l/nodes/resize.cpp" alt="" coords="7081,102,7223,143"/>
 <area shape="rect" id="node38" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="7248,102,7459,143"/>
 <area shape="rect" id="node39" href="$pixel__normalize_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pixel\l_normalize.cpp" alt="" coords="7482,95,7649,151"/>
-<area shape="rect" id="node40" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="7673,102,7815,143"/>
-<area shape="rect" id="node41" href="$threshold_8cpp.html" title="src/plugins/opencv\l/nodes/threshold.cpp" alt="" coords="7840,102,7997,143"/>
-<area shape="rect" id="node42" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="8021,102,8219,143"/>
-<area shape="rect" id="node43" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="8243,102,8447,143"/>
+<area shape="rect" id="node40" href="$plugins_2opencv_2nodes_2slic__superpixels_8cpp.html" title="src/plugins/opencv\l/nodes/slic_superpixels.cpp" alt="" coords="7673,102,7873,143"/>
+<area shape="rect" id="node41" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="7897,102,8039,143"/>
+<area shape="rect" id="node42" href="$threshold_8cpp.html" title="src/plugins/opencv\l/nodes/threshold.cpp" alt="" coords="8064,102,8221,143"/>
+<area shape="rect" id="node43" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="8245,102,8443,143"/>
+<area shape="rect" id="node44" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="8467,102,8671,143"/>
 <area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="219,199,378,240"/>
 </map>

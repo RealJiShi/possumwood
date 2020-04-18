@@ -1,3 +1,6 @@
 <map id="src/libs/lightfields/grid.h" name="src/libs/lightfields/grid.h">
 <area shape="rect" id="node2" href="$mrf_8cpp.html" title="src/libs/lightfields\l/mrf.cpp" alt="" coords="5,95,141,136"/>
+<area shape="rect" id="node3" href="$slic__superpixels_8h.html" title="src/libs/lightfields\l/slic_superpixels.h" alt="" coords="166,95,309,136"/>
+<area shape="rect" id="node4" href="$libs_2lightfields_2slic__superpixels_8cpp.html" title="src/libs/lightfields\l/slic_superpixels.cpp" alt="" coords="57,184,215,225"/>
+<area shape="rect" id="node5" href="$plugins_2opencv_2nodes_2slic__superpixels_8cpp.html" title="src/plugins/opencv\l/nodes/slic_superpixels.cpp" alt="" coords="239,184,439,225"/>
 </map>

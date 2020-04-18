@@ -168,7 +168,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classnode__editor_1_1Port.html#a4665b11626942057dcab857b103e4c6a">node_editor::Port</a>
 </li>
 <li>m_cols
-: <a class="el" href="classlightfields_1_1Grid.html#a2fdebfd7bf362edec3711fa96df2c40b">lightfields::Grid&lt; VALUE &gt;</a>
+: <a class="el" href="classlightfields_1_1Grid.html#a52479e741f1029112f48791331370ef6">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
 , <a class="el" href="classlightfields_1_1JointPMF.html#a8d90fe1b28166da5c181f93bfbeb1e24">lightfields::JointPMF</a>
 </li>
 <li>m_combobox
@@ -642,6 +642,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_minima
 : <a class="el" href="classanim_1_1MotionMap.html#a72523f220ee10218a2ed3a3e311a782e">anim::MotionMap</a>
 </li>
+<li>m_mm
+: <a class="el" href="classlightfields_1_1SlicSuperpixels_1_1Metric.html#aef50eac23c716f20a13e344ab92fc6b9">lightfields::SlicSuperpixels::Metric</a>
+</li>
 <li>m_modules
 : <a class="el" href="classpossumwood_1_1lua_1_1Context.html#a80a29f6a56f6410aa1a30ebe906a341c">possumwood::lua::Context</a>
 </li>
@@ -767,7 +770,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="classnode__editor_1_1Port.html#aa4db5b045f36e668137371272b2140aa">node_editor::Port</a>
 </li>
 <li>m_p
-: <a class="el" href="classlightfields_1_1Grid.html#a63a85f0cd3e2966dda6f0e75d8138187">lightfields::Grid&lt; VALUE &gt;</a>
+: <a class="el" href="classlightfields_1_1Grid.html#ac8342b614dbce97d36a19cb2ca84a6b7">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
 , <a class="el" href="classlightfields_1_1PMF.html#a0da92e246351aebfafd660c8120f62e0">lightfields::PMF</a>
 </li>
 <li>m_p1
@@ -907,11 +910,14 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="classlightfields_1_1Samples.html#addea0d01c2189dd4df71fc3b9ab9060d">lightfields::Samples</a>
 </li>
 <li>m_rows
-: <a class="el" href="classlightfields_1_1Grid.html#ac518072af734c2a677b61bd489aa535c">lightfields::Grid&lt; VALUE &gt;</a>
+: <a class="el" href="classlightfields_1_1Grid.html#aa9b401768681ca4b92d7d06aeaeb5540">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
 , <a class="el" href="classlightfields_1_1JointPMF.html#a780104523e2f76aa11dc8ee97bc59404">lightfields::JointPMF</a>
 </li>
 <li>m_runningValueCallbacks
 : <a class="el" href="classpossumwood_1_1Editor.html#a73fced20c0cf66fbf36131a6db9bd7ae">possumwood::Editor</a>
+</li>
+<li>m_S
+: <a class="el" href="classlightfields_1_1SlicSuperpixels_1_1Metric.html#a3aeb12ad0f2b94f99111f58097f238b3">lightfields::SlicSuperpixels::Metric</a>
 </li>
 <li>m_samples
 : <a class="el" href="classlightfields_1_1Samples.html#a790d44041a361f1dbf63935943576069">lightfields::Samples</a>
@@ -1017,6 +1023,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_src
 : <a class="el" href="classdependency__graph_1_1AttrMap.html#a5553b28508541c91f6cbd89d0fa055ab">dependency_graph::AttrMap</a>
 , <a class="el" href="classpossumwood_1_1SourceEditor.html#a1c6bbbb97ae7128a84ee43d278609862">possumwood::SourceEditor</a>
+</li>
+<li>m_SS
+: <a class="el" href="classlightfields_1_1SlicSuperpixels_1_1Metric.html#ab3b8954de1c841f31446358c32882e30">lightfields::SlicSuperpixels::Metric</a>
 </li>
 <li>m_startFrame
 : <a class="el" href="classanim_1_1constraints_1_1Constraint.html#a7f49c1fc1fb91adba293745a94a99f48">anim::constraints::Constraint</a>
@@ -1354,11 +1363,15 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>Metadata
 : <a class="el" href="classdependency__graph_1_1OutAttr.html#aba8d19a917c0bff3a0ab2c135b11b0a4">dependency_graph::OutAttr&lt; T &gt;</a>
 , <a class="el" href="classdependency__graph_1_1OutAttr_3_01void_01_4.html#aba8d19a917c0bff3a0ab2c135b11b0a4">dependency_graph::OutAttr&lt; void &gt;</a>
-, <a class="el" href="classlightfields_1_1Metadata.html#aaedae51947ce0568ecc86d78ae419e2b">lightfields::Metadata</a>
 </li>
 <li>metadata()
 : <a class="el" href="classlightfields_1_1Metadata.html#a1c02cc108fd90ffa525939b4dff25ec2">lightfields::Metadata</a>
-, <a class="el" href="classlightfields_1_1Raw.html#a3215ddbc3576c2c8f7b32eb89aeec965">lightfields::Raw</a>
+</li>
+<li>Metadata()
+: <a class="el" href="classlightfields_1_1Metadata.html#aaedae51947ce0568ecc86d78ae419e2b">lightfields::Metadata</a>
+</li>
+<li>metadata()
+: <a class="el" href="classlightfields_1_1Raw.html#a3215ddbc3576c2c8f7b32eb89aeec965">lightfields::Raw</a>
 </li>
 <li>Metadata
 : <a class="el" href="classpossumwood_1_1Colours.html#aba8d19a917c0bff3a0ab2c135b11b0a4">possumwood::Colours</a>
@@ -1372,10 +1385,16 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="structdependency__graph_1_1MetadataFactory.html#a8d920430f18eebe5185e6b299761b41e">dependency_graph::MetadataFactory</a>
 </li>
 <li>MetadataHandle()
-: <a class="el" href="classdependency__graph_1_1MetadataHandle.html#ac0bf628bad09034d849db8e3d475eeb5">dependency_graph::MetadataHandle</a>
+: <a class="el" href="classdependency__graph_1_1MetadataHandle.html#aa99e70d9e687e359fd857d8e3afb108d">dependency_graph::MetadataHandle</a>
 </li>
 <li>MetadataRegister()
 : <a class="el" href="classdependency__graph_1_1MetadataRegister.html#a9a8bebc107b7376f92c4f44f524f7c86">dependency_graph::MetadataRegister</a>
+</li>
+<li>metric
+: <a class="el" href="structlightfields_1_1SlicSuperpixels_1_1Label.html#ae41a5abc770abcadd5a129309992fe98">lightfields::SlicSuperpixels::Label</a>
+</li>
+<li>Metric()
+: <a class="el" href="classlightfields_1_1SlicSuperpixels_1_1Metric.html#a3b9e8b1326dbc086609955bedfbbbf1b">lightfields::SlicSuperpixels::Metric</a>
 </li>
 <li>middleClicked()
 : <a class="el" href="classnode__editor_1_1GraphScene.html#ab09be6df52ea923734a89bc0d27834ca">node_editor::GraphScene</a>
@@ -1405,7 +1424,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classanim_1_1MotionGraph_1_1Snippet.html#ab98bb02caaf3fb5237bb159cc2ee2767">anim::MotionGraph::Snippet</a>
 </li>
 <li>MotionMap()
-: <a class="el" href="classanim_1_1MotionMap.html#a03b0ffe06de21ad6627c7c64bb9efac0">anim::MotionMap</a>
+: <a class="el" href="classanim_1_1MotionMap.html#a4c4f2411d86da8ecac124a25fd14db3c">anim::MotionMap</a>
 , <a class="el" href="classanim_1_1ui_1_1MotionMap.html#a75d8304c3bf4f9336e4bd84abf500cf8">anim::ui::MotionMap</a>
 </li>
 <li>mouseDoubleClickEvent()
@@ -1448,7 +1467,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Apr 13 2020 13:24:51 for possumwood by
+    <li class="footer">Generated on Sat Apr 18 2020 14:49:49 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

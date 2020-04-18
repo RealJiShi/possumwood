@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['label',['Label',['../structlightfields_1_1SlicSuperpixels_1_1Label.html',1,'lightfields::SlicSuperpixels']]],
   ['labels',['Labels',['../classlightfields_1_1Labels.html',1,'lightfields']]],
   ['layer',['Layer',['../classpossumwood_1_1opencv_1_1CalibrationPoints_1_1Layer.html',1,'possumwood::opencv::CalibrationPoints']]],
   ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html',1,'lightfields']]],

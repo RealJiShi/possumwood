@@ -26,6 +26,7 @@ var namespacelightfields =
     [ "PushRelabel", "structlightfields_1_1PushRelabel.html", "structlightfields_1_1PushRelabel" ],
     [ "Raw", "classlightfields_1_1Raw.html", "classlightfields_1_1Raw" ],
     [ "Samples", "classlightfields_1_1Samples.html", "classlightfields_1_1Samples" ],
+    [ "SlicSuperpixels", "structlightfields_1_1SlicSuperpixels.html", "structlightfields_1_1SlicSuperpixels" ],
     [ "TLinks", "classlightfields_1_1TLinks.html", "classlightfields_1_1TLinks" ],
     [ "Vec2", "structlightfields_1_1Vec2.html", "structlightfields_1_1Vec2" ]
 ];

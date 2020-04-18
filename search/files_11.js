@@ -25,6 +25,8 @@ var searchData=
   ['skinned_5fvertices_2eh',['skinned_vertices.h',['../skinned__vertices_8h.html',1,'']]],
   ['skinning_2ecpp',['skinning.cpp',['../skinning_8cpp.html',1,'']]],
   ['skinning_2eh',['skinning.h',['../skinning_8h.html',1,'']]],
+  ['slic_5fsuperpixels_2ecpp',['slic_superpixels.cpp',['../libs_2lightfields_2slic__superpixels_8cpp.html',1,'(Global Namespace)'],['../plugins_2opencv_2nodes_2slic__superpixels_8cpp.html',1,'(Global Namespace)']]],
+  ['slic_5fsuperpixels_2eh',['slic_superpixels.h',['../slic__superpixels_8h.html',1,'']]],
   ['source_5feditor_2ecpp',['source_editor.cpp',['../source__editor_8cpp.html',1,'']]],
   ['source_5feditor_2eh',['source_editor.h',['../source__editor_8h.html',1,'']]],
   ['split_2ecpp',['split.cpp',['../sequence_2split_8cpp.html',1,'(Global Namespace)'],['../split_8cpp.html',1,'(Global Namespace)']]],

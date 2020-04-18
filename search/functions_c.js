@@ -23,6 +23,7 @@ var searchData=
   ['metadatafactory',['MetadataFactory',['../structdependency__graph_1_1MetadataFactory.html#a8d920430f18eebe5185e6b299761b41e',1,'dependency_graph::MetadataFactory']]],
   ['metadatahandle',['MetadataHandle',['../classdependency__graph_1_1MetadataHandle.html#ac0bf628bad09034d849db8e3d475eeb5',1,'dependency_graph::MetadataHandle::MetadataHandle(std::unique_ptr&lt; Metadata &gt; m)'],['../classdependency__graph_1_1MetadataHandle.html#aa99e70d9e687e359fd857d8e3afb108d',1,'dependency_graph::MetadataHandle::MetadataHandle(const Metadata &amp;meta)']]],
   ['metadataregister',['MetadataRegister',['../classdependency__graph_1_1MetadataRegister.html#a9a8bebc107b7376f92c4f44f524f7c86',1,'dependency_graph::MetadataRegister']]],
+  ['metric',['Metric',['../classlightfields_1_1SlicSuperpixels_1_1Metric.html#a3b9e8b1326dbc086609955bedfbbbf1b',1,'lightfields::SlicSuperpixels::Metric']]],
   ['middleclicked',['middleClicked',['../classnode__editor_1_1GraphScene.html#ab09be6df52ea923734a89bc0d27834ca',1,'node_editor::GraphScene']]],
   ['min',['min',['../classanim_1_1MotionMap.html#a7ccf096e7b8406e9cea919e4358fb5c7',1,'anim::MotionMap::min()'],['../classpossumwood_1_1maths_1_1Interval.html#a42fd280262ee194341c86a0187673225',1,'possumwood::maths::Interval::min()']]],
   ['mincut',['minCut',['../classlightfields_1_1Graph.html#a9ed839ed4a9c6c23e155a8b03426f3cb',1,'lightfields::Graph']]],

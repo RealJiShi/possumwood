@@ -82,6 +82,13 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "raw.h", "raw_8h.html", "raw_8h" ],
     [ "samples.cpp", "samples_8cpp.html", "samples_8cpp" ],
     [ "samples.h", "samples_8h.html", "samples_8h" ],
+    [ "slic_superpixels.cpp", "libs_2lightfields_2slic__superpixels_8cpp.html", null ],
+    [ "slic_superpixels.h", "slic__superpixels_8h.html", [
+      [ "SlicSuperpixels", "structlightfields_1_1SlicSuperpixels.html", "structlightfields_1_1SlicSuperpixels" ],
+      [ "Center", "structlightfields_1_1SlicSuperpixels_1_1Center.html", "structlightfields_1_1SlicSuperpixels_1_1Center" ],
+      [ "Label", "structlightfields_1_1SlicSuperpixels_1_1Label.html", "structlightfields_1_1SlicSuperpixels_1_1Label" ],
+      [ "Metric", "classlightfields_1_1SlicSuperpixels_1_1Metric.html", "classlightfields_1_1SlicSuperpixels_1_1Metric" ]
+    ] ],
     [ "t_links.cpp", "t__links_8cpp.html", null ],
     [ "t_links.h", "t__links_8h.html", [
       [ "TLinks", "classlightfields_1_1TLinks.html", "classlightfields_1_1TLinks" ]

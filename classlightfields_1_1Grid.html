@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>possumwood: lightfields::Grid&lt; VALUE &gt; Class Template Reference</title>
+<title>possumwood: lightfields::Grid&lt; VALUE, CONTAINER &gt; Class Template Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -84,7 +84,7 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Grid.html','');});
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classlightfields_1_1Grid-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">lightfields::Grid&lt; VALUE &gt; Class Template Reference</div>  </div>
+<div class="title">lightfields::Grid&lt; VALUE, CONTAINER &gt; Class Template Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
@@ -95,47 +95,53 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Grid.html','');});
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8061fbf826bba40d470bb6076bd08757"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a8061fbf826bba40d470bb6076bd08757">Grid</a> (unsigned <a class="el" href="classlightfields_1_1Grid.html#abe81efd8b5bd4468329c1027a3f89f30">rows</a>, unsigned <a class="el" href="classlightfields_1_1Grid.html#afcb0eb8847a8f121a81da71b64a17ca9">cols</a>, const VALUE &amp;value=VALUE())</td></tr>
-<tr class="separator:a8061fbf826bba40d470bb6076bd08757"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90f4b27a5341d01c643fb55bf3ce50d0"><td class="memItemLeft" align="right" valign="top">VALUE &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a90f4b27a5341d01c643fb55bf3ce50d0">operator()</a> (unsigned row, unsigned col)</td></tr>
-<tr class="separator:a90f4b27a5341d01c643fb55bf3ce50d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3400d6c92bafa31e33df36d0669d449d"><td class="memItemLeft" align="right" valign="top">const VALUE &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a3400d6c92bafa31e33df36d0669d449d">operator()</a> (unsigned row, unsigned col) const</td></tr>
-<tr class="separator:a3400d6c92bafa31e33df36d0669d449d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe81efd8b5bd4468329c1027a3f89f30"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#abe81efd8b5bd4468329c1027a3f89f30">rows</a> () const</td></tr>
-<tr class="separator:abe81efd8b5bd4468329c1027a3f89f30"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afcb0eb8847a8f121a81da71b64a17ca9"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#afcb0eb8847a8f121a81da71b64a17ca9">cols</a> () const</td></tr>
-<tr class="separator:afcb0eb8847a8f121a81da71b64a17ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad68d46b605f90b75a3fdf343241c60be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ad68d46b605f90b75a3fdf343241c60be">swap</a> (<a class="el" href="classlightfields_1_1Grid.html">Grid</a> &amp;g)</td></tr>
-<tr class="separator:ad68d46b605f90b75a3fdf343241c60be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c06e938c7f08fbde9a821d72d634fdd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a7c06e938c7f08fbde9a821d72d634fdd">Grid</a> (unsigned <a class="el" href="classlightfields_1_1Grid.html#a141e694a9466688ac02647900295b3e8">rows</a>, unsigned <a class="el" href="classlightfields_1_1Grid.html#a922106cddd8d18df04df8ede0d05ae49">cols</a>, const VALUE &amp;value)</td></tr>
+<tr class="separator:a7c06e938c7f08fbde9a821d72d634fdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acec8845fcb9695c6d4c1e0681ec5da96"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#acec8845fcb9695c6d4c1e0681ec5da96">Grid</a> (unsigned <a class="el" href="classlightfields_1_1Grid.html#a141e694a9466688ac02647900295b3e8">rows</a>, unsigned <a class="el" href="classlightfields_1_1Grid.html#a922106cddd8d18df04df8ede0d05ae49">cols</a>)</td></tr>
+<tr class="separator:acec8845fcb9695c6d4c1e0681ec5da96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab11d69283c9b614c3e2cbcbc24968c1b"><td class="memItemLeft" align="right" valign="top">decltype(std::declval&lt; CONTAINER &gt;()[0])&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ab11d69283c9b614c3e2cbcbc24968c1b">operator()</a> (unsigned row, unsigned col)</td></tr>
+<tr class="separator:ab11d69283c9b614c3e2cbcbc24968c1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accdb74b159592a03abd1abf2cffdff42"><td class="memItemLeft" align="right" valign="top">decltype(std::declval&lt; const CONTAINER &gt;()[0])&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#accdb74b159592a03abd1abf2cffdff42">operator()</a> (unsigned row, unsigned col) const</td></tr>
+<tr class="separator:accdb74b159592a03abd1abf2cffdff42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a141e694a9466688ac02647900295b3e8"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a141e694a9466688ac02647900295b3e8">rows</a> () const</td></tr>
+<tr class="separator:a141e694a9466688ac02647900295b3e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a922106cddd8d18df04df8ede0d05ae49"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a922106cddd8d18df04df8ede0d05ae49">cols</a> () const</td></tr>
+<tr class="separator:a922106cddd8d18df04df8ede0d05ae49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a086dd33ab1e51bf23734d5b953f7a429"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a086dd33ab1e51bf23734d5b953f7a429">swap</a> (<a class="el" href="classlightfields_1_1Grid.html">Grid</a> &amp;g)</td></tr>
+<tr class="separator:a086dd33ab1e51bf23734d5b953f7a429"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13a6a9b8b15759a3fb1889f81543ea12"><td class="memItemLeft" align="right" valign="top">const CONTAINER &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a13a6a9b8b15759a3fb1889f81543ea12">container</a> () const</td></tr>
+<tr class="separator:a13a6a9b8b15759a3fb1889f81543ea12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a478e694102e91389b962cefb2197095c"><td class="memItemLeft" align="right" valign="top">CONTAINER &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a478e694102e91389b962cefb2197095c">container</a> ()</td></tr>
+<tr class="separator:a478e694102e91389b962cefb2197095c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ac518072af734c2a677b61bd489aa535c"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ac518072af734c2a677b61bd489aa535c">m_rows</a></td></tr>
-<tr class="separator:ac518072af734c2a677b61bd489aa535c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2fdebfd7bf362edec3711fa96df2c40b"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a2fdebfd7bf362edec3711fa96df2c40b">m_cols</a></td></tr>
-<tr class="separator:a2fdebfd7bf362edec3711fa96df2c40b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a63a85f0cd3e2966dda6f0e75d8138187"><td class="memItemLeft" align="right" valign="top">std::vector&lt; VALUE &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a63a85f0cd3e2966dda6f0e75d8138187">m_p</a></td></tr>
-<tr class="separator:a63a85f0cd3e2966dda6f0e75d8138187"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9b401768681ca4b92d7d06aeaeb5540"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#aa9b401768681ca4b92d7d06aeaeb5540">m_rows</a></td></tr>
+<tr class="separator:aa9b401768681ca4b92d7d06aeaeb5540"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52479e741f1029112f48791331370ef6"><td class="memItemLeft" align="right" valign="top">unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#a52479e741f1029112f48791331370ef6">m_cols</a></td></tr>
+<tr class="separator:a52479e741f1029112f48791331370ef6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8342b614dbce97d36a19cb2ca84a6b7"><td class="memItemLeft" align="right" valign="top">CONTAINER&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Grid.html#ac8342b614dbce97d36a19cb2ca84a6b7">m_p</a></td></tr>
+<tr class="separator:ac8342b614dbce97d36a19cb2ca84a6b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><h3>template&lt;typename VALUE&gt;<br />
-class lightfields::Grid&lt; VALUE &gt;</h3>
+<div class="textblock"><h3>template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt;<br />
+class lightfields::Grid&lt; VALUE, CONTAINER &gt;</h3>
 
 <p>A trivial grid abstraction (not std-compliant, no need for now) </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a8061fbf826bba40d470bb6076bd08757"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8061fbf826bba40d470bb6076bd08757">&#9670;&nbsp;</a></span>Grid()</h2>
+<a id="a7c06e938c7f08fbde9a821d72d634fdd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c06e938c7f08fbde9a821d72d634fdd">&#9670;&nbsp;</a></span>Grid() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::<a class="el" href="classlightfields_1_1Grid.html">Grid</a> </td>
+          <td class="memname"><a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::<a class="el" href="classlightfields_1_1Grid.html">Grid</a> </td>
           <td>(</td>
           <td class="paramtype">unsigned&#160;</td>
           <td class="paramname"><em>rows</em>, </td>
@@ -150,7 +156,7 @@ template&lt;typename VALUE &gt; </div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const VALUE &amp;&#160;</td>
-          <td class="paramname"><em>value</em> = <code>VALUE()</code>&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -160,7 +166,45 @@ template&lt;typename VALUE &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acec8845fcb9695c6d4c1e0681ec5da96"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acec8845fcb9695c6d4c1e0681ec5da96">&#9670;&nbsp;</a></span>Grid() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::<a class="el" href="classlightfields_1_1Grid.html">Grid</a> </td>
+          <td>(</td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>rows</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">unsigned&#160;</td>
+          <td class="paramname"><em>cols</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -168,19 +212,19 @@ template&lt;typename VALUE &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="afcb0eb8847a8f121a81da71b64a17ca9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afcb0eb8847a8f121a81da71b64a17ca9">&#9670;&nbsp;</a></span>cols()</h2>
+<a id="a922106cddd8d18df04df8ede0d05ae49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a922106cddd8d18df04df8ede0d05ae49">&#9670;&nbsp;</a></span>cols()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::cols </td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::cols </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -195,19 +239,73 @@ template&lt;typename VALUE &gt; </div>
 
 </div>
 </div>
-<a id="a90f4b27a5341d01c643fb55bf3ce50d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a90f4b27a5341d01c643fb55bf3ce50d0">&#9670;&nbsp;</a></span>operator()() <span class="overload">[1/2]</span></h2>
+<a id="a13a6a9b8b15759a3fb1889f81543ea12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13a6a9b8b15759a3fb1889f81543ea12">&#9670;&nbsp;</a></span>container() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">VALUE&amp; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::operator() </td>
+          <td class="memname">const CONTAINER&amp; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::container </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a478e694102e91389b962cefb2197095c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a478e694102e91389b962cefb2197095c">&#9670;&nbsp;</a></span>container() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CONTAINER&amp; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::container </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab11d69283c9b614c3e2cbcbc24968c1b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab11d69283c9b614c3e2cbcbc24968c1b">&#9670;&nbsp;</a></span>operator()() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">decltype(std::declval&lt;CONTAINER&gt;()[0]) <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::operator() </td>
           <td>(</td>
           <td class="paramtype">unsigned&#160;</td>
           <td class="paramname"><em>row</em>, </td>
@@ -233,19 +331,19 @@ template&lt;typename VALUE &gt; </div>
 
 </div>
 </div>
-<a id="a3400d6c92bafa31e33df36d0669d449d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3400d6c92bafa31e33df36d0669d449d">&#9670;&nbsp;</a></span>operator()() <span class="overload">[2/2]</span></h2>
+<a id="accdb74b159592a03abd1abf2cffdff42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accdb74b159592a03abd1abf2cffdff42">&#9670;&nbsp;</a></span>operator()() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const VALUE&amp; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::operator() </td>
+          <td class="memname">decltype(std::declval&lt;const CONTAINER&gt;()[0]) <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::operator() </td>
           <td>(</td>
           <td class="paramtype">unsigned&#160;</td>
           <td class="paramname"><em>row</em>, </td>
@@ -271,19 +369,19 @@ template&lt;typename VALUE &gt; </div>
 
 </div>
 </div>
-<a id="abe81efd8b5bd4468329c1027a3f89f30"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe81efd8b5bd4468329c1027a3f89f30">&#9670;&nbsp;</a></span>rows()</h2>
+<a id="a141e694a9466688ac02647900295b3e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a141e694a9466688ac02647900295b3e8">&#9670;&nbsp;</a></span>rows()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::rows </td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::rows </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -298,21 +396,21 @@ template&lt;typename VALUE &gt; </div>
 
 </div>
 </div>
-<a id="ad68d46b605f90b75a3fdf343241c60be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad68d46b605f90b75a3fdf343241c60be">&#9670;&nbsp;</a></span>swap()</h2>
+<a id="a086dd33ab1e51bf23734d5b953f7a429"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a086dd33ab1e51bf23734d5b953f7a429">&#9670;&nbsp;</a></span>swap()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::swap </td>
+          <td class="memname">void <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::swap </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="classlightfields_1_1Grid.html">Grid</a>&lt; VALUE &gt; &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="classlightfields_1_1Grid.html">Grid</a>&lt; VALUE, CONTAINER &gt; &amp;&#160;</td>
           <td class="paramname"><em>g</em></td><td>)</td>
           <td></td>
         </tr>
@@ -327,19 +425,19 @@ template&lt;typename VALUE &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2fdebfd7bf362edec3711fa96df2c40b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2fdebfd7bf362edec3711fa96df2c40b">&#9670;&nbsp;</a></span>m_cols</h2>
+<a id="a52479e741f1029112f48791331370ef6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52479e741f1029112f48791331370ef6">&#9670;&nbsp;</a></span>m_cols</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::m_cols</td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::m_cols</td>
         </tr>
       </table>
   </td>
@@ -351,19 +449,19 @@ template&lt;typename VALUE &gt; </div>
 
 </div>
 </div>
-<a id="a63a85f0cd3e2966dda6f0e75d8138187"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a63a85f0cd3e2966dda6f0e75d8138187">&#9670;&nbsp;</a></span>m_p</h2>
+<a id="ac8342b614dbce97d36a19cb2ca84a6b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8342b614dbce97d36a19cb2ca84a6b7">&#9670;&nbsp;</a></span>m_p</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;VALUE&gt; <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::m_p</td>
+          <td class="memname">CONTAINER <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::m_p</td>
         </tr>
       </table>
   </td>
@@ -375,19 +473,19 @@ template&lt;typename VALUE &gt; </div>
 
 </div>
 </div>
-<a id="ac518072af734c2a677b61bd489aa535c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac518072af734c2a677b61bd489aa535c">&#9670;&nbsp;</a></span>m_rows</h2>
+<a id="aa9b401768681ca4b92d7d06aeaeb5540"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9b401768681ca4b92d7d06aeaeb5540">&#9670;&nbsp;</a></span>m_rows</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename VALUE &gt; </div>
+template&lt;typename VALUE, typename CONTAINER = std::vector&lt;VALUE&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE &gt;::m_rows</td>
+          <td class="memname">unsigned <a class="el" href="classlightfields_1_1Grid.html">lightfields::Grid</a>&lt; VALUE, CONTAINER &gt;::m_rows</td>
         </tr>
       </table>
   </td>
@@ -408,7 +506,7 @@ template&lt;typename VALUE &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Grid.html">Grid</a></li>
-    <li class="footer">Generated on Mon Apr 13 2020 13:24:50 for possumwood by
+    <li class="footer">Generated on Sat Apr 18 2020 14:49:47 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

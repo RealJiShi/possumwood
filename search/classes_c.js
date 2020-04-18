@@ -8,7 +8,7 @@ var searchData=
   ['network',['Network',['../classdependency__graph_1_1Network.html',1,'dependency_graph']]],
   ['networkcompute',['NetworkCompute',['../classpossumwood_1_1NetworkCompute.html',1,'possumwood']]],
   ['nlinks',['NLinks',['../classlightfields_1_1NLinks.html',1,'lightfields']]],
-  ['node',['Node',['../classdependency__graph_1_1Node.html',1,'dependency_graph::Node'],['../classnode__editor_1_1Node.html',1,'node_editor::Node']]],
+  ['node',['Node',['../classnode__editor_1_1Node.html',1,'node_editor::Node'],['../classdependency__graph_1_1Node.html',1,'dependency_graph::Node']]],
   ['nodebase',['NodeBase',['../classdependency__graph_1_1NodeBase.html',1,'dependency_graph']]],
   ['nodecomparator',['NodeComparator',['../structdependency__graph_1_1Selection_1_1NodeComparator.html',1,'dependency_graph::Selection']]],
   ['nodedata',['NodeData',['../classpossumwood_1_1NodeData.html',1,'possumwood']]],

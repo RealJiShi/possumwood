@@ -1,5 +1,15 @@
 var NAVTREEINDEX15 =
 {
+"functions_g.html":[2,3,0,7],
+"functions_h.html":[2,3,0,8],
+"functions_i.html":[2,3,0,9],
+"functions_j.html":[2,3,0,10],
+"functions_k.html":[2,3,0,11],
+"functions_l.html":[2,3,0,12],
+"functions_m.html":[2,3,0,13],
+"functions_n.html":[2,3,0,14],
+"functions_o.html":[2,3,0,15],
+"functions_p.html":[2,3,0,16],
 "functions_q.html":[2,3,0,17],
 "functions_r.html":[2,3,0,18],
 "functions_rela.html":[2,3,6],
@@ -8,8 +18,8 @@ var NAVTREEINDEX15 =
 "functions_type.html":[2,3,3],
 "functions_u.html":[2,3,0,21],
 "functions_v.html":[2,3,0,22],
-"functions_vars.html":[2,3,2],
 "functions_vars.html":[2,3,2,0],
+"functions_vars.html":[2,3,2],
 "functions_vars_b.html":[2,3,2,1],
 "functions_vars_c.html":[2,3,2,2],
 "functions_vars_d.html":[2,3,2,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX15 =
 "libs_2actions_2actions_8cpp.html#a80ca39fa0d9fec498816a6303cd7e79f":[3,0,0,1,0,2,13],
 "libs_2actions_2actions_8cpp.html#a82aa421fc890a6bb4a0c19964b7366ad":[3,0,0,1,0,2,6],
 "libs_2actions_2actions_8cpp.html#a87863d30fa938557d195a660cbeaf8b0":[3,0,0,1,0,2,8],
-"libs_2actions_2actions_8cpp.html#a8efc21c35ab2c51066a08009167d558d":[3,0,0,1,0,2,5],
-"libs_2actions_2actions_8cpp.html#aa0f287e453aed4cf0ce8370d248e66b5":[3,0,0,1,0,2,3],
-"libs_2actions_2actions_8cpp.html#ac4967141fc2c5293fe016072dea36ceb":[3,0,0,1,0,2,10],
-"libs_2actions_2actions_8cpp.html#ae99b867737d1f18d238d9776ac39a9fd":[3,0,0,1,0,2,12],
-"libs_2actions_2actions_8cpp.html#aeef58bef022943de1b08d7622560f8e7":[3,0,0,1,0,2,9],
-"libs_2actions_2actions_8cpp.html#af0fde5c225e95d30604f3898dc834239":[3,0,0,1,0,2,7],
-"libs_2actions_2actions_8cpp.html#af6cf2362c07e7045af0a88353a639900":[3,0,0,1,0,2,0],
-"libs_2actions_2clipboard_8cpp.html":[3,0,0,1,0,6],
-"libs_2actions_2detail_2metadata_8cpp.html":[3,0,0,1,0,0,4],
-"libs_2actions_2detail_2metadata_8cpp.html#a2453360e93c038a78a1ddf50696bb1b9":[3,0,0,1,0,0,4,0],
-"libs_2actions_2detail_2metadata_8cpp.html#a48b710e4a9fed12998eb1824693cf3b7":[3,0,0,1,0,0,4,3]
+"libs_2actions_2actions_8cpp.html#a8efc21c35ab2c51066a08009167d558d":[3,0,0,1,0,2,5]
 };

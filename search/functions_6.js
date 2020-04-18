@@ -50,6 +50,6 @@ var searchData=
   ['graphscene',['GraphScene',['../classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592',1,'node_editor::GraphScene']]],
   ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()'],['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()']]],
   ['greet',['greet',['../dummy_8cpp.html#abdc1c66a57eb903c930c15fda5801994',1,'dummy.cpp']]],
-  ['grid',['Grid',['../classpossumwood_1_1Grid.html#ac5503086b727a591ad8bc963d5dbf0d2',1,'possumwood::Grid::Grid()'],['../classlightfields_1_1Grid.html#a8061fbf826bba40d470bb6076bd08757',1,'lightfields::Grid::Grid()']]],
+  ['grid',['Grid',['../classpossumwood_1_1Grid.html#ac5503086b727a591ad8bc963d5dbf0d2',1,'possumwood::Grid::Grid()'],['../classlightfields_1_1Grid.html#a7c06e938c7f08fbde9a821d72d634fdd',1,'lightfields::Grid::Grid(unsigned rows, unsigned cols, const VALUE &amp;value)'],['../classlightfields_1_1Grid.html#acec8845fcb9695c6d4c1e0681ec5da96',1,'lightfields::Grid::Grid(unsigned rows, unsigned cols)']]],
   ['group',['group',['../classpossumwood_1_1Config_1_1Item.html#ac41da2cf6fbfab2c7122d7806ea6df23',1,'possumwood::Config::Item']]]
 ];

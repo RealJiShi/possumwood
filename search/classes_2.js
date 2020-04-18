@@ -5,6 +5,7 @@ var searchData=
   ['calibrationpoints',['CalibrationPoints',['../classpossumwood_1_1opencv_1_1CalibrationPoints.html',1,'possumwood::opencv']]],
   ['cameraintrinsics',['CameraIntrinsics',['../classpossumwood_1_1opencv_1_1CameraIntrinsics.html',1,'possumwood::opencv']]],
   ['cameraresponse',['CameraResponse',['../classpossumwood_1_1opencv_1_1CameraResponse.html',1,'possumwood::opencv']]],
+  ['center',['Center',['../structlightfields_1_1SlicSuperpixels_1_1Center.html',1,'lightfields::SlicSuperpixels']]],
   ['cgalbuilder',['CGALBuilder',['../classpossumwood_1_1CGALBuilder.html',1,'possumwood']]],
   ['cgalface',['CGALFace',['../structpossumwood_1_1CGALFace.html',1,'possumwood']]],
   ['cgalhalfedge',['CGALHalfedge',['../structpossumwood_1_1CGALHalfedge.html',1,'possumwood']]],
