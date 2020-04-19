@@ -25,7 +25,8 @@ var searchData=
   ['skinned_5fvertices_2eh',['skinned_vertices.h',['../skinned__vertices_8h.html',1,'']]],
   ['skinning_2ecpp',['skinning.cpp',['../skinning_8cpp.html',1,'']]],
   ['skinning_2eh',['skinning.h',['../skinning_8h.html',1,'']]],
-  ['slic_5fsuperpixels_2ecpp',['slic_superpixels.cpp',['../libs_2lightfields_2slic__superpixels_8cpp.html',1,'(Global Namespace)'],['../plugins_2opencv_2nodes_2slic__superpixels_8cpp.html',1,'(Global Namespace)']]],
+  ['slic_2ecpp',['slic.cpp',['../slic_8cpp.html',1,'']]],
+  ['slic_5fsuperpixels_2ecpp',['slic_superpixels.cpp',['../slic__superpixels_8cpp.html',1,'']]],
   ['slic_5fsuperpixels_2eh',['slic_superpixels.h',['../slic__superpixels_8h.html',1,'']]],
   ['source_5feditor_2ecpp',['source_editor.cpp',['../source__editor_8cpp.html',1,'']]],
   ['source_5feditor_2eh',['source_editor.h',['../source__editor_8h.html',1,'']]],
@@ -48,5 +49,5 @@ var searchData=
   ['subset_2ecpp',['subset.cpp',['../subset_8cpp.html',1,'']]],
   ['subset_5fselection_2ecpp',['subset_selection.cpp',['../subset__selection_8cpp.html',1,'']]],
   ['subset_5fselection_2eh',['subset_selection.h',['../subset__selection_8h.html',1,'']]],
-  ['subtract_2ecpp',['subtract.cpp',['../sequence_2subtract_8cpp.html',1,'(Global Namespace)'],['../subtract_8cpp.html',1,'(Global Namespace)']]]
+  ['subtract_2ecpp',['subtract.cpp',['../maths_2subtract_8cpp.html',1,'(Global Namespace)'],['../sequence_2subtract_8cpp.html',1,'(Global Namespace)']]]
 ];

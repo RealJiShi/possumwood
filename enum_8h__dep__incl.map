@@ -30,16 +30,16 @@
 <area shape="rect" id="node31" href="$markov__random__field_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/markov\l_random_field.cpp" alt="" coords="5940,95,6127,151"/>
 <area shape="rect" id="node32" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="6151,95,6300,151"/>
 <area shape="rect" id="node33" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="6324,95,6527,151"/>
-<area shape="rect" id="node34" href="$multiply_8cpp.html" title="src/plugins/opencv\l/nodes/multiply.cpp" alt="" coords="6551,102,6699,143"/>
-<area shape="rect" id="node35" href="$normalize_8cpp.html" title="src/plugins/opencv\l/nodes/normalize.cpp" alt="" coords="6723,102,6885,143"/>
-<area shape="rect" id="node36" href="$dense_8cpp.html" title="src/plugins/opencv\l/nodes/optical_flow\l/dense.cpp" alt="" coords="6909,95,7056,151"/>
-<area shape="rect" id="node37" href="$resize_8cpp.html" title="src/plugins/opencv\l/nodes/resize.cpp" alt="" coords="7081,102,7223,143"/>
-<area shape="rect" id="node38" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="7248,102,7459,143"/>
-<area shape="rect" id="node39" href="$pixel__normalize_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pixel\l_normalize.cpp" alt="" coords="7482,95,7649,151"/>
-<area shape="rect" id="node40" href="$plugins_2opencv_2nodes_2slic__superpixels_8cpp.html" title="src/plugins/opencv\l/nodes/slic_superpixels.cpp" alt="" coords="7673,102,7873,143"/>
-<area shape="rect" id="node41" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="7897,102,8039,143"/>
-<area shape="rect" id="node42" href="$threshold_8cpp.html" title="src/plugins/opencv\l/nodes/threshold.cpp" alt="" coords="8064,102,8221,143"/>
-<area shape="rect" id="node43" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="8245,102,8443,143"/>
-<area shape="rect" id="node44" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="8467,102,8671,143"/>
+<area shape="rect" id="node34" href="$maths_2multiply_8cpp.html" title="src/plugins/opencv\l/nodes/maths/multiply.cpp" alt="" coords="6551,102,6745,143"/>
+<area shape="rect" id="node35" href="$normalize_8cpp.html" title="src/plugins/opencv\l/nodes/normalize.cpp" alt="" coords="6769,102,6930,143"/>
+<area shape="rect" id="node36" href="$dense_8cpp.html" title="src/plugins/opencv\l/nodes/optical_flow\l/dense.cpp" alt="" coords="6955,95,7101,151"/>
+<area shape="rect" id="node37" href="$resize_8cpp.html" title="src/plugins/opencv\l/nodes/resize.cpp" alt="" coords="7126,102,7269,143"/>
+<area shape="rect" id="node38" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="7293,102,7504,143"/>
+<area shape="rect" id="node39" href="$pixel__normalize_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pixel\l_normalize.cpp" alt="" coords="7527,95,7694,151"/>
+<area shape="rect" id="node40" href="$slic_8cpp.html" title="src/plugins/opencv\l/nodes/superpixels/slic.cpp" alt="" coords="7719,102,7916,143"/>
+<area shape="rect" id="node41" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="7941,102,8083,143"/>
+<area shape="rect" id="node42" href="$threshold_8cpp.html" title="src/plugins/opencv\l/nodes/threshold.cpp" alt="" coords="8108,102,8265,143"/>
+<area shape="rect" id="node43" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="8289,102,8487,143"/>
+<area shape="rect" id="node44" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="8511,102,8715,143"/>
 <area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="219,199,378,240"/>
 </map>

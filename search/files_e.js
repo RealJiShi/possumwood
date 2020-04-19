@@ -15,7 +15,7 @@ var searchData=
   ['port_2ecpp',['port.cpp',['../dependency__graph_2port_8cpp.html',1,'(Global Namespace)'],['../qt__node__editor_2port_8cpp.html',1,'(Global Namespace)']]],
   ['port_2eh',['port.h',['../dependency__graph_2port_8h.html',1,'(Global Namespace)'],['../qt__node__editor_2port_8h.html',1,'(Global Namespace)']]],
   ['port_2einl',['port.inl',['../port_8inl.html',1,'']]],
-  ['pow_2ecpp',['pow.cpp',['../pow_8cpp.html',1,'(Global Namespace)'],['../sequence_2pow_8cpp.html',1,'(Global Namespace)']]],
+  ['pow_2ecpp',['pow.cpp',['../maths_2pow_8cpp.html',1,'(Global Namespace)'],['../sequence_2pow_8cpp.html',1,'(Global Namespace)']]],
   ['program_2ecpp',['program.cpp',['../datatypes_2program_8cpp.html',1,'(Global Namespace)'],['../nodes_2program_8cpp.html',1,'(Global Namespace)']]],
   ['program_2eh',['program.h',['../program_8h.html',1,'']]],
   ['properties_2ecpp',['properties.cpp',['../apps_2possumwood_2properties_8cpp.html',1,'(Global Namespace)'],['../plugins_2cgal_2properties_8cpp.html',1,'(Global Namespace)']]],

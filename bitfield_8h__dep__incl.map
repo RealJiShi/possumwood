@@ -1,7 +1,7 @@
 <map id="src/libs/lightfields/bitfield.h" name="src/libs/lightfields/bitfield.h">
 <area shape="rect" id="node2" href="$active__queue_8h.html" title="src/libs/lightfields\l/active_queue.h" alt="" coords="89,95,225,136"/>
 <area shape="rect" id="node5" href="$bitfield_8cpp.html" title="src/libs/lightfields\l/bitfield.cpp" alt="" coords="249,95,385,136"/>
-<area shape="rect" id="node6" href="$libs_2lightfields_2slic__superpixels_8cpp.html" title="src/libs/lightfields\l/slic_superpixels.cpp" alt="" coords="409,95,566,136"/>
+<area shape="rect" id="node6" href="$slic__superpixels_8cpp.html" title="src/libs/lightfields\l/slic_superpixels.cpp" alt="" coords="409,95,566,136"/>
 <area shape="rect" id="node3" href="$active__queue_8cpp.html" title="src/libs/lightfields\l/active_queue.cpp" alt="" coords="5,184,145,225"/>
 <area shape="rect" id="node4" href="$push__relabel_8cpp.html" title="src/libs/lightfields\l/push_relabel.cpp" alt="" coords="170,184,306,225"/>
 </map>

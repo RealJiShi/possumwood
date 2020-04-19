@@ -1,6 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"classpossumwood_1_1io_1_1basic__json.html#a0dd1ea240c9ddc16da1c977d58464fee":[2,0,5,2,2,81],
 "classpossumwood_1_1io_1_1basic__json.html#a115bf37935645d9c04cdac9729561aef":[2,0,5,2,2,44],
 "classpossumwood_1_1io_1_1basic__json.html#a122640e7e2db1814fc7bbb3c122ec76e":[2,0,5,2,2,204],
 "classpossumwood_1_1io_1_1basic__json.html#a124c319566198d9f092c5bebea46ce77":[2,0,5,2,2,209],
@@ -249,5 +248,6 @@ var NAVTREEINDEX10 =
 "classpossumwood_1_1io_1_1basic__json_1_1input__buffer__adapter.html#aac7e0ee61f41c60e92340aa3d59836d3":[2,0,5,2,2,4,2],
 "classpossumwood_1_1io_1_1basic__json_1_1input__buffer__adapter.html#aafc05b0f693cb84df9a697eebcc3e8df":[2,0,5,2,2,4,6],
 "classpossumwood_1_1io_1_1basic__json_1_1input__buffer__adapter.html#abf2e1e497ef01098be22182959915fee":[2,0,5,2,2,4,3],
-"classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html":[2,0,5,2,2,6]
+"classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html":[2,0,5,2,2,6],
+"classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#a0a5d9e6b992c8d814ec24bf60cf43e0e":[2,0,5,2,2,6,17]
 };

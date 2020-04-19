@@ -1,7 +1,11 @@
 var NAVTREEINDEX18 =
 {
+"slic__superpixels_8h.html":[3,0,0,1,2,45],
+"slic__superpixels_8h_source.html":[3,0,0,1,2,45],
+"source__editor_8cpp.html":[3,0,0,1,3,32],
+"source__editor_8h.html":[3,0,0,1,3,33],
 "source__editor_8h_source.html":[3,0,0,1,3,33],
-"split_8cpp.html":[3,0,0,2,5,0,46],
+"split_8cpp.html":[3,0,0,2,5,0,39],
 "split__vec2_8cpp.html":[3,0,0,2,4,1,6],
 "split__vec3_8cpp.html":[3,0,0,2,4,1,7],
 "st__graphcut_8cpp.html":[3,0,0,2,5,0,7,16],
@@ -205,8 +209,8 @@ var NAVTREEINDEX18 =
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
 "structlightfields_1_1ActiveQueue_1_1Item.html":[2,0,2,0,0],
 "structlightfields_1_1ActiveQueue_1_1Item.html#a207812026d2057a470751a650250572d":[2,0,2,0,0,0],
 "structlightfields_1_1ActiveQueue_1_1Item.html#a68010689ca9192c9be2e603ce7ad22a4":[2,0,2,0,0,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX18 =
 "structlightfields_1_1MRF_1_1Value.html#a415d90041eeca0fd993c7730506f7ae7":[2,0,2,14,0,1],
 "structlightfields_1_1MRF_1_1Value.html#addd4c4d02f8948f5c97bbf48f73bba22":[2,0,2,14,0,2],
 "structlightfields_1_1Neighbours__4.html":[2,0,2,16],
-"structlightfields_1_1Neighbours__4.html#a2bb7e3f78cf13a51046088081cce6040":[2,0,2,16,0],
-"structlightfields_1_1Neighbours__4.html#a44a3b8691beaa8d412fb9a64b03eac62":[2,0,2,16,1],
-"structlightfields_1_1Neighbours__8.html":[2,0,2,17],
-"structlightfields_1_1Neighbours__8.html#a83828aa983bedc7dc9398118159f3c92":[2,0,2,17,1],
-"structlightfields_1_1Neighbours__8.html#ae9071758d072c5e46cb320e7ec129c9a":[2,0,2,17,0]
+"structlightfields_1_1Neighbours__4.html#a2bb7e3f78cf13a51046088081cce6040":[2,0,2,16,0]
 };

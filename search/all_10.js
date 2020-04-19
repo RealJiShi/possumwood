@@ -76,7 +76,7 @@ var searchData=
   ['positionfromvalue',['positionFromValue',['../classTimeline.html#acd38e6e2714cb2b35948a544291bb93f',1,'Timeline']]],
   ['possumwood',['possumwood',['../namespacepossumwood.html',1,'']]],
   ['pow',['pow',['../classlightfields_1_1PDFGaussian.html#a8c026876c608f9cf08d9b0126034eab0',1,'lightfields::PDFGaussian']]],
-  ['pow_2ecpp',['pow.cpp',['../pow_8cpp.html',1,'(Global Namespace)'],['../sequence_2pow_8cpp.html',1,'(Global Namespace)']]],
+  ['pow_2ecpp',['pow.cpp',['../maths_2pow_8cpp.html',1,'(Global Namespace)'],['../sequence_2pow_8cpp.html',1,'(Global Namespace)']]],
   ['primitive_5fiterator',['primitive_iterator',['../structpossumwood_1_1io_1_1basic__json_1_1internal__iterator.html#a3f2df5517a0c5c2942c9ee440f31ff98',1,'possumwood::io::basic_json::internal_iterator']]],
   ['primitive_5fiterator_5ft',['primitive_iterator_t',['../classpossumwood_1_1io_1_1basic__json_1_1primitive__iterator__t.html',1,'possumwood::io::basic_json']]],
   ['print',['print',['../classpossumwood_1_1BufferBase.html#a97898a160e73943f743554d1f7a8c8d5',1,'possumwood::BufferBase::print()'],['../classpossumwood_1_1BufferTemplated.html#a22d47ae05732cabbedcbdfb235de93e6',1,'possumwood::BufferTemplated::print()']]],

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['abs_2ecpp',['abs.cpp',['../abs_8cpp.html',1,'(Global Namespace)'],['../sequence_2abs_8cpp.html',1,'(Global Namespace)']]],
+  ['abs_2ecpp',['abs.cpp',['../maths_2abs_8cpp.html',1,'(Global Namespace)'],['../sequence_2abs_8cpp.html',1,'(Global Namespace)']]],
   ['action_2ecpp',['action.cpp',['../action_8cpp.html',1,'']]],
   ['action_2eh',['action.h',['../action_8h.html',1,'']]],
   ['actions_2ecpp',['actions.cpp',['../libs_2actions_2actions_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2actions_8cpp.html',1,'(Global Namespace)']]],
@@ -10,7 +10,7 @@ var searchData=
   ['adaptive_5fthreshold_2ecpp',['adaptive_threshold.cpp',['../adaptive__threshold_8cpp.html',1,'']]],
   ['adaptor_2ecpp',['adaptor.cpp',['../adaptor_8cpp.html',1,'']]],
   ['adaptor_2eh',['adaptor.h',['../adaptor_8h.html',1,'']]],
-  ['add_2ecpp',['add.cpp',['../maths_2nodes_2add_8cpp.html',1,'(Global Namespace)'],['../opencv_2nodes_2add_8cpp.html',1,'(Global Namespace)'],['../opencv_2nodes_2sequence_2add_8cpp.html',1,'(Global Namespace)']]],
+  ['add_2ecpp',['add.cpp',['../maths_2nodes_2add_8cpp.html',1,'(Global Namespace)'],['../opencv_2nodes_2maths_2add_8cpp.html',1,'(Global Namespace)'],['../opencv_2nodes_2sequence_2add_8cpp.html',1,'(Global Namespace)']]],
   ['add_5fexif_2ecpp',['add_exif.cpp',['../add__exif_8cpp.html',1,'']]],
   ['add_5fframe_2ecpp',['add_frame.cpp',['../add__frame_8cpp.html',1,'']]],
   ['adjust_5fpattern_2ecpp',['adjust_pattern.cpp',['../adjust__pattern_8cpp.html',1,'']]],

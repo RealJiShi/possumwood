@@ -42,5 +42,5 @@ var searchData=
   ['mrf_2ecpp',['mrf.cpp',['../mrf_8cpp.html',1,'']]],
   ['mrf_2eh',['mrf.h',['../mrf_8h.html',1,'']]],
   ['mult_2ecpp',['mult.cpp',['../mult_8cpp.html',1,'']]],
-  ['multiply_2ecpp',['multiply.cpp',['../multiply_8cpp.html',1,'(Global Namespace)'],['../sequence_2multiply_8cpp.html',1,'(Global Namespace)']]]
+  ['multiply_2ecpp',['multiply.cpp',['../maths_2multiply_8cpp.html',1,'(Global Namespace)'],['../sequence_2multiply_8cpp.html',1,'(Global Namespace)']]]
 ];

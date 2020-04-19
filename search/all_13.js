@@ -130,7 +130,8 @@ var searchData=
   ['skinning_2ecpp',['skinning.cpp',['../skinning_8cpp.html',1,'']]],
   ['skinning_2eh',['skinning.h',['../skinning_8h.html',1,'']]],
   ['skinningusecount',['skinningUseCount',['../x_8cpp.html#a005994c05b177e8a2b63ac4d98a0e567',1,'x.cpp']]],
-  ['slic_5fsuperpixels_2ecpp',['slic_superpixels.cpp',['../libs_2lightfields_2slic__superpixels_8cpp.html',1,'(Global Namespace)'],['../plugins_2opencv_2nodes_2slic__superpixels_8cpp.html',1,'(Global Namespace)']]],
+  ['slic_2ecpp',['slic.cpp',['../slic_8cpp.html',1,'']]],
+  ['slic_5fsuperpixels_2ecpp',['slic_superpixels.cpp',['../slic__superpixels_8cpp.html',1,'']]],
   ['slic_5fsuperpixels_2eh',['slic_superpixels.h',['../slic__superpixels_8h.html',1,'']]],
   ['slicsuperpixels',['SlicSuperpixels',['../structlightfields_1_1SlicSuperpixels.html',1,'lightfields']]],
   ['snippet',['Snippet',['../classanim_1_1MotionGraph_1_1Snippet.html',1,'anim::MotionGraph::Snippet'],['../classanim_1_1MotionGraph_1_1Snippet.html#a4116890b563a351ab0cb83221dfe663c',1,'anim::MotionGraph::Snippet::Snippet()']]],
@@ -187,6 +188,6 @@ var searchData=
   ['subset_5fselection_2ecpp',['subset_selection.cpp',['../subset__selection_8cpp.html',1,'']]],
   ['subset_5fselection_2eh',['subset_selection.h',['../subset__selection_8h.html',1,'']]],
   ['subsetselection',['SubsetSelection',['../classanim_1_1SubsetSelection.html',1,'anim::SubsetSelection'],['../classanim_1_1SubsetSelection_1_1Options.html#aa6094864861bd1d971b3b99ef3ee2581',1,'anim::SubsetSelection::Options::SubsetSelection()'],['../classanim_1_1SubsetSelection_1_1const__iterator.html#aa6094864861bd1d971b3b99ef3ee2581',1,'anim::SubsetSelection::const_iterator::SubsetSelection()'],['../classanim_1_1SubsetSelection.html#aad75ba5497ada4050fab0adc3fda72d5',1,'anim::SubsetSelection::SubsetSelection()'],['../classanim_1_1SubsetSelection.html#aa1154e2ff1d74ef2bf97fd35a379a905',1,'anim::SubsetSelection::SubsetSelection(const SubsetSelection &amp;ss)']]],
-  ['subtract_2ecpp',['subtract.cpp',['../sequence_2subtract_8cpp.html',1,'(Global Namespace)'],['../subtract_8cpp.html',1,'(Global Namespace)']]],
+  ['subtract_2ecpp',['subtract.cpp',['../maths_2subtract_8cpp.html',1,'(Global Namespace)'],['../sequence_2subtract_8cpp.html',1,'(Global Namespace)']]],
   ['swap',['swap',['../classpossumwood_1_1io_1_1basic__json.html#a7234e139768c9b7950c8b363a671b47c',1,'possumwood::io::basic_json::swap(reference other) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value and std::is_nothrow_move_assignable&lt; value_t &gt;::value and std::is_nothrow_move_constructible&lt; json_value &gt;::value and std::is_nothrow_move_assignable&lt; json_value &gt;::value)'],['../classpossumwood_1_1io_1_1basic__json.html#ade2e54f7cf76e237ee1ee5473a8cd712',1,'possumwood::io::basic_json::swap(array_t &amp;other)'],['../classpossumwood_1_1io_1_1basic__json.html#a66abb959457c31ca005e88d28d4280a8',1,'possumwood::io::basic_json::swap(object_t &amp;other)'],['../classpossumwood_1_1io_1_1basic__json.html#a07e68a8378c76ed96abb832c42e42507',1,'possumwood::io::basic_json::swap(string_t &amp;other)'],['../classlightfields_1_1Grid.html#a086dd33ab1e51bf23734d5b953f7a429',1,'lightfields::Grid::swap()'],['../namespacestd.html#a449a20b63044e07e93d6f81ec262c07d',1,'std::swap()']]]
 ];

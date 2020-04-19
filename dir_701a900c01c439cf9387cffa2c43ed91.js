@@ -7,6 +7,7 @@ var dir_701a900c01c439cf9387cffa2c43ed91 =
     [ "convert.cpp", "sequence_2convert_8cpp.html", null ],
     [ "divide.cpp", "sequence_2divide_8cpp.html", null ],
     [ "get_frame.cpp", "get__frame_8cpp.html", null ],
+    [ "log.cpp", "sequence_2log_8cpp.html", null ],
     [ "max_index.cpp", "max__index_8cpp.html", null ],
     [ "multiply.cpp", "sequence_2multiply_8cpp.html", null ],
     [ "pick_pixel.cpp", "pick__pixel_8cpp.html", null ],

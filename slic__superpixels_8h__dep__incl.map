@@ -1,4 +1,4 @@
 <map id="src/libs/lightfields/slic_superpixels.h" name="src/libs/lightfields/slic_superpixels.h">
-<area shape="rect" id="node2" href="$libs_2lightfields_2slic__superpixels_8cpp.html" title="src/libs/lightfields\l/slic_superpixels.cpp" alt="" coords="5,95,163,136"/>
-<area shape="rect" id="node3" href="$plugins_2opencv_2nodes_2slic__superpixels_8cpp.html" title="src/plugins/opencv\l/nodes/slic_superpixels.cpp" alt="" coords="187,95,387,136"/>
+<area shape="rect" id="node2" href="$slic__superpixels_8cpp.html" title="src/libs/lightfields\l/slic_superpixels.cpp" alt="" coords="5,95,163,136"/>
+<area shape="rect" id="node3" href="$slic_8cpp.html" title="src/plugins/opencv\l/nodes/superpixels/slic.cpp" alt="" coords="187,95,384,136"/>
 </map>
