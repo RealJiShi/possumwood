@@ -54,7 +54,6 @@ var NAVTREEINDEX14 =
 "detail_8h_source.html":[3,0,0,1,1,14],
 "detect__pattern_8cpp.html":[3,0,0,2,5,0,7,4],
 "detect__stationary_8cpp.html":[3,0,0,2,0,1,0,0,0],
-"dft_2log_8cpp.html":[3,0,0,2,5,0,4,2],
 "dft_8cpp.html":[3,0,0,2,5,0,4,0],
 "diffusion_8cpp.html":[3,0,0,2,5,0,7,5],
 "dilate__erode_8cpp.html":[3,0,0,2,5,0,25],
@@ -249,5 +248,6 @@ var NAVTREEINDEX14 =
 "functions_func_t.html":[2,3,1,18],
 "functions_func_u.html":[2,3,1,19],
 "functions_func_v.html":[2,3,1,20],
-"functions_func_w.html":[2,3,1,21]
+"functions_func_w.html":[2,3,1,21],
+"functions_func_z.html":[2,3,1,22]
 };

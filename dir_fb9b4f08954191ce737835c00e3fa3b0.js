@@ -3,6 +3,8 @@ var dir_fb9b4f08954191ce737835c00e3fa3b0 =
     [ "abs.cpp", "maths_2abs_8cpp.html", null ],
     [ "add.cpp", "opencv_2nodes_2maths_2add_8cpp.html", null ],
     [ "divide.cpp", "maths_2divide_8cpp.html", null ],
+    [ "log.cpp", "maths_2log_8cpp.html", null ],
+    [ "magnitude.cpp", "magnitude_8cpp.html", null ],
     [ "max.cpp", "max_8cpp.html", null ],
     [ "min.cpp", "min_8cpp.html", null ],
     [ "mod.cpp", "mod_8cpp.html", null ],

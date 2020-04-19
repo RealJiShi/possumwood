@@ -1,4 +1,4 @@
-<map id="src/plugins/opencv/nodes/dft/magnitude.cpp" name="src/plugins/opencv/nodes/dft/magnitude.cpp">
+<map id="src/plugins/opencv/nodes/maths/magnitude.cpp" name="src/plugins/opencv/nodes/maths/magnitude.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="914,95,1089,136"/>
 <area shape="rect" id="node42" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2953,647,3071,673"/>
 <area shape="rect" id="node7" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="802,184,1014,211"/>

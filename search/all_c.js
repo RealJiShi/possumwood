@@ -59,7 +59,7 @@ var searchData=
   ['loc',['loc',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#a9658cc48ec5787055cc653716d5af098',1,'possumwood::io::basic_json::serializer']]],
   ['localangle',['LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html',1,'anim::metric']]],
   ['localminima',['localMinima',['../classanim_1_1MotionMap.html#a916a5bf5fb3cfc870c81aab30144f0ef',1,'anim::MotionMap']]],
-  ['log_2ecpp',['log.cpp',['../dft_2log_8cpp.html',1,'(Global Namespace)'],['../sequence_2log_8cpp.html',1,'(Global Namespace)']]],
+  ['log_2ecpp',['log.cpp',['../maths_2log_8cpp.html',1,'(Global Namespace)'],['../sequence_2log_8cpp.html',1,'(Global Namespace)']]],
   ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]],
   ['lytro_5flightfield_2ecpp',['lytro_lightfield.cpp',['../lytro__lightfield_8cpp.html',1,'']]],
   ['nearest',['nearest',['../namespacelightfields_1_1nearest.html',1,'lightfields']]]
