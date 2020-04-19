@@ -30,7 +30,7 @@ var searchData=
   ['defocus_5fmetric_2ecpp',['defocus_metric.cpp',['../defocus__metric_8cpp.html',1,'']]],
   ['deleteaction',['deleteAction',['../classAdaptor.html#a226b122f24d6650abe47feabe21a41ac',1,'Adaptor']]],
   ['demosaic_2ecpp',['demosaic.cpp',['../demosaic_8cpp.html',1,'']]],
-  ['denoising_2ecpp',['denoising.cpp',['../denoising_8cpp.html',1,'']]],
+  ['denoise_2ecpp',['denoise.cpp',['../denoise_8cpp.html',1,'']]],
   ['dense_2ecpp',['dense.cpp',['../dense_8cpp.html',1,'']]],
   ['dependency_5fgraph',['dependency_graph',['../namespacedependency__graph.html',1,'']]],
   ['deprecated_20list',['Deprecated List',['../deprecated.html',1,'']]],

@@ -1,15 +1,16 @@
 var NAVTREEINDEX18 =
 {
+"slic__superpixels_8cpp.html":[3,0,0,1,2,44],
 "slic__superpixels_8h.html":[3,0,0,1,2,45],
 "slic__superpixels_8h_source.html":[3,0,0,1,2,45],
 "source__editor_8cpp.html":[3,0,0,1,3,32],
 "source__editor_8h.html":[3,0,0,1,3,33],
 "source__editor_8h_source.html":[3,0,0,1,3,33],
-"split_8cpp.html":[3,0,0,2,5,0,39],
+"split_8cpp.html":[3,0,0,2,5,0,34],
 "split__vec2_8cpp.html":[3,0,0,2,4,1,6],
 "split__vec3_8cpp.html":[3,0,0,2,4,1,7],
-"st__graphcut_8cpp.html":[3,0,0,2,5,0,7,16],
-"st__graphcut_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911":[3,0,0,2,5,0,7,16,0],
+"st__graphcut_8cpp.html":[3,0,0,2,5,0,8,16],
+"st__graphcut_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911":[3,0,0,2,5,0,8,16,0],
 "stack_8cpp.html":[3,0,0,0,2,9],
 "stack_8h.html":[3,0,0,0,2,10],
 "stack_8h_source.html":[3,0,0,0,2,10],
@@ -207,10 +208,10 @@ var NAVTREEINDEX18 =
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#a3f73cded8632fe9b10a02d59bcf1424a":[2,0,1,0,0,1],
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
 "structlightfields_1_1ActiveQueue_1_1Item.html":[2,0,2,0,0],
 "structlightfields_1_1ActiveQueue_1_1Item.html#a207812026d2057a470751a650250572d":[2,0,2,0,0,0],
 "structlightfields_1_1ActiveQueue_1_1Item.html#a68010689ca9192c9be2e603ce7ad22a4":[2,0,2,0,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX18 =
 "structlightfields_1_1MRF_1_1Value.html#a060a5b65b803924e22cfa84ef4fd4f88":[2,0,2,14,0,0],
 "structlightfields_1_1MRF_1_1Value.html#a415d90041eeca0fd993c7730506f7ae7":[2,0,2,14,0,1],
 "structlightfields_1_1MRF_1_1Value.html#addd4c4d02f8948f5c97bbf48f73bba22":[2,0,2,14,0,2],
-"structlightfields_1_1Neighbours__4.html":[2,0,2,16],
-"structlightfields_1_1Neighbours__4.html#a2bb7e3f78cf13a51046088081cce6040":[2,0,2,16,0]
+"structlightfields_1_1Neighbours__4.html":[2,0,2,16]
 };

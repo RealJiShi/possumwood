@@ -1,4 +1,4 @@
-<map id="src/plugins/opencv/nodes/threshold.cpp" name="src/plugins/opencv/nodes/threshold.cpp">
+<map id="src/plugins/opencv/nodes/filter/threshold.cpp" name="src/plugins/opencv/nodes/filter/threshold.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1105,95,1279,136"/>
 <area shape="rect" id="node27" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1766,512,1885,539"/>
 <area shape="rect" id="node47" href="$enum_8h.html" title="possumwood_sdk/datatypes\l/enum.h" alt="" coords="2091,423,2298,464"/>

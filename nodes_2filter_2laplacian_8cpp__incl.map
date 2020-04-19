@@ -1,4 +1,4 @@
-<map id="src/plugins/opencv/nodes/laplacian_smoothness.cpp" name="src/plugins/opencv/nodes/laplacian_smoothness.cpp">
+<map id="src/plugins/opencv/nodes/filter/laplacian.cpp" name="src/plugins/opencv/nodes/filter/laplacian.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1233,95,1407,136"/>
 <area shape="rect" id="node30" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2174,512,2293,539"/>
 <area shape="rect" id="node45" href="$enum_8h.html" title="possumwood_sdk/datatypes\l/enum.h" alt="" coords="2525,423,2731,464"/>

@@ -11,7 +11,7 @@ var searchData=
   ['default_5fshaders_2eh',['default_shaders.h',['../default__shaders_8h.html',1,'']]],
   ['defocus_5fmetric_2ecpp',['defocus_metric.cpp',['../defocus__metric_8cpp.html',1,'']]],
   ['demosaic_2ecpp',['demosaic.cpp',['../demosaic_8cpp.html',1,'']]],
-  ['denoising_2ecpp',['denoising.cpp',['../denoising_8cpp.html',1,'']]],
+  ['denoise_2ecpp',['denoise.cpp',['../denoise_8cpp.html',1,'']]],
   ['dense_2ecpp',['dense.cpp',['../dense_8cpp.html',1,'']]],
   ['depth_2ecpp',['depth.cpp',['../depth_8cpp.html',1,'']]],
   ['description_2ecpp',['description.cpp',['../description_8cpp.html',1,'']]],
