@@ -73,7 +73,7 @@ var searchData=
   ['options_2ecpp',['options.cpp',['../options_8cpp.html',1,'']]],
   ['options_2eh',['options.h',['../options_8h.html',1,'']]],
   ['or_2ecpp',['or.cpp',['../or_8cpp.html',1,'']]],
-  ['orientation',['orientation',['../structnode__editor_1_1Node_1_1PortDefinition.html#a6582da153181d276efb7c061edcf8cab',1,'node_editor::Node::PortDefinition::orientation()'],['../classnode__editor_1_1Port.html#a5d4a72f966644e40f5fb320e20999294',1,'node_editor::Port::orientation() const'],['../classnode__editor_1_1Port.html#a3f46dcfd57ed1b1b67795e5d7d01cf82',1,'node_editor::Port::Orientation()']]],
+  ['orientation',['Orientation',['../classnode__editor_1_1Port.html#a3f46dcfd57ed1b1b67795e5d7d01cf82',1,'node_editor::Port::Orientation()'],['../structnode__editor_1_1Node_1_1PortDefinition.html#a6582da153181d276efb7c061edcf8cab',1,'node_editor::Node::PortDefinition::orientation()'],['../classnode__editor_1_1Port.html#a5d4a72f966644e40f5fb320e20999294',1,'node_editor::Port::orientation()']]],
   ['origin',['origin',['../classnode__editor_1_1Edge.html#aa09dc5a3ce5a97bcdfadafc10b613fe2',1,'node_editor::Edge::origin()'],['../classanim_1_1constraints_1_1Constraint.html#a11975622a1b0906e1c46cd8e8a8493ca',1,'anim::constraints::Constraint::origin()']]],
   ['originx',['originX',['../structpossumwood_1_1Font_1_1Glyph.html#a0b81c28e825d138e5b506965f956bc7e',1,'possumwood::Font::Glyph']]],
   ['originy',['originY',['../structpossumwood_1_1Font_1_1Glyph.html#a215aea634aaa92c23b3389f2873b7f7d',1,'possumwood::Font::Glyph']]],

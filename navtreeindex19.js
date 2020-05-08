@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"structlightfields_1_1MRF_1_1Value.html#addd4c4d02f8948f5c97bbf48f73bba22":[2,0,2,14,0,2],
+"structlightfields_1_1Neighbours__4.html":[2,0,2,16],
 "structlightfields_1_1Neighbours__4.html#a2bb7e3f78cf13a51046088081cce6040":[2,0,2,16,0],
 "structlightfields_1_1Neighbours__4.html#a44a3b8691beaa8d412fb9a64b03eac62":[2,0,2,16,1],
 "structlightfields_1_1Neighbours__8.html":[2,0,2,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "structpossumwood_1_1Traits_3_01lua_1_1Context_01_4.html":[2,0,5,87],
 "structpossumwood_1_1Traits_3_01lua_1_1Context_01_4.html#a6984e43e9155bc4d065d8535c2ff8b38":[2,0,5,87,0],
 "structpossumwood_1_1Traits_3_01lua_1_1State_01_4.html":[2,0,5,88],
-"structpossumwood_1_1Traits_3_01lua_1_1State_01_4.html#a1e6dfc4d755ad7ba28a09287ea93387e":[2,0,5,88,0],
-"structpossumwood_1_1Traits_3_01maths_1_1Interval_01_4.html":[2,0,5,89],
-"structpossumwood_1_1Traits_3_01maths_1_1Interval_01_4.html#a3ff8e21a331222e412568ff29782d0ab":[2,0,5,89,1]
+"structpossumwood_1_1Traits_3_01lua_1_1State_01_4.html#a1e6dfc4d755ad7ba28a09287ea93387e":[2,0,5,88,0]
 };

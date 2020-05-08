@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"slic_8cpp.html":[3,0,0,2,5,0,13,1],
+"slic_8cpp.html#a36bd51b89b9e0e6e4dbbe565b9155083":[3,0,0,2,5,0,13,1,0],
 "slic__superpixels_8cpp.html":[3,0,0,1,2,44],
 "slic__superpixels_8h.html":[3,0,0,1,2,45],
 "slic__superpixels_8h_source.html":[3,0,0,1,2,45],
@@ -208,8 +210,8 @@ var NAVTREEINDEX18 =
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#a3f73cded8632fe9b10a02d59bcf1424a":[2,0,1,0,0,1],
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
 "structlightfields_1_1ActiveQueue_1_1Item.html":[2,0,2,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "structlightfields_1_1LensletGraph_1_1Pimpl.html#ac0c4b921344be5c1be2c7ea0a87f6668":[2,0,2,11,0,5],
 "structlightfields_1_1MRF_1_1Value.html":[2,0,2,14,0],
 "structlightfields_1_1MRF_1_1Value.html#a060a5b65b803924e22cfa84ef4fd4f88":[2,0,2,14,0,0],
-"structlightfields_1_1MRF_1_1Value.html#a415d90041eeca0fd993c7730506f7ae7":[2,0,2,14,0,1],
-"structlightfields_1_1MRF_1_1Value.html#addd4c4d02f8948f5c97bbf48f73bba22":[2,0,2,14,0,2],
-"structlightfields_1_1Neighbours__4.html":[2,0,2,16]
+"structlightfields_1_1MRF_1_1Value.html#a415d90041eeca0fd993c7730506f7ae7":[2,0,2,14,0,1]
 };

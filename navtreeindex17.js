@@ -1,5 +1,7 @@
 var NAVTREEINDEX17 =
 {
+"node__data_8h.html#aa396666f4eb512f00b5d5185f37fd597":[3,0,0,1,0,11,3],
+"node__data_8h_source.html":[3,0,0,1,0,11],
 "node__implementation_8cpp.html":[3,0,0,1,3,28],
 "node__implementation_8h.html":[3,0,0,1,3,29],
 "node__implementation_8h_source.html":[3,0,0,1,3,29],
@@ -247,7 +249,5 @@ var NAVTREEINDEX17 =
 "skinned__vertices_8h_source.html":[3,0,0,2,0,0,31],
 "skinning_8cpp.html":[3,0,0,2,0,0,32],
 "skinning_8h.html":[3,0,0,2,0,0,33],
-"skinning_8h_source.html":[3,0,0,2,0,0,33],
-"slic_8cpp.html":[3,0,0,2,5,0,13,0],
-"slic_8cpp.html#a36bd51b89b9e0e6e4dbbe565b9155083":[3,0,0,2,5,0,13,0,0]
+"skinning_8h_source.html":[3,0,0,2,0,0,33]
 };
