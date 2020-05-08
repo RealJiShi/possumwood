@@ -64,7 +64,7 @@ var NAVTREEINDEX =
 "slic_8cpp.html",
 "structlightfields_1_1MRF_1_1Value.html#addd4c4d02f8948f5c97bbf48f73bba22",
 "structpossumwood_1_1Traits_3_01maths_1_1Interval_01_4.html",
-"tests_2anim_2transform_8cpp.html#aed722b4cd3a144e31dab3bfddd5b9401"
+"tests_2anim_2skeleton_8cpp.html#a87b197969ff876633eb190cabb37b98a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
