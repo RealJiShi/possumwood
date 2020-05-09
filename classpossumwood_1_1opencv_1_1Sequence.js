@@ -1,10 +1,10 @@
 var classpossumwood_1_1opencv_1_1Sequence =
 [
-    [ "Item", "structpossumwood_1_1opencv_1_1Sequence_1_1Item.html", "structpossumwood_1_1opencv_1_1Sequence_1_1Item" ],
+    [ "Item", "classpossumwood_1_1opencv_1_1Sequence_1_1Item.html", "classpossumwood_1_1opencv_1_1Sequence_1_1Item" ],
     [ "const_iterator", "classpossumwood_1_1opencv_1_1Sequence.html#a660bb78d168b37b6ab0797d01022c34d", null ],
     [ "iterator", "classpossumwood_1_1opencv_1_1Sequence.html#a9d616d4048fabc87ac134b195986af30", null ],
     [ "Sequence", "classpossumwood_1_1opencv_1_1Sequence.html#a53b868ffee98f8e39b3334f8da538c41", null ],
-    [ "add", "classpossumwood_1_1opencv_1_1Sequence.html#a59d6fa840fa5094c73402ef490472f19", null ],
+    [ "add", "classpossumwood_1_1opencv_1_1Sequence.html#adbb925044d5bb0b90450a19412bfa7cd", null ],
     [ "back", "classpossumwood_1_1opencv_1_1Sequence.html#acc67053be6b042554a848673a8a5386f", null ],
     [ "begin", "classpossumwood_1_1opencv_1_1Sequence.html#a07894fb042f00a04070ab091a5cd94d3", null ],
     [ "begin", "classpossumwood_1_1opencv_1_1Sequence.html#abc0da375aa5217f3958e5af33b05f742", null ],

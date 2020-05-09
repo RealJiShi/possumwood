@@ -9,6 +9,7 @@ var dir_701a900c01c439cf9387cffa2c43ed91 =
     [ "get_frame.cpp", "get__frame_8cpp.html", null ],
     [ "log.cpp", "sequence_2log_8cpp.html", null ],
     [ "max_index.cpp", "max__index_8cpp.html", null ],
+    [ "mosaic.cpp", "mosaic_8cpp.html", "mosaic_8cpp" ],
     [ "multiply.cpp", "sequence_2multiply_8cpp.html", null ],
     [ "pick_pixel.cpp", "pick__pixel_8cpp.html", null ],
     [ "pixel_normalize.cpp", "pixel__normalize_8cpp.html", "pixel__normalize_8cpp" ],
