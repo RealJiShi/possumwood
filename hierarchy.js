@@ -104,6 +104,7 @@ var hierarchy =
       [ "possumwood::io::detail::is_compatible_object_type_impl< B, RealType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl.html", null ]
     ] ],
     [ "possumwood::Filename", "classpossumwood_1_1Filename.html", null ],
+    [ "possumwood::Filenames", "classpossumwood_1_1Filenames.html", null ],
     [ "possumwood::Font", "classpossumwood_1_1Font.html", null ],
     [ "possumwood::Texture::Format", "structpossumwood_1_1Texture_1_1Format.html", null ],
     [ "possumwood::opencv::Frame", "classpossumwood_1_1opencv_1_1Frame.html", null ],
@@ -188,8 +189,8 @@ var hierarchy =
     [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "lightfields::ActiveQueue::Item", "structlightfields_1_1ActiveQueue_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
-    [ "possumwood::opencv::Sequence::Item", "classpossumwood_1_1opencv_1_1Sequence_1_1Item.html", null ],
     [ "Options::Item", "structOptions_1_1Item.html", null ],
+    [ "possumwood::opencv::Sequence::Item", "classpossumwood_1_1opencv_1_1Sequence_1_1Item.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -307,6 +308,7 @@ var hierarchy =
         [ "possumwood::IO< Imath::Vec3< unsigned > >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
+        [ "possumwood::IO< possumwood::Filenames >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::maths::Interval >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::NodeData >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< std::string >", "classpossumwood_1_1IO.html", null ],
@@ -322,6 +324,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< DERIVED >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< enum_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< filenames_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< FrameEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< FrameUI >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< GenericMeshUI >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -362,6 +365,9 @@ var hierarchy =
         ] ],
         [ "possumwood::properties::property< possumwood::Filename, filename_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "filename_ui", "classfilename__ui.html", null ]
+        ] ],
+        [ "possumwood::properties::property< possumwood::Filenames, filenames_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "filenames_ui", "classfilenames__ui.html", null ]
         ] ],
         [ "possumwood::properties::property< possumwood::maths::Interval, interval_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "interval_ui", "classinterval__ui.html", null ]
@@ -413,9 +419,9 @@ var hierarchy =
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
     [ "lightfields::PDFGaussian", "classlightfields_1_1PDFGaussian.html", null ],
-    [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
     [ "dependency_graph::StaticInitialisation::Pimpl", "structdependency__graph_1_1StaticInitialisation_1_1Pimpl.html", null ],
     [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
+    [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
     [ "PluginsRAII", "classPluginsRAII.html", null ],
     [ "lightfields::PMF", "classlightfields_1_1PMF.html", null ],
     [ "possumwood::NodeData::Point", "structpossumwood_1_1NodeData_1_1Point.html", null ],
@@ -495,12 +501,12 @@ var hierarchy =
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
-    [ "lightfields::Pattern::Sample", "structlightfields_1_1Pattern_1_1Sample.html", null ],
     [ "lightfields::Samples::Sample", "structlightfields_1_1Samples_1_1Sample.html", null ],
+    [ "lightfields::Pattern::Sample", "structlightfields_1_1Pattern_1_1Sample.html", null ],
     [ "lightfields::Samples", "classlightfields_1_1Samples.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "possumwood::opencv::Sequence", "classpossumwood_1_1opencv_1_1Sequence.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "possumwood::Shader", "classpossumwood_1_1Shader.html", [
@@ -538,6 +544,7 @@ var hierarchy =
     [ "possumwood::Traits< anim::SubsetSelection >", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html", null ],
     [ "possumwood::Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", null ],
     [ "possumwood::Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", null ],
+    [ "possumwood::Traits< Filenames >", "structpossumwood_1_1Traits_3_01Filenames_01_4.html", null ],
     [ "possumwood::Traits< Font >", "structpossumwood_1_1Traits_3_01Font_01_4.html", null ],
     [ "possumwood::Traits< FragmentShader >", "structpossumwood_1_1Traits_3_01FragmentShader_01_4.html", null ],
     [ "possumwood::Traits< GeometryShader >", "structpossumwood_1_1Traits_3_01GeometryShader_01_4.html", null ],

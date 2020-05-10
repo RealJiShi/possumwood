@@ -18,6 +18,7 @@ var annotated_dup =
     [ "ErrorDialog", "classErrorDialog.html", "classErrorDialog" ],
     [ "ExpressionExpansion", "classExpressionExpansion.html", "classExpressionExpansion" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],
+    [ "filenames_ui", "classfilenames__ui.html", "classfilenames__ui" ],
     [ "FrameEditor", "classFrameEditor.html", "classFrameEditor" ],
     [ "FrameUI", "classFrameUI.html", "classFrameUI" ],
     [ "GenericMeshUI", "classGenericMeshUI.html", "classGenericMeshUI" ],

@@ -37,6 +37,7 @@ var searchData=
   ['addconnection',['addConnection',['../classdependency__graph_1_1Selection.html#af127c9305d77e734e2f3199087c671de',1,'dependency_graph::Selection']]],
   ['addconstraint',['addConstraint',['../classanim_1_1constraints_1_1Channel.html#a443393378484b85ed2f949cad6758aed',1,'anim::constraints::Channel']]],
   ['adderror',['addError',['../classdependency__graph_1_1State.html#a6db3ffb02e6f92de92c06078f8324470',1,'dependency_graph::State']]],
+  ['addfilename',['addFilename',['../classpossumwood_1_1Filenames.html#a48b5c1de5fd7479fdca4005e0c4a6aa5',1,'possumwood::Filenames']]],
   ['addflow',['addFlow',['../classlightfields_1_1Link_1_1Direction.html#a8eaba17e1129e942bb6016a06aa7ad02',1,'lightfields::Link::Direction']]],
   ['addframe',['addFrame',['../classanim_1_1Animation.html#a99e69af3e1d036006e9b30c5241ae6fb',1,'anim::Animation']]],
   ['addindex',['addIndex',['../classpossumwood_1_1polymesh_1_1GenericPolymesh.html#a4bf2d30933c3a054111291c7b647fecf',1,'possumwood::polymesh::GenericPolymesh']]],

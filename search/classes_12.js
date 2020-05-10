@@ -23,6 +23,7 @@ var searchData=
   ['traits_3c_20anim_3a_3asubsetselection_20_3e',['Traits&lt; anim::SubsetSelection &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html',1,'possumwood']]],
   ['traits_3c_20enum_20_3e',['Traits&lt; Enum &gt;',['../structpossumwood_1_1Traits_3_01Enum_01_4.html',1,'possumwood']]],
   ['traits_3c_20filename_20_3e',['Traits&lt; Filename &gt;',['../structpossumwood_1_1Traits_3_01Filename_01_4.html',1,'possumwood']]],
+  ['traits_3c_20filenames_20_3e',['Traits&lt; Filenames &gt;',['../structpossumwood_1_1Traits_3_01Filenames_01_4.html',1,'possumwood']]],
   ['traits_3c_20font_20_3e',['Traits&lt; Font &gt;',['../structpossumwood_1_1Traits_3_01Font_01_4.html',1,'possumwood']]],
   ['traits_3c_20fragmentshader_20_3e',['Traits&lt; FragmentShader &gt;',['../structpossumwood_1_1Traits_3_01FragmentShader_01_4.html',1,'possumwood']]],
   ['traits_3c_20geometryshader_20_3e',['Traits&lt; GeometryShader &gt;',['../structpossumwood_1_1Traits_3_01GeometryShader_01_4.html',1,'possumwood']]],
