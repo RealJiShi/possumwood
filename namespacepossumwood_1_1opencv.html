@@ -139,6 +139,8 @@ Functions</h2></td></tr>
 <tr class="separator:a9284a28013c87c69bb2784b50c8f67d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aff65c0f35b2db42795fa30e227164d27"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood_1_1opencv.html#aff65c0f35b2db42795fa30e227164d27">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="classpossumwood_1_1opencv_1_1Frame.html">Frame</a> &amp;f)</td></tr>
 <tr class="separator:aff65c0f35b2db42795fa30e227164d27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a523aa596c773ab2f1ae3d876fdb62950"><td class="memItemLeft" align="right" valign="top">std::pair&lt; cv::Mat, <a class="el" href="classpossumwood_1_1opencv_1_1Exif.html">Exif</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood_1_1opencv.html#a523aa596c773ab2f1ae3d876fdb62950">load</a> (const boost::filesystem::path &amp;filename)</td></tr>
+<tr class="separator:a523aa596c773ab2f1ae3d876fdb62950"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a49e19715fe87f0911a3148a6cee008af"><td class="memItemLeft" align="right" valign="top">const std::vector&lt; std::pair&lt; std::string, int &gt; &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood_1_1opencv.html#a49e19715fe87f0911a3148a6cee008af">laplacianKernels</a> ()</td></tr>
 <tr class="separator:a49e19715fe87f0911a3148a6cee008af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a299186614385171e0f219eecd5f9e08b"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood_1_1opencv.html#a299186614385171e0f219eecd5f9e08b">laplacian</a> (const cv::Mat &amp;src, <a class="el" href="namespacepossumwood_1_1opencv.html#a6e556a017c2ea0c1b40b5df5d564d2a4">LaplacianKernel</a> k)</td></tr>
@@ -210,6 +212,24 @@ Functions</h2></td></tr>
           <td class="memname">const std::vector&lt; std::pair&lt; std::string, int &gt; &gt; &amp; possumwood::opencv::laplacianKernels </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a523aa596c773ab2f1ae3d876fdb62950"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a523aa596c773ab2f1ae3d876fdb62950">&#9670;&nbsp;</a></span>load()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::pair&lt; cv::Mat, <a class="el" href="classpossumwood_1_1opencv_1_1Exif.html">Exif</a> &gt; possumwood::opencv::load </td>
+          <td>(</td>
+          <td class="paramtype">const boost::filesystem::path &amp;&#160;</td>
+          <td class="paramname"><em>filename</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -329,36 +349,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="aff65c0f35b2db42795fa30e227164d27"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff65c0f35b2db42795fa30e227164d27">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[5/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::ostream &amp; possumwood::opencv::operator&lt;&lt; </td>
-          <td>(</td>
-          <td class="paramtype">std::ostream &amp;&#160;</td>
-          <td class="paramname"><em>out</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="classpossumwood_1_1opencv_1_1Frame.html">Frame</a> &amp;&#160;</td>
-          <td class="paramname"><em>f</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a6ba5560f85dacef74ee55b7395891b63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6ba5560f85dacef74ee55b7395891b63">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[6/9]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ba5560f85dacef74ee55b7395891b63">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[5/9]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -386,7 +378,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a134a6dee3e1caeaccb7c0a4c3dc49c51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a134a6dee3e1caeaccb7c0a4c3dc49c51">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[7/9]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a134a6dee3e1caeaccb7c0a4c3dc49c51">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[6/9]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -401,6 +393,34 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="classpossumwood_1_1opencv_1_1LightfieldVignetting.html">LightfieldVignetting</a> &amp;&#160;</td>
+          <td class="paramname"><em>f</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aff65c0f35b2db42795fa30e227164d27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff65c0f35b2db42795fa30e227164d27">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[7/9]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; possumwood::opencv::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;&#160;</td>
+          <td class="paramname"><em>out</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classpossumwood_1_1opencv_1_1Frame.html">Frame</a> &amp;&#160;</td>
           <td class="paramname"><em>f</em>&#160;</td>
         </tr>
         <tr>
@@ -493,7 +513,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1opencv.html">opencv</a></li>
-    <li class="footer">Generated on Sun May 10 2020 12:16:51 for possumwood by
+    <li class="footer">Generated on Sun May 10 2020 14:13:08 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

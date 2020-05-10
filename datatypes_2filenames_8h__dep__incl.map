@@ -1,5 +1,6 @@
 <map id="src/libs/possumwood_sdk/datatypes/filenames.h" name="src/libs/possumwood_sdk/datatypes/filenames.h">
-<area shape="rect" id="node2" href="$datatypes_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filenames.cpp" alt="" coords="5,95,221,136"/>
-<area shape="rect" id="node3" href="$ui_2filenames_8h.html" title="src/libs/possumwood\l_sdk/ui/filenames.h" alt="" coords="246,95,405,136"/>
-<area shape="rect" id="node4" href="$ui_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filenames.cpp" alt="" coords="244,184,407,225"/>
+<area shape="rect" id="node2" href="$datatypes_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filenames.cpp" alt="" coords="5,102,221,143"/>
+<area shape="rect" id="node3" href="$ui_2filenames_8h.html" title="src/libs/possumwood\l_sdk/ui/filenames.h" alt="" coords="246,102,405,143"/>
+<area shape="rect" id="node5" href="$image__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/capture/image\l_sequence.cpp" alt="" coords="429,95,592,151"/>
+<area shape="rect" id="node4" href="$ui_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filenames.cpp" alt="" coords="244,199,407,240"/>
 </map>

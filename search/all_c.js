@@ -50,7 +50,7 @@ var searchData=
   ['literal_5fnull',['literal_null',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a4dce505310c02f95ab4d6433828f088eab7ae4c0e46d86f884677768160b26e9e',1,'possumwood::io::basic_json::lexer']]],
   ['literal_5ftrue',['literal_true',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a4dce505310c02f95ab4d6433828f088ea85cc1a37b0aaa52de40e72f0ed4e0c0d',1,'possumwood::io::basic_json::lexer']]],
   ['little_5fendianess',['little_endianess',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a49617d269b4e8eed99d320d2839674be',1,'possumwood::io::basic_json::binary_reader']]],
-  ['load',['load',['../classpossumwood_1_1Font.html#a969ef1857d02d4a7d1482621307dc3b6',1,'possumwood::Font']]],
+  ['load',['load',['../classpossumwood_1_1Font.html#a969ef1857d02d4a7d1482621307dc3b6',1,'possumwood::Font::load()'],['../namespacepossumwood_1_1opencv.html#a523aa596c773ab2f1ae3d876fdb62950',1,'possumwood::opencv::load()']]],
   ['loader_2ecpp',['loader.cpp',['../cgal_2nodes_2loader_8cpp.html',1,'(Global Namespace)'],['../polymesh_2nodes_2loader_8cpp.html',1,'(Global Namespace)']]],
   ['loadfile',['loadFile',['../classMainWindow.html#a5b465ad4bfb6726b130c4bc2d93be83e',1,'MainWindow::loadFile()'],['../classpossumwood_1_1App.html#ac6f48be4e4466552b74ec4257a34593e',1,'possumwood::App::loadFile(const boost::filesystem::path &amp;fn, bool alterCurrentFilename=true)'],['../classpossumwood_1_1App.html#a98000471b954e27deae9d14a51f4ddfb',1,'possumwood::App::loadFile(const possumwood::io::json &amp;json)']]],
   ['loadobj',['loadObj',['../namespacepossumwood_1_1polymesh.html#a3591b8ca89d5b26262213d0a6a956409',1,'possumwood::polymesh']]],
