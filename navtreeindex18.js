@@ -1,6 +1,5 @@
 var NAVTREEINDEX18 =
 {
-"render__context_8cpp.html":[3,0,0,0,2,7],
 "render__context_8h.html":[3,0,0,0,2,8],
 "render__context_8h.html#abad5ea874b73fa802c9ac0f5488bf9b5":[3,0,0,0,2,8,1],
 "render__context_8h_source.html":[3,0,0,0,2,8],
@@ -36,10 +35,11 @@ var NAVTREEINDEX18 =
 "sequence_2convert_8cpp.html":[3,0,0,2,5,0,12,4],
 "sequence_2divide_8cpp.html":[3,0,0,2,5,0,12,5],
 "sequence_2log_8cpp.html":[3,0,0,2,5,0,12,7],
-"sequence_2multiply_8cpp.html":[3,0,0,2,5,0,12,10],
-"sequence_2pow_8cpp.html":[3,0,0,2,5,0,12,13],
-"sequence_2split_8cpp.html":[3,0,0,2,5,0,12,14],
-"sequence_2subtract_8cpp.html":[3,0,0,2,5,0,12,15],
+"sequence_2mean_8cpp.html":[3,0,0,2,5,0,12,9],
+"sequence_2multiply_8cpp.html":[3,0,0,2,5,0,12,11],
+"sequence_2pow_8cpp.html":[3,0,0,2,5,0,12,15],
+"sequence_2split_8cpp.html":[3,0,0,2,5,0,12,16],
+"sequence_2subtract_8cpp.html":[3,0,0,2,5,0,12,17],
 "sequence_8cpp.html":[3,0,0,2,5,29],
 "sequence_8cpp.html#a555834aea59ddcb65f7c8998128b25d3":[3,0,0,2,5,29,0],
 "sequence_8h.html":[3,0,0,2,5,30],

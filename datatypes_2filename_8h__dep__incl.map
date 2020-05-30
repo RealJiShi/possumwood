@@ -28,9 +28,10 @@
 <area shape="rect" id="node29" href="$add__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_frame.cpp" alt="" coords="5283,95,5441,151"/>
 <area shape="rect" id="node30" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="5466,102,5677,143"/>
 <area shape="rect" id="node31" href="$get__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/get\l_frame.cpp" alt="" coords="5701,95,5857,151"/>
-<area shape="rect" id="node32" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="5882,102,6042,143"/>
-<area shape="rect" id="node33" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="6066,102,6226,143"/>
-<area shape="rect" id="node34" href="$nodes_2font_8cpp.html" title="src/plugins/render\l/nodes/font.cpp" alt="" coords="6250,102,6389,143"/>
-<area shape="rect" id="node35" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="6413,102,6617,143"/>
+<area shape="rect" id="node32" href="$offset_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/offset.cpp" alt="" coords="5881,102,6080,143"/>
+<area shape="rect" id="node33" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="6103,102,6263,143"/>
+<area shape="rect" id="node34" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="6287,102,6447,143"/>
+<area shape="rect" id="node35" href="$nodes_2font_8cpp.html" title="src/plugins/render\l/nodes/font.cpp" alt="" coords="6471,102,6610,143"/>
+<area shape="rect" id="node36" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="6635,102,6839,143"/>
 <area shape="rect" id="node4" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="239,199,397,240"/>
 </map>
