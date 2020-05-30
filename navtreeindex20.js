@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"structpossumwood_1_1Traits_3_01Font_01_4.html#aeb92b81bb69adde1f30b56ec3f735c3f":[2,0,5,78,0],
 "structpossumwood_1_1Traits_3_01FragmentShader_01_4.html":[2,0,5,79],
 "structpossumwood_1_1Traits_3_01FragmentShader_01_4.html#a5c69aaa1d79e74821d7566ed3dab4a59":[2,0,5,79,0],
 "structpossumwood_1_1Traits_3_01GeometryShader_01_4.html":[2,0,5,80],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "structpossumwood_1_1lua_1_1NullModule.html#a52d8f2f595a518104ea8c7d7d31528c3":[2,0,5,3,3,1],
 "structpossumwood_1_1lua_1_1NullModule.html#a532ccea6f1a5b8b43c46625a38118eea":[2,0,5,3,3,0],
 "structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html":[2,0,5,3,5,1],
-"structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a0ddc25c869e79928f97bd8b9ec4ec8db":[2,0,5,3,5,1,5],
-"structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a29cb13f2bfd23e29086c2812fb1b0eac":[2,0,5,3,5,1,7]
+"structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a0ddc25c869e79928f97bd8b9ec4ec8db":[2,0,5,3,5,1,5]
 };

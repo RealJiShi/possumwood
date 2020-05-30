@@ -401,7 +401,7 @@ var searchData=
   ['mode',['Mode',['../confidence_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911',1,'Mode():&#160;confidence.cpp'],['../st__graphcut_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911',1,'Mode():&#160;st_graphcut.cpp'],['../pixel__normalize_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911',1,'Mode():&#160;pixel_normalize.cpp'],['../superpixels_2mean_8cpp.html#a46c8a310cf4c094f8c80e1cb8dc1f911',1,'Mode():&#160;mean.cpp']]],
   ['models',['models',['../structopenanim_1_1RigData.html#ab6224d771f4b58fe2716fe4c86957dd9',1,'openanim::RigData']]],
   ['modelview',['modelview',['../classpossumwood_1_1ViewportState.html#aa34783ab3e705014882108f7ad3d86cd',1,'possumwood::ViewportState']]],
-  ['modes',['Modes',['../mosaic_8cpp.html#a5ba261125d0e6e60801792a10232cc09',1,'mosaic.cpp']]],
+  ['modes',['Modes',['../mosaic_8cpp.html#a5ba261125d0e6e60801792a10232cc09',1,'Modes():&#160;mosaic.cpp'],['../offset_8cpp.html#a5ba261125d0e6e60801792a10232cc09',1,'Modes():&#160;offset.cpp']]],
   ['module',['Module',['../structpossumwood_1_1images_1_1Module.html',1,'possumwood::images']]],
   ['module_2ecpp',['module.cpp',['../lua_2module_8cpp.html',1,'(Global Namespace)'],['../nodes_2lua_2module_8cpp.html',1,'(Global Namespace)']]],
   ['module_2eh',['module.h',['../module_8h.html',1,'']]],

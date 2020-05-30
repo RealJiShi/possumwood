@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"structdependency__graph_1_1NodesIterator_1_1Item.html#a568fbc6729e5815d34540815ef05589a":[2,0,1,20,0,0],
 "structdependency__graph_1_1NodesIterator_1_1Item.html#aa8f6547f823f2f70f65b4cf6a9de8875":[2,0,1,20,0,3],
 "structdependency__graph_1_1NodesIterator_1_1Item.html#ab4c9a7aad80ebd49ab9193d2496d3c31":[2,0,1,20,0,2],
 "structdependency__graph_1_1Nodes_1_1Compare.html":[2,0,1,19,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "structpossumwood_1_1Traits_3_01Filenames_01_4.html":[2,0,5,77],
 "structpossumwood_1_1Traits_3_01Filenames_01_4.html#ad652088c2fa5a02568a8ed8c69ce4260":[2,0,5,77,1],
 "structpossumwood_1_1Traits_3_01Filenames_01_4.html#aee84650402dc2048de4e406c1f8403d5":[2,0,5,77,0],
-"structpossumwood_1_1Traits_3_01Font_01_4.html":[2,0,5,78],
-"structpossumwood_1_1Traits_3_01Font_01_4.html#aeb92b81bb69adde1f30b56ec3f735c3f":[2,0,5,78,0]
+"structpossumwood_1_1Traits_3_01Font_01_4.html":[2,0,5,78]
 };

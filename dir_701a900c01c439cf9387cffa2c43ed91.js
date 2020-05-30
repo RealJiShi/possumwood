@@ -12,7 +12,7 @@ var dir_701a900c01c439cf9387cffa2c43ed91 =
     [ "mean.cpp", "sequence_2mean_8cpp.html", null ],
     [ "mosaic.cpp", "mosaic_8cpp.html", "mosaic_8cpp" ],
     [ "multiply.cpp", "sequence_2multiply_8cpp.html", null ],
-    [ "offset.cpp", "offset_8cpp.html", null ],
+    [ "offset.cpp", "offset_8cpp.html", "offset_8cpp" ],
     [ "pick_pixel.cpp", "pick__pixel_8cpp.html", null ],
     [ "pixel_normalize.cpp", "pixel__normalize_8cpp.html", "pixel__normalize_8cpp" ],
     [ "pow.cpp", "sequence_2pow_8cpp.html", null ],

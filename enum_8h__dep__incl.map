@@ -37,11 +37,12 @@
 <area shape="rect" id="node38" href="$resize_8cpp.html" title="src/plugins/opencv\l/nodes/resize.cpp" alt="" coords="7205,102,7347,143"/>
 <area shape="rect" id="node39" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="7372,102,7583,143"/>
 <area shape="rect" id="node40" href="$mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/mosaic.cpp" alt="" coords="7607,102,7817,143"/>
-<area shape="rect" id="node41" href="$pixel__normalize_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pixel\l_normalize.cpp" alt="" coords="7841,95,8007,151"/>
-<area shape="rect" id="node42" href="$superpixels_2mean_8cpp.html" title="src/plugins/opencv\l/nodes/superpixels/mean.cpp" alt="" coords="8031,102,8243,143"/>
-<area shape="rect" id="node43" href="$slic_8cpp.html" title="src/plugins/opencv\l/nodes/superpixels/slic.cpp" alt="" coords="8268,102,8465,143"/>
-<area shape="rect" id="node44" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="8490,102,8633,143"/>
-<area shape="rect" id="node45" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="8657,102,8855,143"/>
-<area shape="rect" id="node46" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="8879,102,9083,143"/>
+<area shape="rect" id="node41" href="$offset_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/offset.cpp" alt="" coords="7841,102,8039,143"/>
+<area shape="rect" id="node42" href="$pixel__normalize_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pixel\l_normalize.cpp" alt="" coords="8063,95,8230,151"/>
+<area shape="rect" id="node43" href="$superpixels_2mean_8cpp.html" title="src/plugins/opencv\l/nodes/superpixels/mean.cpp" alt="" coords="8254,102,8466,143"/>
+<area shape="rect" id="node44" href="$slic_8cpp.html" title="src/plugins/opencv\l/nodes/superpixels/slic.cpp" alt="" coords="8491,102,8688,143"/>
+<area shape="rect" id="node45" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="8713,102,8855,143"/>
+<area shape="rect" id="node46" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="8880,102,9077,143"/>
+<area shape="rect" id="node47" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="9102,102,9306,143"/>
 <area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="219,199,378,240"/>
 </map>
