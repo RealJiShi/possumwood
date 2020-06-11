@@ -27,5 +27,7 @@
 <area shape="rect" id="node27" href="$sequence_2pow_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/pow.cpp" alt="" coords="5286,102,5474,143"/>
 <area shape="rect" id="node28" href="$sequence_2split_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/split.cpp" alt="" coords="5498,102,5689,143"/>
 <area shape="rect" id="node29" href="$sequence_2subtract_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/subtract.cpp" alt="" coords="5713,102,5927,143"/>
-<area shape="rect" id="node30" href="$sequence_8cpp.html" title="src/plugins/opencv\l/sequence.cpp" alt="" coords="5951,102,6094,143"/>
+<area shape="rect" id="node30" href="$sequence__metadata_8cpp.html" title="src/plugins/opencv\l/nodes/sequence_metadata.cpp" alt="" coords="5951,102,6179,143"/>
+<area shape="rect" id="node31" href="$texture__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/texture_sequence.cpp" alt="" coords="6203,102,6415,143"/>
+<area shape="rect" id="node32" href="$sequence_8cpp.html" title="src/plugins/opencv\l/sequence.cpp" alt="" coords="6439,102,6582,143"/>
 </map>

@@ -124,6 +124,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a019716c8614f7e51883fc187209fc83c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6a2c7849204f3337d9edf7eb6f88ba6b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a6a2c7849204f3337d9edf7eb6f88ba6b">addTexture</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const float *data, std::size_t width, std::size_t height, const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Texture::Format</a> &amp;format=<a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Texture::Format</a>())</td></tr>
 <tr class="separator:a6a2c7849204f3337d9edf7eb6f88ba6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa983c6e060e3cecb46a9dbcfeb1fa310"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#aa983c6e060e3cecb46a9dbcfeb1fa310">addTextureArray</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::vector&lt; const unsigned char *&gt; data, std::size_t width, std::size_t height, const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Texture::Format</a> &amp;format=<a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Texture::Format</a>())</td></tr>
+<tr class="separator:aa983c6e060e3cecb46a9dbcfeb1fa310"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39f42713a0a47512e1ac80ee130dd1ae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1State.html">dependency_graph::State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a39f42713a0a47512e1ac80ee130dd1ae">use</a> (GLuint programId, const <a class="el" href="classpossumwood_1_1ViewportState.html">ViewportState</a> &amp;) const</td></tr>
 <tr class="separator:a39f42713a0a47512e1ac80ee130dd1ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a863a48529170c5ebf3634cee9515551e"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a863a48529170c5ebf3634cee9515551e">size</a> () const</td></tr>
@@ -255,6 +257,52 @@ Friends</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const float *&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>width</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>height</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Texture::Format</a> &amp;&#160;</td>
+          <td class="paramname"><em>format</em> = <code><a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Texture::Format</a>()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa983c6e060e3cecb46a9dbcfeb1fa310"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa983c6e060e3cecb46a9dbcfeb1fa310">&#9670;&nbsp;</a></span>addTextureArray()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void possumwood::Uniforms::addTextureArray </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; const unsigned char *&gt;&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
@@ -544,7 +592,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Uniforms.html">Uniforms</a></li>
-    <li class="footer">Generated on Sat May 30 2020 23:27:37 for possumwood by
+    <li class="footer">Generated on Thu Jun 11 2020 21:34:48 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

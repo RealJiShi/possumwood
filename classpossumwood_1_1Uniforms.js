@@ -12,6 +12,7 @@ var classpossumwood_1_1Uniforms =
     [ "Uniforms", "classpossumwood_1_1Uniforms.html#aea450ebb88b4f15889de3be76ee6fa8c", null ],
     [ "addTexture", "classpossumwood_1_1Uniforms.html#a019716c8614f7e51883fc187209fc83c", null ],
     [ "addTexture", "classpossumwood_1_1Uniforms.html#a6a2c7849204f3337d9edf7eb6f88ba6b", null ],
+    [ "addTextureArray", "classpossumwood_1_1Uniforms.html#aa983c6e060e3cecb46a9dbcfeb1fa310", null ],
     [ "addUniform", "classpossumwood_1_1Uniforms.html#a1d9cbaaaa03f61e9553e7c952a7cad4b", null ],
     [ "empty", "classpossumwood_1_1Uniforms.html#a12aa4bedd62a6d7fae52690d2fc55304", null ],
     [ "glslDeclaration", "classpossumwood_1_1Uniforms.html#ab0d6f392d0cdec52fdd9fc69cf45d73c", null ],

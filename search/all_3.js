@@ -47,6 +47,7 @@ var searchData=
   ['channel_2eh',['channel.h',['../channel_8h.html',1,'']]],
   ['channel_5forder',['channel_order',['../structpossumwood_1_1Texture_1_1Format.html#ad1c93a7904bb33db3b3f2f8ff0c40d01',1,'possumwood::Texture::Format']]],
   ['channelorder',['ChannelOrder',['../classpossumwood_1_1Texture.html#a6cb3d83139fd95cb61c1aedf8e972018',1,'possumwood::Texture']]],
+  ['channels',['channels',['../classpossumwood_1_1opencv_1_1Sequence.html#a89519143f04fdaffd89e09f8f654267b',1,'possumwood::opencv::Sequence']]],
   ['chars_5fread',['chars_read',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a4da7569d64a95f1ea7be05907f1b8cef',1,'possumwood::io::basic_json::binary_reader::chars_read()'],['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#ae9991063f9d49de596c21d074d85bac1',1,'possumwood::io::basic_json::lexer::chars_read()']]],
   ['check_5feof',['check_eof',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a7223d02db2f2d6f826ef4273834f9cda',1,'possumwood::io::basic_json::binary_reader']]],
   ['checkdirtyports',['checkDirtyPorts',['../arithmetic_8cpp.html#ad2fcc77c3c00b13d80da2eeda36bdc44',1,'arithmetic.cpp']]],

@@ -1,6 +1,6 @@
 <map id="src/plugins/opencv/nodes" name="src/plugins/opencv/nodes">
 <area shape="rect" id="node17" href="dir_7b324b578900626a6605486b3bab59bb.html" title="render" alt="" coords="1591,93,1663,141"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000023_000015.html" title="1" alt="" coords="1614,66,1623,80"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000023_000015.html" title="2" alt="" coords="1614,66,1623,80"/>
 <area shape="rect" id="node2" href="dir_21d7e3261d0e2722f47068ce1c95f49c.html" title="bitwise" alt="" coords="37,93,109,141"/>
 <area shape="rect" id="node16" href="dir_87a455bccb09a92130c26a11a880c98a.html" title="libs" alt="" coords="743,285,815,333"/>
 <area shape="rect" id="edge3-headlabel" href="dir_000063_000012.html" title="8" alt="" coords="720,289,730,303"/>

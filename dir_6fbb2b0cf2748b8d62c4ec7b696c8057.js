@@ -34,6 +34,8 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "metadata.cpp", "plugins_2opencv_2nodes_2metadata_8cpp.html", null ],
     [ "normalize.cpp", "normalize_8cpp.html", null ],
     [ "resize.cpp", "resize_8cpp.html", null ],
+    [ "sequence_metadata.cpp", "sequence__metadata_8cpp.html", null ],
     [ "split.cpp", "split_8cpp.html", null ],
-    [ "texture.cpp", "opencv_2nodes_2texture_8cpp.html", null ]
+    [ "texture.cpp", "opencv_2nodes_2texture_8cpp.html", null ],
+    [ "texture_sequence.cpp", "texture__sequence_8cpp.html", null ]
 ];

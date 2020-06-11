@@ -127,6 +127,8 @@ Public Types</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aaba54cc5078e2231d9722211f76ffa6b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Texture.html#aaba54cc5078e2231d9722211f76ffa6b">Texture</a> (const unsigned char *data, std::size_t width, std::size_t height, const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a> &amp;format=<a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a>())</td></tr>
 <tr class="separator:aaba54cc5078e2231d9722211f76ffa6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafdcd6fe863ec05f21a34bfad6adcaef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Texture.html#aafdcd6fe863ec05f21a34bfad6adcaef">Texture</a> (const std::vector&lt; const unsigned char *&gt; data, std::size_t width, std::size_t height, const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a> &amp;format=<a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a>())</td></tr>
+<tr class="separator:aafdcd6fe863ec05f21a34bfad6adcaef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a817eccc14f679651c1880b4339e59dff"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Texture.html#a817eccc14f679651c1880b4339e59dff">Texture</a> (const float *data, std::size_t width, std::size_t height, const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a> &amp;format=<a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a>())</td></tr>
 <tr class="separator:a817eccc14f679651c1880b4339e59dff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad189a3d175255a5ad687af33ef9e4532"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Texture.html#ad189a3d175255a5ad687af33ef9e4532">~Texture</a> ()</td></tr>
@@ -140,6 +142,8 @@ Public Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a7edaf35fd7aa626ca68a3eec55bdb2b3"><td class="memItemLeft" align="right" valign="top">GLuint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Texture.html#a7edaf35fd7aa626ca68a3eec55bdb2b3">m_id</a></td></tr>
 <tr class="separator:a7edaf35fd7aa626ca68a3eec55bdb2b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2819abb95c28ef2567593c9d4c4aab54"><td class="memItemLeft" align="right" valign="top">GLint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Texture.html#a2819abb95c28ef2567593c9d4c4aab54">m_bindType</a></td></tr>
+<tr class="separator:a2819abb95c28ef2567593c9d4c4aab54"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Enumeration Documentation</h2>
 <a id="a6cb3d83139fd95cb61c1aedf8e972018"></a>
@@ -181,7 +185,7 @@ Private Attributes</h2></td></tr>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="aaba54cc5078e2231d9722211f76ffa6b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaba54cc5078e2231d9722211f76ffa6b">&#9670;&nbsp;</a></span>Texture() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aaba54cc5078e2231d9722211f76ffa6b">&#9670;&nbsp;</a></span>Texture() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -220,8 +224,48 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="aafdcd6fe863ec05f21a34bfad6adcaef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafdcd6fe863ec05f21a34bfad6adcaef">&#9670;&nbsp;</a></span>Texture() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">possumwood::Texture::Texture </td>
+          <td>(</td>
+          <td class="paramtype">const std::vector&lt; const unsigned char *&gt;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>width</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>height</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a> &amp;&#160;</td>
+          <td class="paramname"><em>format</em> = <code><a class="el" href="structpossumwood_1_1Texture_1_1Format.html">Format</a>()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a817eccc14f679651c1880b4339e59dff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a817eccc14f679651c1880b4339e59dff">&#9670;&nbsp;</a></span>Texture() <span class="overload">[2/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a817eccc14f679651c1880b4339e59dff">&#9670;&nbsp;</a></span>Texture() <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -324,6 +368,28 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a id="a2819abb95c28ef2567593c9d4c4aab54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2819abb95c28ef2567593c9d4c4aab54">&#9670;&nbsp;</a></span>m_bindType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">GLint possumwood::Texture::m_bindType</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a7edaf35fd7aa626ca68a3eec55bdb2b3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7edaf35fd7aa626ca68a3eec55bdb2b3">&#9670;&nbsp;</a></span>m_id</h2>
 
@@ -356,7 +422,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Texture.html">Texture</a></li>
-    <li class="footer">Generated on Sat May 30 2020 23:27:37 for possumwood by
+    <li class="footer">Generated on Thu Jun 11 2020 21:34:48 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

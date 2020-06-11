@@ -20,6 +20,7 @@ var searchData=
   ['changemetadata',['changeMetadata',['../namespacepossumwood_1_1actions.html#af6cf2362c07e7045af0a88353a639900',1,'possumwood::actions']]],
   ['changemetadataaction',['changeMetadataAction',['../namespacepossumwood_1_1actions_1_1detail.html#a9203271881f1f95c7aa3fb51c4e61472',1,'possumwood::actions::detail']]],
   ['channel',['Channel',['../classanim_1_1constraints_1_1Channel.html#a6edecbb2fbe71ee1da632a83efa2cb4f',1,'anim::constraints::Channel']]],
+  ['channels',['channels',['../classpossumwood_1_1opencv_1_1Sequence.html#a89519143f04fdaffd89e09f8f654267b',1,'possumwood::opencv::Sequence']]],
   ['check_5feof',['check_eof',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a7223d02db2f2d6f826ef4273834f9cda',1,'possumwood::io::basic_json::binary_reader']]],
   ['checkdirtyports',['checkDirtyPorts',['../arithmetic_8cpp.html#ad2fcc77c3c00b13d80da2eeda36bdc44',1,'arithmetic.cpp']]],
   ['checkempty',['checkEmpty',['../classlightfields_1_1ActiveQueue.html#af2152e98a99ca258d4e9a869d87d02ca',1,'lightfields::ActiveQueue']]],

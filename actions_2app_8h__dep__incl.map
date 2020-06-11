@@ -46,6 +46,6 @@
 <area shape="rect" id="node43" href="$normal_8cpp.html" title="src/plugins/opencv\l/nodes/random/normal.cpp" alt="" coords="6467,177,6663,218"/>
 <area shape="rect" id="node44" href="$uniform_8cpp.html" title="src/plugins/opencv\l/nodes/random/uniform.cpp" alt="" coords="6687,177,6888,218"/>
 <area shape="rect" id="node45" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="6912,177,7055,218"/>
-<area shape="rect" id="node46" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="7079,177,7253,218"/>
-<area shape="rect" id="node47" href="$datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="7277,177,7457,218"/>
+<area shape="rect" id="node46" href="$texture__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/texture_sequence.cpp" alt="" coords="7079,177,7291,218"/>
+<area shape="rect" id="node47" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="7315,177,7489,218"/>
 </map>

@@ -1,5 +1,8 @@
 var NAVTREEINDEX11 =
 {
+"classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a1d3bdbe3370d3c419362a2ec757633e0":[2,0,5,2,2,2,1],
+"classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a3d7b1820afe40ba3c1ed45712902d709":[2,0,5,2,2,2,0],
+"classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a48cef59560b65f477486cefe1c052dba":[2,0,5,2,2,2,3],
 "classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a4dce3a5233e867bd6261a8d2d86f9545":[2,0,5,2,2,2,10],
 "classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a553ac0f84bf40f76d1439f1f8f842249":[2,0,5,2,2,2,4],
 "classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a570b7d7dfa94cb5d93e8a38f1129ceec":[2,0,5,2,2,2,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX11 =
 "classpossumwood_1_1io_1_1detail_1_1exception.html#a2ca6e7897cfa37d29332a535b5baf053":[2,0,5,2,0,3,3],
 "classpossumwood_1_1io_1_1detail_1_1exception.html#a592fcea14e785a78d0523cf0af9f71e3":[2,0,5,2,0,3,4],
 "classpossumwood_1_1io_1_1detail_1_1exception.html#a7a53096cdaa95376490edc9c3ca4c45e":[2,0,5,2,0,3,2],
-"classpossumwood_1_1io_1_1detail_1_1exception.html#a835d5db1bfcfe14f0c358b1c225264a2":[2,0,5,2,0,3,0],
-"classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html":[2,0,5,2,0,16],
-"classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html#a3a7a72eb9767983025b98ddbed0cfd59":[2,0,5,2,0,16,1],
-"classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html#a9b72edb8f6ffa8fe12f5a24416384840":[2,0,5,2,0,16,0]
+"classpossumwood_1_1io_1_1detail_1_1exception.html#a835d5db1bfcfe14f0c358b1c225264a2":[2,0,5,2,0,3,0]
 };
