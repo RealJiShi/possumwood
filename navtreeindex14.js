@@ -199,9 +199,6 @@ var NAVTREEINDEX14 =
 "drawable_8cpp.html":[3,0,0,1,3,14],
 "drawable_8h.html":[3,0,0,1,3,15],
 "drawable_8h_source.html":[3,0,0,1,3,15],
-"dummy_8cpp.html":[3,0,0,2,3,2],
-"dummy_8cpp.html#abdc1c66a57eb903c930c15fda5801994":[3,0,0,2,3,2,0],
-"dummy_8cpp.html#abf0d253a05aa095d355c7f4ed8d9911f":[3,0,0,2,3,2,1],
 "edge_8cpp.html":[3,0,0,1,4,2],
 "edge_8h.html":[3,0,0,1,4,3],
 "edge_8h_source.html":[3,0,0,1,4,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX14 =
 "factory_8h_source.html":[3,0,0,1,3,2,1],
 "factory_8inl.html":[3,0,0,1,3,2,2],
 "files.html":[3,0],
-"filter2d_8cpp.html":[3,0,0,2,5,0,6,2]
+"filter2d_8cpp.html":[3,0,0,2,5,0,6,2],
+"filter_8cpp.html":[3,0,0,2,0,0,10],
+"filter_8h.html":[3,0,0,2,0,0,11],
+"filter_8h_source.html":[3,0,0,2,0,0,11]
 };

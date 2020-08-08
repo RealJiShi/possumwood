@@ -58,14 +58,14 @@ var NAVTREEINDEX =
 "classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html",
 "classpossumwood_1_1polymesh_1_1Array.html#a387bc9100bdf98d10002b49e53182eeb",
 "connected__edge_8h.html",
-"filter_8cpp.html",
-"json_8h.html#a6c274f6db2e65c1b66c7d41b06ad690f",
-"namespacemembers_eval.html",
-"render_2datatypes_2vertex__data_8cpp.html#a8259578191e38d5cb38d65b06c4f1d56",
-"structdependency__graph_1_1MetadataRegister_1_1Compare.html#a09e2cd79b6fc2c2061dfb1ecfd58f014",
-"structpossumwood_1_1Traits_3_01Filename_01_4.html#a7fd8da4f9c9b914d743c680a0e54338c",
-"structpossumwood_1_1lua_1_1Inject.html#af7f92b18b94a39eac3530400f8b1cf83",
-"viewport_8h_source.html"
+"filter__median_8cpp.html",
+"json_8h.html#a765a7958f17c01ed98c8caf3a445d05b",
+"namespacemembers_vars.html",
+"render_2nodes_2vertex__data_2cgal_8cpp.html",
+"structdependency__graph_1_1MetadataRegister_1_1Compare.html#aeca187c11d1ee20affceb6f8e31291e0",
+"structpossumwood_1_1Traits_3_01Filenames_01_4.html#ad652088c2fa5a02568a8ed8c69ce4260",
+"structpossumwood_1_1lua_1_1NullModule.html#a532ccea6f1a5b8b43c46625a38118eea",
+"viewport__state_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

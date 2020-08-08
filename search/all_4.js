@@ -90,7 +90,6 @@ var searchData=
   ['drawfit',['drawFit',['../classlightfields_1_1LensletGraph.html#a5839df2f90dda4b94de62edb5326f8e8',1,'lightfields::LensletGraph']]],
   ['drawpattern_2ecpp',['drawPattern.cpp',['../drawPattern_8cpp.html',1,'']]],
   ['drawstate',['drawState',['../classpossumwood_1_1Drawable.html#aca3ff2534fdeb6ce66530795eb6550a5',1,'possumwood::Drawable']]],
-  ['dummy_2ecpp',['dummy.cpp',['../dummy_8cpp.html',1,'']]],
   ['dump',['dump',['../classpossumwood_1_1io_1_1basic__json.html#a40f23bc4b9b4a950518728aa63dfbef5',1,'possumwood::io::basic_json::dump()'],['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#a640ec6571690f22c31390c46795afa6b',1,'possumwood::io::basic_json::serializer::dump()']]],
   ['dump_5fescaped',['dump_escaped',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#ad69f90e0213fff8bad1048db5de17697',1,'possumwood::io::basic_json::serializer']]],
   ['dump_5ffloat',['dump_float',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#ab6f08c789eee3caa6e97aa1b51583c4e',1,'possumwood::io::basic_json::serializer']]],

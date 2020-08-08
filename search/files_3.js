@@ -29,6 +29,5 @@ var searchData=
   ['drawable_2ecpp',['drawable.cpp',['../drawable_8cpp.html',1,'']]],
   ['drawable_2eh',['drawable.h',['../drawable_8h.html',1,'']]],
   ['drawfeatures_2ecpp',['drawFeatures.cpp',['../drawFeatures_8cpp.html',1,'']]],
-  ['drawpattern_2ecpp',['drawPattern.cpp',['../drawPattern_8cpp.html',1,'']]],
-  ['dummy_2ecpp',['dummy.cpp',['../dummy_8cpp.html',1,'']]]
+  ['drawpattern_2ecpp',['drawPattern.cpp',['../drawPattern_8cpp.html',1,'']]]
 ];
